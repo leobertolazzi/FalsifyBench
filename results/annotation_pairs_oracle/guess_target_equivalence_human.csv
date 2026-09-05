@@ -1,0 +1,1133 @@
+model,game_id,turn_number,guess,target_property,judgment
+MiniMaxAI_MiniMax-M2.5,62,16,Animals,animal,yes
+MiniMaxAI_MiniMax-M2.5,357,5,animal,animal,yes
+MiniMaxAI_MiniMax-M2.5,546,18,animal,animal,yes
+MiniMaxAI_MiniMax-M2.5,658,10,seafood commonly used in Japanese cuisine,animal,no
+MiniMaxAI_MiniMax-M2.5,819,15,animal names,animal,no
+MiniMaxAI_MiniMax-M2.5,1066,13,wild animal,animal,no
+MiniMaxAI_MiniMax-M2.5,1136,10,animal,animal,yes
+MiniMaxAI_MiniMax-M2.5,1154,7,animals,animal,yes
+MiniMaxAI_MiniMax-M2.5,1261,8,animal,animal,yes
+MiniMaxAI_MiniMax-M2.5,1551,9,anatomical terms,body_part,no
+MiniMaxAI_MiniMax-M2.5,1725,16,visible animals,animal,no
+MiniMaxAI_MiniMax-M2.5,1943,15,Shark,animal,no
+MiniMaxAI_MiniMax-M2.5,2806,7,animal,animal,yes
+MiniMaxAI_MiniMax-M2.5,2971,10,animals,animal,yes
+MiniMaxAI_MiniMax-M2.5,3172,17,living things that are animals,animal,yes
+MiniMaxAI_MiniMax-M2.5,3192,7,is an animal,animal,yes
+MiniMaxAI_MiniMax-M2.5,3411,9,is an animal,animal,yes
+MiniMaxAI_MiniMax-M2.5,3743,6,animal,animal,yes
+MiniMaxAI_MiniMax-M2.5,3947,6,bird,animal,no
+MiniMaxAI_MiniMax-M2.5,3966,8,is an animal,animal,yes
+MiniMaxAI_MiniMax-M2.5,4020,7,animal body parts,body_part,yes
+MiniMaxAI_MiniMax-M2.5,4032,12,respiratory organs in animals,body_part,no
+MiniMaxAI_MiniMax-M2.5,4288,20,solid internal body parts,body_part,no
+MiniMaxAI_MiniMax-M2.5,4313,5,bone,body_part,no
+MiniMaxAI_MiniMax-M2.5,4348,6,body parts,body_part,yes
+MiniMaxAI_MiniMax-M2.5,4368,11,animal body parts,body_part,yes
+MiniMaxAI_MiniMax-M2.5,4450,5,body parts,body_part,yes
+MiniMaxAI_MiniMax-M2.5,4458,7,body parts,body_part,yes
+MiniMaxAI_MiniMax-M2.5,4465,6,body parts,body_part,yes
+MiniMaxAI_MiniMax-M2.5,4779,18,man-made object,artifact,yes
+MiniMaxAI_MiniMax-M2.5,5184,14,man-made objects,artifact,yes
+MiniMaxAI_MiniMax-M2.5,5224,6,measuring instruments,artifact,no
+MiniMaxAI_MiniMax-M2.5,5265,16,man-made objects,artifact,yes
+MiniMaxAI_MiniMax-M2.5,5506,20,technology terms,artifact,no
+MiniMaxAI_MiniMax-M2.5,5516,7,electrical or electronic devices,artifact,no
+MiniMaxAI_MiniMax-M2.5,5652,5,man-made objects,artifact,yes
+MiniMaxAI_MiniMax-M2.5,5653,17,man-made objects,artifact,yes
+MiniMaxAI_MiniMax-M2.5,5757,10,Tools,artifact,no
+MiniMaxAI_MiniMax-M2.5,6359,20,containers,artifact,no
+MiniMaxAI_MiniMax-M2.5,6380,9,container,artifact,no
+MiniMaxAI_MiniMax-M2.5,6396,9,man-made,artifact,yes
+MiniMaxAI_MiniMax-M2.5,6543,12,Vehicle types ending in ship or craft,artifact,no
+MiniMaxAI_MiniMax-M2.5,6575,20,man-made objects,artifact,yes
+MiniMaxAI_MiniMax-M2.5,6606,15,warship,artifact,no
+MiniMaxAI_MiniMax-M2.5,6607,13,"words ending with ""ship""",artifact,no
+MiniMaxAI_MiniMax-M2.5,9334,16,Anatomical body parts,body_part,yes
+MiniMaxAI_MiniMax-M2.5,9433,12,parts of the human body,body_part,yes
+MiniMaxAI_MiniMax-M2.5,9457,12,Anatomical terms that do NOT contain the English word 'muscle' in their name,body_part,no
+MiniMaxAI_MiniMax-M2.5,9596,8,anatomy,body_part,no
+MiniMaxAI_MiniMax-M2.5,9616,13,sensory receptors,body_part,no
+MiniMaxAI_MiniMax-M2.5,9650,11,mucous membrane,body_part,no
+MiniMaxAI_MiniMax-M2.5,9670,16,Named anatomical structures in the human body,body_part,yes
+MiniMaxAI_MiniMax-M2.5,9949,12,Anatomy,body_part,no
+MiniMaxAI_MiniMax-M2.5,10074,9,Specific named anatomical structures,body_part,yes
+MiniMaxAI_MiniMax-M2.5,10237,13,French culinary terms,food,no
+MiniMaxAI_MiniMax-M2.5,10529,16,food items containing calories or sugar,food,no
+MiniMaxAI_MiniMax-M2.5,10838,10,food,food,yes
+MiniMaxAI_MiniMax-M2.5,10981,12,food,food,yes
+MiniMaxAI_MiniMax-M2.5,10986,10,words that can also be used as color names,food,no
+MiniMaxAI_MiniMax-M2.5,10994,11,desserts,food,no
+MiniMaxAI_MiniMax-M2.5,11006,7,desserts,food,no
+MiniMaxAI_MiniMax-M2.5,11016,17,frozen,food,no
+MiniMaxAI_MiniMax-M2.5,11059,16,British and American baked/cooked desserts,food,no
+MiniMaxAI_MiniMax-M2.5,11199,17,food,food,yes
+MiniMaxAI_MiniMax-M2.5,11263,15,foods containing the letter A,food,no
+MiniMaxAI_MiniMax-M2.5,11376,18,foods that are not beverages,food,no
+MiniMaxAI_MiniMax-M2.5,11384,19,sweets,food,no
+MiniMaxAI_MiniMax-M2.5,11459,7,spreads or condiments,food,no
+MiniMaxAI_MiniMax-M2.5,11697,12,main dish,food,no
+MiniMaxAI_MiniMax-M2.5,11921,11,edible,food,yes
+MiniMaxAI_MiniMax-M2.5,12095,11,food,food,yes
+MiniMaxAI_MiniMax-M2.5,15245,9,plants,plant,yes
+MiniMaxAI_MiniMax-M2.5,15310,18,tropical plants,plant,no
+MiniMaxAI_MiniMax-M2.5,15508,19,plants with color words in their names,plant,no
+MiniMaxAI_MiniMax-M2.5,15598,7,tree,plant,no
+MiniMaxAI_MiniMax-M2.5,15611,18,tree,plant,no
+MiniMaxAI_MiniMax-M2.5,15613,16,Fruit,plant,no
+MiniMaxAI_MiniMax-M2.5,15790,17,Christmas plants,plant,no
+MiniMaxAI_MiniMax-M2.5,16096,14,plants,plant,yes
+MiniMaxAI_MiniMax-M2.5,16120,19,plants whose common name contains a color term or geographic modifier,plant,no
+MiniMaxAI_MiniMax-M2.5,16152,18,seed plants,plant,no
+MiniMaxAI_MiniMax-M2.5,16249,8,plants,plant,yes
+MiniMaxAI_MiniMax-M2.5,16414,6,is a plant,plant,yes
+MiniMaxAI_MiniMax-M2.5,16467,10,plant,plant,yes
+MiniMaxAI_MiniMax-M2.5,16469,19,plant,plant,yes
+MiniMaxAI_MiniMax-M2.5,16864,12,plant,plant,yes
+MiniMaxAI_MiniMax-M2.5,17047,5,plant,plant,yes
+MiniMaxAI_MiniMax-M2.5,17248,8,plants,plant,yes
+MiniMaxAI_MiniMax-M2.5,17257,15,wild plants,plant,no
+MiniMaxAI_MiniMax-M2.5,17361,16,seed-producing organisms,plant,no
+MiniMaxAI_MiniMax-M2.5,17775,16,plant,plant,yes
+Qwen_Qwen3.5-9B,62,4,animals,animal,yes
+Qwen_Qwen3.5-9B,357,5,animals,animal,yes
+Qwen_Qwen3.5-9B,546,8,animal,animal,yes
+Qwen_Qwen3.5-9B,658,9,animals,animal,yes
+Qwen_Qwen3.5-9B,819,20,fish and shellfish,animal,no
+Qwen_Qwen3.5-9B,1066,7,animals,animal,yes
+Qwen_Qwen3.5-9B,1154,5,vertebrates,animal,no
+Qwen_Qwen3.5-9B,1261,12,real animal species,animal,yes
+Qwen_Qwen3.5-9B,1551,19,"Specific, formally named human anatomical structures (excluding body regions, categories, or descriptive adjectives)",body_part,no
+Qwen_Qwen3.5-9B,1725,16,animals,animal,yes
+Qwen_Qwen3.5-9B,1943,19,is an animal that has a complex nervous system (brain),animal,no
+Qwen_Qwen3.5-9B,2806,5,animal,animal,yes
+Qwen_Qwen3.5-9B,2971,9,animal,animal,yes
+Qwen_Qwen3.5-9B,3172,17,vertebrates,animal,no
+Qwen_Qwen3.5-9B,3411,9,species of birds,animal,no
+Qwen_Qwen3.5-9B,3743,9,animal,animal,yes
+Qwen_Qwen3.5-9B,3852,6,animals,animal,yes
+Qwen_Qwen3.5-9B,3947,2,raptor species,animal,no
+Qwen_Qwen3.5-9B,3966,9,animal,animal,yes
+Qwen_Qwen3.5-9B,4020,7,animal organs,body_part,no
+Qwen_Qwen3.5-9B,4032,3,respiratory structures in animals,body_part,no
+Qwen_Qwen3.5-9B,4288,6,anatomical structures of the human body,body_part,yes
+Qwen_Qwen3.5-9B,4313,13,standard anatomical biological terminology,body_part,no
+Qwen_Qwen3.5-9B,4348,15,formal anatomical terms,body_part,no
+Qwen_Qwen3.5-9B,4368,11,Properly named anatomical structures,body_part,no
+Qwen_Qwen3.5-9B,4450,6,body parts,body_part,yes
+Qwen_Qwen3.5-9B,4458,9,anatomical structures of the head or face,body_part,no
+Qwen_Qwen3.5-9B,4465,19,parts of the human body,body_part,yes
+Qwen_Qwen3.5-9B,4779,12,electromagnetic components that create magnetic field with single coil for actuation or switching,artifact,no
+Qwen_Qwen3.5-9B,4784,9,Items with electrodes,artifact,no
+Qwen_Qwen3.5-9B,5184,15,"Scientific instruments designed to measure specific physical quantities (e.g., pressure, temperature, time, dimensions) through mechanical, optical, or thermal means",artifact,no
+Qwen_Qwen3.5-9B,5224,8,measuring instruments,artifact,no
+Qwen_Qwen3.5-9B,5516,10,periodic oscillating devices,artifact,no
+Qwen_Qwen3.5-9B,5653,20,musical instruments played with breath or air pressure,artifact,no
+Qwen_Qwen3.5-9B,5757,12,hand tools with a single straight edge used for precise linear material shaping or cutting,artifact,no
+Qwen_Qwen3.5-9B,5807,8,"Two-word compound names containing a playing card rank (e.g., Jack, Queen, King, Ace)",artifact,no
+Qwen_Qwen3.5-9B,6347,5,open-top containers,artifact,no
+Qwen_Qwen3.5-9B,6359,9,compound words describing specialized bags used for specific purposes or contents,artifact,no
+Qwen_Qwen3.5-9B,6396,18,established compound nouns for household storage items in British English,artifact,no
+Qwen_Qwen3.5-9B,6606,19,naval warship types,artifact,no
+Qwen_Qwen3.5-9B,6607,20,cartoon game ship types,artifact,no
+Qwen_Qwen3.5-9B,9334,13,anatomical directional or positional adjectives terminology,body_part,no
+Qwen_Qwen3.5-9B,9433,12,terms listed in the official Anatomical Terminology (Terminologia Anatomica),body_part,no
+Qwen_Qwen3.5-9B,9457,18,discrete anatomical structures,body_part,no
+Qwen_Qwen3.5-9B,9596,11,Scientific anatomical structure names,body_part,no
+Qwen_Qwen3.5-9B,9616,6,homeostatic structures,body_part,no
+Qwen_Qwen3.5-9B,9624,20,animal anatomical structures,body_part,yes
+Qwen_Qwen3.5-9B,9650,11,human body structures,body_part,yes
+Qwen_Qwen3.5-9B,9670,9,named anatomical structures,body_part,yes
+Qwen_Qwen3.5-9B,9949,8,anatomical terms,body_part,no
+Qwen_Qwen3.5-9B,10074,20,anatomically named veins or arteries,body_part,no
+Qwen_Qwen3.5-9B,10237,7,food or beverage items,food,yes
+Qwen_Qwen3.5-9B,10529,15,common grocery store food items,food,no
+Qwen_Qwen3.5-9B,10981,9,food items,food,yes
+Qwen_Qwen3.5-9B,10986,14,food items,food,yes
+Qwen_Qwen3.5-9B,10994,20,prepared food,food,no
+Qwen_Qwen3.5-9B,11006,20,edible items,food,yes
+Qwen_Qwen3.5-9B,11016,7,ice cream flavors,food,no
+Qwen_Qwen3.5-9B,11059,7,food items,food,yes
+Qwen_Qwen3.5-9B,11263,11,dish,food,no
+Qwen_Qwen3.5-9B,11376,7,food,food,yes
+Qwen_Qwen3.5-9B,11384,7,food,food,yes
+Qwen_Qwen3.5-9B,11459,12,food spreads,food,no
+Qwen_Qwen3.5-9B,11697,17,words that can be followed by 'steak',food,no
+Qwen_Qwen3.5-9B,11921,15,edible food items,food,yes
+Qwen_Qwen3.5-9B,12016,20,Commonly consumed solid food items,food,no
+Qwen_Qwen3.5-9B,12095,3,bread,food,no
+Qwen_Qwen3.5-9B,12377,12,edible food items,food,yes
+Qwen_Qwen3.5-9B,15245,3,Cycad,plant,no
+Qwen_Qwen3.5-9B,15310,8,Plant names,plant,no
+Qwen_Qwen3.5-9B,15508,11,plants with aromatic compounds or essential oils,plant,no
+Qwen_Qwen3.5-9B,15598,14,botanical plant names (common or scientific),plant,no
+Qwen_Qwen3.5-9B,15611,16,seed plants,plant,no
+Qwen_Qwen3.5-9B,15613,6,aromatic fruits with distinct fragrance,plant,no
+Qwen_Qwen3.5-9B,15790,13,trees,plant,no
+Qwen_Qwen3.5-9B,16096,10,plant,plant,yes
+Qwen_Qwen3.5-9B,16120,6,plant,plant,yes
+Qwen_Qwen3.5-9B,16152,7,plant,plant,yes
+Qwen_Qwen3.5-9B,16249,12,being a tree species,plant,no
+Qwen_Qwen3.5-9B,16414,16,plants used for culinary or medicinal purposes,plant,no
+Qwen_Qwen3.5-9B,16467,5,trees,plant,no
+Qwen_Qwen3.5-9B,16469,14,"Common 2-word names of trees, tree parts, or natural tree-derived materials (excluding manufactured/processed terms)",plant,no
+Qwen_Qwen3.5-9B,16864,17,common plant names,plant,no
+Qwen_Qwen3.5-9B,17047,9,common names of plant species,plant,no
+Qwen_Qwen3.5-9B,17248,2,cauliflorous trees,plant,no
+Qwen_Qwen3.5-9B,17257,18,plants,plant,yes
+Qwen_Qwen3.5-9B,17361,13,plants,plant,yes
+Qwen_Qwen3.5-9B,17775,11,plants,plant,yes
+deepseek-ai_DeepSeek-V3.1,62,11,animals,animal,yes
+deepseek-ai_DeepSeek-V3.1,357,7,animals,animal,yes
+deepseek-ai_DeepSeek-V3.1,546,9,has the word 'fish' in its name,animal,no
+deepseek-ai_DeepSeek-V3.1,658,15,animal,animal,yes
+deepseek-ai_DeepSeek-V3.1,819,18,common name,animal,no
+deepseek-ai_DeepSeek-V3.1,1066,20,animals with names that include another animal name,animal,no
+deepseek-ai_DeepSeek-V3.1,1136,6,animal,animal,yes
+deepseek-ai_DeepSeek-V3.1,1154,19,animals,animal,yes
+deepseek-ai_DeepSeek-V3.1,1261,13,animal,animal,yes
+deepseek-ai_DeepSeek-V3.1,1551,15,anatomical terms,body_part,no
+deepseek-ai_DeepSeek-V3.1,1725,19,dishes containing animal products,animal,no
+deepseek-ai_DeepSeek-V3.1,1943,15,animal,animal,yes
+deepseek-ai_DeepSeek-V3.1,2806,12,animals whose names are not commonly used as verbs,animal,no
+deepseek-ai_DeepSeek-V3.1,2971,12,bird,animal,no
+deepseek-ai_DeepSeek-V3.1,3172,4,animal,animal,yes
+deepseek-ai_DeepSeek-V3.1,3192,19,birds,animal,no
+deepseek-ai_DeepSeek-V3.1,3411,18,bird species with a hyphenated name or possessive name,animal,no
+deepseek-ai_DeepSeek-V3.1,3743,16,has a descriptive adjective in its common name,animal,no
+deepseek-ai_DeepSeek-V3.1,3852,7,vertebrates,animal,no
+deepseek-ai_DeepSeek-V3.1,3947,15,animal,animal,yes
+deepseek-ai_DeepSeek-V3.1,3966,17,animals,animal,yes
+deepseek-ai_DeepSeek-V3.1,4020,10,biological structures,body_part,no
+deepseek-ai_DeepSeek-V3.1,4032,8,respiratory organs,body_part,no
+deepseek-ai_DeepSeek-V3.1,4288,10,bones,body_part,no
+deepseek-ai_DeepSeek-V3.1,4313,3,bones,body_part,no
+deepseek-ai_DeepSeek-V3.1,4348,10,derived from Greek or Latin,body_part,no
+deepseek-ai_DeepSeek-V3.1,4368,8,anatomical structures,body_part,yes
+deepseek-ai_DeepSeek-V3.1,4450,17,body parts,body_part,yes
+deepseek-ai_DeepSeek-V3.1,4458,7,proboscis,body_part,no
+deepseek-ai_DeepSeek-V3.1,4465,19,compound anatomical terms,body_part,no
+deepseek-ai_DeepSeek-V3.1,4779,17,electromagnetic actuator,artifact,no
+deepseek-ai_DeepSeek-V3.1,4784,11,man-made object,artifact,yes
+deepseek-ai_DeepSeek-V3.1,4875,18,prose,artifact,no
+deepseek-ai_DeepSeek-V3.1,5184,15,devices with names ending in 'meter',artifact,no
+deepseek-ai_DeepSeek-V3.1,5224,14,words that can be verbs,artifact,no
+deepseek-ai_DeepSeek-V3.1,5265,15,instruments that are not primarily bowed,artifact,no
+deepseek-ai_DeepSeek-V3.1,5506,14,contains the letter 'e',artifact,no
+deepseek-ai_DeepSeek-V3.1,5516,18,"words ending with -or, -er, -ode, or -istor",artifact,no
+deepseek-ai_DeepSeek-V3.1,5652,19,instruments that are not untuned percussion,artifact,no
+deepseek-ai_DeepSeek-V3.1,5653,13,acoustic instruments,artifact,no
+deepseek-ai_DeepSeek-V3.1,5757,11,compound tool names ending with a tool type word,artifact,no
+deepseek-ai_DeepSeek-V3.1,5807,12,hand tools,artifact,no
+deepseek-ai_DeepSeek-V3.1,6347,13,contains the substring 'bag' or 'sack',artifact,no
+deepseek-ai_DeepSeek-V3.1,6359,14,contains the word 'bag',artifact,no
+deepseek-ai_DeepSeek-V3.1,6380,7,compound words where the second part is a common noun that can stand alone but the compound has a specific meaning,artifact,no
+deepseek-ai_DeepSeek-V3.1,6396,10,tangible objects,artifact,no
+deepseek-ai_DeepSeek-V3.1,6543,17,vehicles that can carry other vehicles or significant payloads,artifact,no
+deepseek-ai_DeepSeek-V3.1,6575,7,functional,artifact,no
+deepseek-ai_DeepSeek-V3.1,6606,12,artifacts,artifact,yes
+deepseek-ai_DeepSeek-V3.1,6607,20,ship type named after its cargo or primary purpose,artifact,no
+deepseek-ai_DeepSeek-V3.1,9334,13,anatomical terms,body_part,no
+deepseek-ai_DeepSeek-V3.1,9433,9,anatomical structure,body_part,yes
+deepseek-ai_DeepSeek-V3.1,9457,17,Latin anatomical terms that are not common nouns or simple body part names,body_part,no
+deepseek-ai_DeepSeek-V3.1,9596,18,nose,body_part,no
+deepseek-ai_DeepSeek-V3.1,9616,10,neural crest derived,body_part,no
+deepseek-ai_DeepSeek-V3.1,9624,17,vestigial structures,body_part,no
+deepseek-ai_DeepSeek-V3.1,9650,13,mucous membrane,body_part,no
+deepseek-ai_DeepSeek-V3.1,9670,6,muscles named with comparative anatomical terms,body_part,no
+deepseek-ai_DeepSeek-V3.1,9949,11,anatomical structures named after the body part or region they are associated with,body_part,no
+deepseek-ai_DeepSeek-V3.1,10074,8,portal venous system veins,body_part,no
+deepseek-ai_DeepSeek-V3.1,10237,16,food,food,yes
+deepseek-ai_DeepSeek-V3.1,10529,6,sugar,food,no
+deepseek-ai_DeepSeek-V3.1,10838,7,edible,food,yes
+deepseek-ai_DeepSeek-V3.1,10858,11,edible,food,yes
+deepseek-ai_DeepSeek-V3.1,10981,6,layered dessert or food,food,no
+deepseek-ai_DeepSeek-V3.1,10986,17,words that are names of fruits or vegetables,food,no
+deepseek-ai_DeepSeek-V3.1,10994,18,food items,food,yes
+deepseek-ai_DeepSeek-V3.1,11006,10,food,food,yes
+deepseek-ai_DeepSeek-V3.1,11016,17,"contains vanilla, chocolate, or strawberry",food,no
+deepseek-ai_DeepSeek-V3.1,11059,4,dessert pudding,food,no
+deepseek-ai_DeepSeek-V3.1,11199,9,food,food,yes
+deepseek-ai_DeepSeek-V3.1,11263,10,edible,food,yes
+deepseek-ai_DeepSeek-V3.1,11376,9,not frozen,food,no
+deepseek-ai_DeepSeek-V3.1,11384,17,tangible object,food,no
+deepseek-ai_DeepSeek-V3.1,11459,15,food,food,yes
+deepseek-ai_DeepSeek-V3.1,11697,12,food,food,yes
+deepseek-ai_DeepSeek-V3.1,11921,18,common food items,food,no
+deepseek-ai_DeepSeek-V3.1,12016,20,not soft or moist baked goods,food,no
+deepseek-ai_DeepSeek-V3.1,12095,15,unleavened bread,food,no
+deepseek-ai_DeepSeek-V3.1,12377,18,food name containing a nationality or place adjective,food,no
+deepseek-ai_DeepSeek-V3.1,15245,8,plant,plant,yes
+deepseek-ai_DeepSeek-V3.1,15310,18,tree,plant,no
+deepseek-ai_DeepSeek-V3.1,15508,18,spice,plant,no
+deepseek-ai_DeepSeek-V3.1,15598,18,eukaryotic organisms,plant,no
+deepseek-ai_DeepSeek-V3.1,15611,15,plants,plant,yes
+deepseek-ai_DeepSeek-V3.1,15613,11,fruit,plant,no
+deepseek-ai_DeepSeek-V3.1,15790,7,plants,plant,yes
+deepseek-ai_DeepSeek-V3.1,16096,10,common plant names,plant,no
+deepseek-ai_DeepSeek-V3.1,16120,8,compound plant names,plant,no
+deepseek-ai_DeepSeek-V3.1,16152,8,tree,plant,no
+deepseek-ai_DeepSeek-V3.1,16249,9,common names containing the word 'cedar' as a distinct term (not compound or hyphenated),plant,no
+deepseek-ai_DeepSeek-V3.1,16414,6,plant,plant,yes
+deepseek-ai_DeepSeek-V3.1,16467,20,plant-derived materials,plant,no
+deepseek-ai_DeepSeek-V3.1,16469,14,phrases consisting of a plant name followed by a plant part or descriptor,plant,no
+deepseek-ai_DeepSeek-V3.1,16864,13,eucalyptus,plant,no
+deepseek-ai_DeepSeek-V3.1,17047,9,plant,plant,yes
+deepseek-ai_DeepSeek-V3.1,17248,10,is a plant,plant,yes
+deepseek-ai_DeepSeek-V3.1,17257,13,cultivated plants,plant,no
+deepseek-ai_DeepSeek-V3.1,17361,10,plant,plant,yes
+deepseek-ai_DeepSeek-V3.1,17775,6,flowering plant with a color in its common name,plant,no
+gpt-5-mini,62,3,names of animals (common or scientific),animal,no
+gpt-5-mini,357,5,refers to an animal (is an animal),animal,yes
+gpt-5-mini,546,15,"members of Kingdom Animalia (i.e., animals)",animal,yes
+gpt-5-mini,658,5,is the name of an animal,animal,no
+gpt-5-mini,819,19,members of the biological kingdom Animalia (animals),animal,yes
+gpt-5-mini,1066,4,they are fish species,animal,no
+gpt-5-mini,1136,5,Common names of animals (members of Kingdom Animalia),animal,no
+gpt-5-mini,1154,5,member of Kingdom Animalia (an animal),animal,yes
+gpt-5-mini,1261,5,common animal names,animal,no
+gpt-5-mini,1551,5,anatomical terms (names of body parts or anatomical structures),body_part,no
+gpt-5-mini,1725,18,The (common) name is either a single-word animal name or a multi-word name whose final word is the name of an animal,animal,no
+gpt-5-mini,1943,6,belongs to the kingdom Animalia (is an animal),animal,yes
+gpt-5-mini,2806,10,"is the name of an animal (common animal name, including breeds)",animal,no
+gpt-5-mini,2971,4,is a bird species,animal,no
+gpt-5-mini,3172,4,they are animals,animal,yes
+gpt-5-mini,3192,10,name of a bird (real or mythological),animal,no
+gpt-5-mini,3411,6,being a bird (a common English bird species name),animal,no
+gpt-5-mini,3743,5,is an animal (member of Kingdom Animalia),animal,yes
+gpt-5-mini,3852,15,animal (member of Kingdom Animalia),animal,yes
+gpt-5-mini,3947,12,Member of the animal kingdom (Animalia),animal,yes
+gpt-5-mini,3966,6,members of Kingdom Animalia (animals),animal,yes
+gpt-5-mini,4020,12,"anatomical/morphological structures of non-plant eukaryotes (animals, fungi, protists) — i.e., organismal body parts or external cellular appendages, excluding plant organs, intracellular organelles, and prokaryotic structures",body_part,yes
+gpt-5-mini,4032,13,"anatomical exchange interfaces between an organism's internal fluids and the external environment (named organs/structures/openings that mediate gas, fluid, or solute exchange)",body_part,no
+gpt-5-mini,4288,5,parts of animal (human) anatomy,body_part,yes
+gpt-5-mini,4313,17,anatomical parts (parts/structures of organisms),body_part,yes
+gpt-5-mini,4348,7,names of animal (including human) anatomical body parts / anatomical structures,body_part,no
+gpt-5-mini,4368,5,anatomical body parts / anatomical structures,body_part,yes
+gpt-5-mini,4450,7,body parts,body_part,yes
+gpt-5-mini,4458,4,body parts,body_part,yes
+gpt-5-mini,4465,12,Named sensory organs/receptor structures (organ- or tissue-level sensory structures that detect stimuli),body_part,no
+gpt-5-mini,4779,12,man-made (manufactured) objects,artifact,yes
+gpt-5-mini,4784,9,man-made tangible objects (physical items created/manufactured by humans),artifact,yes
+gpt-5-mini,5184,13,"man-made, inanimate, non-consumable objects (manufactured artifacts)",artifact,yes
+gpt-5-mini,5224,11,"man-made, physical, inanimate (tangible) objects",artifact,yes
+gpt-5-mini,5265,4,musical instruments,artifact,no
+gpt-5-mini,5516,18,human-made artifact,artifact,yes
+gpt-5-mini,5652,4,musical instruments,artifact,no
+gpt-5-mini,5653,20,physical music-related objects,artifact,no
+gpt-5-mini,5757,7,implements/tools/utensils (objects used as instruments to perform tasks),artifact,no
+gpt-5-mini,5807,18,The two-word phrase denotes a tangible man-made object (a manufactured artifact),artifact,no
+gpt-5-mini,6347,7,Two-word noun phrases where the second word is a container/holder/support for the first (the first names what the second holds or is associated with).,artifact,no
+gpt-5-mini,6359,18,Objects that are containers (can hold or contain other things),artifact,no
+gpt-5-mini,6380,13,the item’s name contains a contiguous personal name (a given name or surname) as a substring,artifact,no
+gpt-5-mini,6396,12,Man-made (artificial) objects,artifact,yes
+gpt-5-mini,6543,5,"watercraft (ships, boats, and submarines)",artifact,no
+gpt-5-mini,6575,6,names of vehicles / modes of transportation,artifact,no
+gpt-5-mini,6606,15,man-made means of transport / conveyances (inanimate devices used to carry people or goods),artifact,no
+gpt-5-mini,6607,5,names of vessels or craft (ships/boats/airships/spacecraft) — types of vehicles used for travel or transport,artifact,no
+gpt-5-mini,9334,8,animal body parts (anatomical parts of animals),body_part,yes
+gpt-5-mini,9433,15,"Names of macroscopic anatomical structures (gross anatomy) — organs, tissues, muscles, bones and other external/internal body parts (excluding cells, organelles, microscopic units, and non-anatomical terms).",body_part,yes
+gpt-5-mini,9457,6,Human anatomical structures,body_part,yes
+gpt-5-mini,9596,7,names of animal body parts (animal anatomical structures),body_part,no
+gpt-5-mini,9616,6,"Any anatomical or morphological part/structure of a living organism (organ, body part, or organ-like structure, in animals, plants, fungi, etc.)",body_part,no
+gpt-5-mini,9624,10,external multicellular sensory epithelia (receptor organs exposed to the environment),body_part,no
+gpt-5-mini,9650,2,mucous membrane (mucosa),body_part,no
+gpt-5-mini,9670,4,muscles (anatomical muscles),body_part,no
+gpt-5-mini,9949,11,macroscopic anatomical structures of animals (animal anatomy),body_part,no
+gpt-5-mini,10074,7,named anatomical structures (human anatomy),body_part,no
+gpt-5-mini,10237,7,"edible items (foods, dishes, sauces, and ingredients)",food,yes
+gpt-5-mini,10529,7,edible (food or food ingredient),food,yes
+gpt-5-mini,10838,6,edible / is food,food,yes
+gpt-5-mini,10858,5,food (edible items),food,yes
+gpt-5-mini,10981,9,Food or drink intended for human consumption,food,no
+gpt-5-mini,10986,4,edible (food items),food,yes
+gpt-5-mini,10994,5,food (edible items),food,yes
+gpt-5-mini,11006,11,"items intended for consumption as food or non-alcoholic beverages (edible/ drinkable items), excluding medicines and alcoholic drinks",food,no
+gpt-5-mini,11016,5,frozen dessert,food,no
+gpt-5-mini,11059,9,Edible items (foods or beverages),food,yes
+gpt-5-mini,11199,7,foods typically served by slicing a round item into wedge-shaped slices,food,no
+gpt-5-mini,11263,3,food,food,yes
+gpt-5-mini,11376,5,food,food,yes
+gpt-5-mini,11384,14,Items that are food or drink (intended to be eaten or drunk),food,yes
+gpt-5-mini,11459,5,edible (food or drink fit for human consumption),food,yes
+gpt-5-mini,11697,18,edible items (foods and food products),food,yes
+gpt-5-mini,11921,8,food (edible items),food,yes
+gpt-5-mini,12016,5,food (edible items),food,yes
+gpt-5-mini,12095,11,food or drink (edible/drinkable items intended for consumption),food,yes
+gpt-5-mini,12377,8,foods that are eaten (not beverages/drinks),food,no
+gpt-5-mini,15245,2,they are cycads (plants in the order Cycadales),plant,no
+gpt-5-mini,15310,9,plants (members of the kingdom Plantae),plant,yes
+gpt-5-mini,15508,4,being a plant (a member of the kingdom Plantae),plant,yes
+gpt-5-mini,15598,5,being a plant (member of Kingdom Plantae),plant,yes
+gpt-5-mini,15611,6,being a plant (member of Kingdom Plantae),plant,yes
+gpt-5-mini,15613,19,the word is the common name of a seed-bearing plant (a spermatophyte),plant,no
+gpt-5-mini,15790,16,Viridiplantae (green plants),plant,no
+gpt-5-mini,16096,8,Euphyllophytes (ferns and seed plants — plants with true megaphyll leaves),plant,no
+gpt-5-mini,16120,11,common name of a land plant (Embryophyte),plant,no
+gpt-5-mini,16152,6,being a plant (member of the kingdom Plantae),plant,yes
+gpt-5-mini,16249,5,Common names of coniferous trees whose English name ends with the word 'cedar',plant,no
+gpt-5-mini,16414,4,is a plant (a common plant name),plant,yes
+gpt-5-mini,16467,8,"Vascular plants excluding monilophytes (i.e., seed plants and lycophytes)",plant,no
+gpt-5-mini,16469,7,the second word names a tree or a part of a tree,plant,no
+gpt-5-mini,16864,7,"common names of plants (members of the plant kingdom, Plantae)",plant,no
+gpt-5-mini,17047,12,Common names of vascular plants (tracheophytes),plant,no
+gpt-5-mini,17248,2,cauliflorous (produces flowers or fruits directly on the trunk/main stem),plant,no
+gpt-5-mini,17257,5,the second word is the common name of a plant,plant,no
+gpt-5-mini,17361,6,flowering plants (angiosperms),plant,no
+gpt-5-mini,17775,5,common names of plants (members of kingdom Plantae),plant,no
+gpt-5-nano,62,7,"Animals commonly kept in captivity (zoos, aquariums, farms)",animal,no
+gpt-5-nano,357,17,endangered species (IUCN Red List status: endangered or critically endangered),animal,no
+gpt-5-nano,546,14,mammals,animal,no
+gpt-5-nano,658,6,animal,animal,yes
+gpt-5-nano,819,5,aquatic animal,animal,no
+gpt-5-nano,1066,4,barbel-bearing fish,animal,no
+gpt-5-nano,1136,5,fish,animal,no
+gpt-5-nano,1154,3,two-word common name,animal,no
+gpt-5-nano,1261,14,"Hyphenated descriptors formed from a body-part noun plus the suffix -ed (e.g., eye -> eyed, tail -> tailed, head -> headed) in common names",animal,no
+gpt-5-nano,1725,3,sharks,animal,no
+gpt-5-nano,1943,4,animal,animal,yes
+gpt-5-nano,2806,5,animals,animal,yes
+gpt-5-nano,2971,7,Elaborate male ornamentation used in courtship displays in birds,animal,no
+gpt-5-nano,3172,7,All items are animals,animal,yes
+gpt-5-nano,3192,19,Vertebrates,animal,no
+gpt-5-nano,3411,16,genus Setophaga,animal,no
+gpt-5-nano,3743,9,the items are animals,animal,yes
+gpt-5-nano,3852,15,vertebrates,animal,no
+gpt-5-nano,3966,7,Birds,animal,no
+gpt-5-nano,4020,7,anatomical structures,body_part,yes
+gpt-5-nano,4032,6,respiratory organs,body_part,no
+gpt-5-nano,4288,17,connective tissue,body_part,no
+gpt-5-nano,4313,19,The common property is that the items are words derived from Latin or Greek roots (non-Germanic etymology).,body_part,no
+gpt-5-nano,4348,14,bone,body_part,no
+gpt-5-nano,4368,10,bones with red bone marrow,body_part,no
+gpt-5-nano,4450,15,part of the human body,body_part,yes
+gpt-5-nano,4458,3,nose shape descriptors,body_part,no
+gpt-5-nano,4465,5,the second word is a bone,body_part,no
+gpt-5-nano,4779,10,electrical components,artifact,no
+gpt-5-nano,4784,20,man-made objects,artifact,yes
+gpt-5-nano,5506,16,The common property is that the word is used in computing/technology contexts.,artifact,no
+gpt-5-nano,5516,10,hand tools,artifact,no
+gpt-5-nano,5652,19,keyboard instruments,artifact,no
+gpt-5-nano,5653,16,They are wind instruments with no valves,artifact,no
+gpt-5-nano,5757,18,"The second word is a tool name (e.g., plane, chisel, cutter).",artifact,no
+gpt-5-nano,5807,20,second word is a tool,artifact,no
+gpt-5-nano,6380,20,hand tools,artifact,no
+gpt-5-nano,6396,4,Containers or carriers that hold or transport something,artifact,no
+gpt-5-nano,6543,11,civilian watercraft,artifact,no
+gpt-5-nano,6575,13,ships,artifact,no
+gpt-5-nano,6607,15,"A two-word phrase of the form '<commodity> ship', where the first word denotes a cargo or material carried by a ship.",artifact,no
+gpt-5-nano,9334,16,appendicular bones,body_part,no
+gpt-5-nano,9457,14,anatomical structures associated with joints,body_part,no
+gpt-5-nano,9616,3,Anatomical structures located in the head/neck region,body_part,no
+gpt-5-nano,9624,14,specialized anatomical sensory organs that detect environmental stimuli and transduce them into neural signals,body_part,no
+gpt-5-nano,9650,15,membranes,body_part,no
+gpt-5-nano,9670,15,digestive system organs,body_part,no
+gpt-5-nano,9949,18,Region-based nomenclature for arteries (the first word denotes the region/organ supplied).,body_part,no
+gpt-5-nano,10074,9,anatomical structures in the human body,body_part,yes
+gpt-5-nano,10237,13,Dishes commonly found on English-language restaurant menus (international dishes),food,no
+gpt-5-nano,10529,14,sugars (sugar-related substances),food,no
+gpt-5-nano,10838,4,cold desserts,food,no
+gpt-5-nano,10858,13,Dairy-based desserts typically served cold,food,no
+gpt-5-nano,10981,3,dessert,food,no
+gpt-5-nano,10986,20,items stored in the freezer,food,no
+gpt-5-nano,10994,19,All items are foods that can be ordered in a restaurant that serves multiple cuisines.,food,no
+gpt-5-nano,11006,13,dairy-based desserts,food,no
+gpt-5-nano,11016,3,ice cream flavors,food,no
+gpt-5-nano,11059,8,food,food,yes
+gpt-5-nano,11199,5,edible,food,yes
+gpt-5-nano,11263,20,First two letters form a chemical element symbol for an element whose name ends with -ium,food,no
+gpt-5-nano,11376,8,edible foods,food,yes
+gpt-5-nano,11384,14,Two-word phrases where the second word is a baked good,food,no
+gpt-5-nano,11459,4,condiments or spreads,food,no
+gpt-5-nano,11697,5,The item name contains the substring 'steak'.,food,no
+gpt-5-nano,11921,13,edible foods,food,yes
+gpt-5-nano,12016,19,shelf-stable foods with long shelf life,food,no
+gpt-5-nano,12095,4,wrap bread,food,no
+gpt-5-nano,12377,18,multilayered pastries,food,no
+gpt-5-nano,15245,15,gymnosperm genera,plant,no
+gpt-5-nano,15310,20,two-word plant names where the first word is a color and the second word is a plant noun,plant,no
+gpt-5-nano,15508,16,color-based descriptive prefixes in common names,plant,no
+gpt-5-nano,15598,3,Two-word larch species names with a descriptor before 'larch'.,plant,no
+gpt-5-nano,15611,3,conifers,plant,no
+gpt-5-nano,15790,4,evergreen conifer trees,plant,no
+gpt-5-nano,16096,7,plants,plant,yes
+gpt-5-nano,16120,4,The second word is the name of a plant,plant,no
+gpt-5-nano,16152,16,Conifers (cone-bearing trees),plant,no
+gpt-5-nano,16249,11,Common-name cedars that are not true Cedrus species,plant,no
+gpt-5-nano,16467,12,seed plants (Spermatophyta),plant,no
+gpt-5-nano,16469,4,Second word is a tree-related term,plant,no
+gpt-5-nano,16864,2,trees,plant,no
+gpt-5-nano,17047,15,Second word is the name of a plant that can be used as a surname,plant,no
+gpt-5-nano,17257,7,the second word is a plant name,plant,no
+gpt-5-nano,17361,17,gymnosperms,plant,no
+gpt-5-nano,17775,17,Plant common names that include an animal or geographic descriptor,plant,no
+gpt-5.2-chat,62,4,Animals,animal,yes
+gpt-5.2-chat,357,4,animal,animal,yes
+gpt-5.2-chat,546,6,is an animal,animal,yes
+gpt-5.2-chat,658,5,are animals,animal,yes
+gpt-5.2-chat,819,4,animals,animal,yes
+gpt-5.2-chat,1066,3,animals,animal,yes
+gpt-5.2-chat,1136,4,animals,animal,yes
+gpt-5.2-chat,1154,6,animals,animal,yes
+gpt-5.2-chat,1261,5,animals,animal,yes
+gpt-5.2-chat,1551,4,anatomical body parts,body_part,yes
+gpt-5.2-chat,1725,5,animals,animal,yes
+gpt-5.2-chat,1943,5,is an animal,animal,yes
+gpt-5.2-chat,2806,3,animals,animal,yes
+gpt-5.2-chat,2971,5,They are animals,animal,yes
+gpt-5.2-chat,3172,4,animals,animal,yes
+gpt-5.2-chat,3192,7,are animals,animal,yes
+gpt-5.2-chat,3411,4,animals,animal,yes
+gpt-5.2-chat,3743,6,Members of the kingdom Animalia (animals),animal,yes
+gpt-5.2-chat,3852,5,animals,animal,yes
+gpt-5.2-chat,3947,4,vertebrates,animal,no
+gpt-5.2-chat,3966,5,animals,animal,yes
+gpt-5.2-chat,4020,4,anatomical organs in animals,body_part,no
+gpt-5.2-chat,4032,5,anatomical structures of living organisms,body_part,yes
+gpt-5.2-chat,4288,4,Mineralized tissues of the human body,body_part,no
+gpt-5.2-chat,4313,4,anatomical body parts,body_part,yes
+gpt-5.2-chat,4348,2,bones in the human body,body_part,no
+gpt-5.2-chat,4368,5,contains the letter c,body_part,no
+gpt-5.2-chat,4450,4,parts of the human body,body_part,yes
+gpt-5.2-chat,4458,5,Anatomical body parts,body_part,yes
+gpt-5.2-chat,4465,5,they are legitimate anatomical structures of the human body,body_part,yes
+gpt-5.2-chat,4779,5,tangible physical objects,artifact,no
+gpt-5.2-chat,4784,6,man-made objects,artifact,yes
+gpt-5.2-chat,4875,15,Words that can function as both a specific instance and the name of an art form or style,artifact,no
+gpt-5.2-chat,5184,9,Physical man-made objects,artifact,yes
+gpt-5.2-chat,5224,4,tangible physical object,artifact,no
+gpt-5.2-chat,5265,5,musical instruments,artifact,no
+gpt-5.2-chat,5506,19,Contains at least one repeated letter,artifact,no
+gpt-5.2-chat,5516,9,Words ending with the letter 'r',artifact,no
+gpt-5.2-chat,5652,10,words that contain the letter n,artifact,no
+gpt-5.2-chat,5653,3,musical instruments,artifact,no
+gpt-5.2-chat,5757,16,solid physical objects (tangible items made of matter),artifact,no
+gpt-5.2-chat,5807,19,two-word compounds that are also commonly written as a single closed word,artifact,no
+gpt-5.2-chat,6347,17,hollow objects,artifact,no
+gpt-5.2-chat,6359,14,can follow the word 'paper' to form a common compound,artifact,no
+gpt-5.2-chat,6380,19,Compound nouns with primary stress on the first element,artifact,no
+gpt-5.2-chat,6396,11,Contains at least one vowel and at least one consonant,artifact,no
+gpt-5.2-chat,6543,6,boats,artifact,no
+gpt-5.2-chat,6575,19,Countable common nouns (not proper nouns or mass nouns),artifact,no
+gpt-5.2-chat,6606,7,vehicles,artifact,no
+gpt-5.2-chat,6607,14,Words or phrases that contain the consecutive letters S-H-I-P,artifact,no
+gpt-5.2-chat,9334,4,anatomical structures of the body,body_part,yes
+gpt-5.2-chat,9433,5,anatomical structures of the human body,body_part,yes
+gpt-5.2-chat,9457,5,anatomical body parts,body_part,yes
+gpt-5.2-chat,9596,4,anatomical body parts,body_part,yes
+gpt-5.2-chat,9616,4,anatomical body parts,body_part,yes
+gpt-5.2-chat,9624,7,anatomical body parts,body_part,yes
+gpt-5.2-chat,9650,4,anatomical body structures,body_part,yes
+gpt-5.2-chat,9670,8,Gross anatomical structures (not tissues or cell types),body_part,no
+gpt-5.2-chat,9949,12,"contains at least one vowel (a, e, i, o, or u)",body_part,no
+gpt-5.2-chat,10074,4,They are anatomical terms (parts of the human body).,body_part,yes
+gpt-5.2-chat,10237,5,edible food items,food,yes
+gpt-5.2-chat,10529,4,edible substances,food,yes
+gpt-5.2-chat,10838,4,food,food,yes
+gpt-5.2-chat,10858,5,food items,food,yes
+gpt-5.2-chat,10981,4,food,food,yes
+gpt-5.2-chat,10986,6,edible items (food),food,yes
+gpt-5.2-chat,10994,4,food items,food,yes
+gpt-5.2-chat,11006,17,can be both a count noun and a mass noun,food,no
+gpt-5.2-chat,11016,6,edible food items,food,yes
+gpt-5.2-chat,11059,5,food,food,yes
+gpt-5.2-chat,11199,7,food,food,yes
+gpt-5.2-chat,11263,4,foods (edible dishes),food,yes
+gpt-5.2-chat,11376,4,edible items (food),food,yes
+gpt-5.2-chat,11384,4,foods that can be eaten with your hands,food,no
+gpt-5.2-chat,11459,10,food dishes,food,no
+gpt-5.2-chat,11697,11,Foods with misleading names,food,no
+gpt-5.2-chat,11921,11,countable nouns,food,no
+gpt-5.2-chat,12016,4,edible food items,food,yes
+gpt-5.2-chat,12095,5,edible food items,food,yes
+gpt-5.2-chat,12377,4,edible food items,food,yes
+gpt-5.2-chat,15245,4,plants,plant,yes
+gpt-5.2-chat,15310,10,land plants,plant,no
+gpt-5.2-chat,15508,5,plants,plant,yes
+gpt-5.2-chat,15598,6,organisms classified in the kingdom Plantae,plant,yes
+gpt-5.2-chat,15611,8,land plants (embryophytes),plant,no
+gpt-5.2-chat,15613,7,Starts with a consonant,plant,no
+gpt-5.2-chat,15790,19,contains the letter f,plant,no
+gpt-5.2-chat,16096,4,being a plant (member of the kingdom Plantae),plant,yes
+gpt-5.2-chat,16120,3,plants,plant,yes
+gpt-5.2-chat,16152,4,is a tree species,plant,no
+gpt-5.2-chat,16249,5,plants,plant,yes
+gpt-5.2-chat,16414,5,is a plant,plant,yes
+gpt-5.2-chat,16467,4,plants,plant,yes
+gpt-5.2-chat,16469,12,Two-word plant names whose first word is a noun,plant,no
+gpt-5.2-chat,16864,4,plants,plant,yes
+gpt-5.2-chat,17047,3,plants,plant,yes
+gpt-5.2-chat,17248,4,They are plants,plant,yes
+gpt-5.2-chat,17257,4,plants,plant,yes
+gpt-5.2-chat,17361,4,plants,plant,yes
+gpt-5.2-chat,17775,5,plants,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,62,14,nocturnal mammals,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,357,4,animals that are real,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,546,12,fish,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,658,19,marine animals,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,819,7,fish names,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,1066,13,names of fish that are compound words or end with a specific suffix,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,1136,18,English common names of fish that end with a specific sound or suffix,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,1154,7,vertebrates,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,1261,7,birds,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,1551,6,part of the skeletal system or teeth,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,1725,9,fish,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,1943,20,animals,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,2806,19,animal names containing 'g',animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,2971,12,birds of the New World tropics,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,3172,15,English vernacular names of animals,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,3192,14,names of bird genera,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,3411,9,warbler,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,3743,11,raptors,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,3852,11,birds with names used in Spanish or Latin American regions,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,3947,6,birds of prey,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,3966,4,birds,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4020,20,invertebrate anatomical term,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4032,19,finger-like or projecting anatomical structures,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4288,4,part of the human body,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4313,5,human anatomical terms,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4348,4,bone,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4368,20,ends with 'oid',body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4450,3,body part,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4458,18,relating to the nose,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4465,4,anatomical term,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4779,14,component,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4784,20,surname of a notable figure in electrical engineering or telecommunications,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4875,11,short form,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5184,10,measuring instruments,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5224,3,measuring instrument,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5265,6,objects that produce sound,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5506,17,English nouns that end with the '-er' suffix,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5516,11,device,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5652,14,musical instruments,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5653,12,related to sound production in music,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5757,12,used for cutting,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5807,20,planes,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,6347,7,container,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,6359,3,ends with 'bag',artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,6380,4,Contains the letter sequence of a common English word,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,6396,17,musical instruments,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,6543,5,ends with 'ship',artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,6575,15,"words that end with a suffix forming a noun indicating a state, condition, or quality, or an occupation or activity",artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,6606,13,words ending in 'war' or similar suffix,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,6607,12,ends in 'ship',artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9334,4,anatomical terms,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9433,4,anatomical terms,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9457,8,Latin names of muscles,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9596,5,anatomical projection,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9616,19,bilaterally paired sensory structure,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9624,18,vertebrate sensory organs or structures,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9650,3,parts of the eye,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9670,14,related to eye movement control,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9949,6,anatomical term,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,10074,10,having a Latin anatomical name,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,10237,8,culinary items with French names,food,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,10529,12,sucrose,food,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,10838,5,contains multiple components,food,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,10858,6,dessert,food,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,10981,16,has the words ice cream,food,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,10986,9,ice cream flavor,food,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,10994,17,contains 'fruit' in the name,food,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11006,11,sweet treat,food,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11016,7,"associated with the flavors strawberry, vanilla, or Neapolitan",food,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11059,10,type of pudding,food,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11199,8,food,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11263,3,food,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11376,15,celebratory desserts,food,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11384,18,contains sugar,food,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11459,13,food,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11697,9,meat,food,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11921,4,food,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,12016,4,food,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,12095,7,bread,food,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,12377,20,French pastry,food,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,15245,17,genus names of cycads,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,15310,6,tree names,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,15508,14,resinous plants,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,15598,15,conifers,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,15611,19,gymnosperm,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,15613,12,foods that are not typically mass-produced staple ingredients,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,15790,14,evergreen,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,16096,7,conifers,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,16120,6,plant names with a possessive form,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,16152,11,relates to Pinus,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,16249,4,conifer,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,16414,12,plants with common names,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,16467,8,genus Pinus or related conifers,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,16469,5,tree names with a common name followed by a type or genus,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,16864,3,tree,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,17047,7,names that include a descriptive adjective or word,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,17248,3,trees or plants that produce edible fruit,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,17257,18,plants with common names that are compound names or include a second word or phrase,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,17361,4,plant,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,17775,14,common names of plants that are not single words,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,62,16,living things,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,357,3,mammals,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,546,12,cartilaginous fish,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,658,4,fish,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,819,4,fish,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,1066,4,fish,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,1136,10,saltwater fish,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,1154,6,fish that live on the sea floor,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,1261,7,vertebrates,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,1551,4,parts of the human body,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,1725,4,shark,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,1943,8,marine animals that live in the sea,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,2806,13,animals that are vertebrates and live on land or in the air,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,2971,4,birds with a crest,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,3172,11,birds that primarily live in or around water,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,3192,20,contain the letter 'o',animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,3411,13,New World warblers,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,3743,4,birds of prey,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,3852,12,birds of prey,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,3947,6,birds of prey,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,3966,9,carnivorous animals,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,4020,6,internal organs,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,4032,18,invertebrate respiratory structures,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,4288,5,hard tissues in the human body,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,4313,6,internal body parts of living organisms,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,4348,5,bones in the human body,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,4368,13,bones,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,4450,6,facial features,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,4458,5,protruding body parts,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,4465,4,sensory organs,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,4779,19,electrical components that can store or generate electricity,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,4784,4,electrical components,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,4875,10,forms of expression,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,5184,13,instruments that measure physical properties,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,5224,15,items that are not handheld,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,5265,20,instruments that are struck with mallets,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,5506,18,interactive elements,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,5516,20,components that modify electrical signals,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,5652,14,string instruments played with a plectrum or fingers,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,5653,5,instruments that can be played with hands,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,5757,4,tools used for cutting,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,5807,11,handheld tools used for shaping wood by cutting or scraping,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,6347,14,items that are typically used to hold other items,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,6359,17,containers for unpleasant or unwanted items,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,6380,20,items that can be locked,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,6396,18,man-made objects with an opening,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,6543,11,contains the letter 't',artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,6575,6,ships designed for a specific purpose,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,6606,18,military,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,6607,18,recreational vessels,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,9334,4,body parts,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,9433,7,muscle tissue,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,9457,15,hollow organs,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,9596,6,animal body part,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,9616,16,organs or structures involved in physiological function,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,9624,5,organs located in the head,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,9650,6,connective tissues,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,9670,3,extraocular muscles,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,9949,5,arteries in the human body,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,10074,6,blood vessels,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,10237,19,French sauces,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,10529,14,saccharose,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,10838,8,desserts that contain meringue,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,10858,20,ingredients in desserts,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,10981,4,desserts,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,10986,14,frozen dairy treats,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,10994,10,frozen treats,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,11006,5,edible,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,11016,13,ice cream,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,11059,17,foods with sweet taste,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,11199,16,sweet dishes,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,11263,11,baked,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,11376,5,sweet baked goods,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,11384,19,contains eggs,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,11459,4,condiments,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,11697,9,beef products,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,11921,6,types of bread,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,12016,19,long shelf life unleavened flatbreads,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,12095,8,unleavened bread,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,12377,8,handheld foods with a filling,food,no
+mistralai_Mistral-Small-24B-Instruct-2501,15245,19,gymnosperms,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,15310,7,plants that grow in tropical regions,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,15508,17,words that can be used as adjectives,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,15598,16,deciduous trees,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,15611,15,gymnosperms,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,15613,18,drupes,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,15790,4,plants,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,16096,10,evergreen trees,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,16120,10,trees,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,16152,7,conifers,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,16249,7,trees,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,16414,14,Fabaceae family,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,16467,4,coniferous trees,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,16469,9,plants,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,16864,16,All items are native Australian plants,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,17047,17,All items are plants,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,17248,20,plants that produce edible fruits,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,17257,12,native to cold regions,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,17361,6,parts of a magnolia plant,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,17775,9,flower,plant,no
+moonshotai_Kimi-K2.5,62,5,animals,animal,yes
+moonshotai_Kimi-K2.5,357,7,animals,animal,yes
+moonshotai_Kimi-K2.5,546,10,animals,animal,yes
+moonshotai_Kimi-K2.5,819,12,animals,animal,yes
+moonshotai_Kimi-K2.5,1066,10,triploblastic animals,animal,no
+moonshotai_Kimi-K2.5,1136,7,animals,animal,yes
+moonshotai_Kimi-K2.5,1154,7,animals,animal,yes
+moonshotai_Kimi-K2.5,1261,19,animals,animal,yes
+moonshotai_Kimi-K2.5,1551,9,anatomy,body_part,no
+moonshotai_Kimi-K2.5,1725,9,animals,animal,yes
+moonshotai_Kimi-K2.5,1943,10,animals,animal,yes
+moonshotai_Kimi-K2.5,2806,15,animals,animal,yes
+moonshotai_Kimi-K2.5,2971,15,animals capable of locomotion,animal,no
+moonshotai_Kimi-K2.5,3172,6,misleading common names suggesting they are other animals,animal,no
+moonshotai_Kimi-K2.5,3192,8,animals,animal,yes
+moonshotai_Kimi-K2.5,3411,7,animals,animal,yes
+moonshotai_Kimi-K2.5,3743,7,animals,animal,yes
+moonshotai_Kimi-K2.5,3947,5,animals,animal,yes
+moonshotai_Kimi-K2.5,3966,7,animals,animal,yes
+moonshotai_Kimi-K2.5,4020,17,organs,body_part,no
+moonshotai_Kimi-K2.5,4032,9,external respiratory organs in invertebrates,body_part,no
+moonshotai_Kimi-K2.5,4288,15,Latin-derived nouns in anatomy,body_part,no
+moonshotai_Kimi-K2.5,4348,19,parts of the human body,body_part,yes
+moonshotai_Kimi-K2.5,4368,8,human body parts,body_part,yes
+moonshotai_Kimi-K2.5,4450,6,anatomical body parts,body_part,yes
+moonshotai_Kimi-K2.5,4458,5,body parts,body_part,yes
+moonshotai_Kimi-K2.5,4779,11,man-made objects,artifact,yes
+moonshotai_Kimi-K2.5,4784,14,man-made physical objects,artifact,yes
+moonshotai_Kimi-K2.5,4875,19,traditional arts and established artistic disciplines,artifact,no
+moonshotai_Kimi-K2.5,5184,12,human-made,artifact,yes
+moonshotai_Kimi-K2.5,5265,9,man-made objects,artifact,yes
+moonshotai_Kimi-K2.5,5506,6,contains at least one letter from A through G,artifact,no
+moonshotai_Kimi-K2.5,5516,20,man-made objects,artifact,yes
+moonshotai_Kimi-K2.5,5757,8,man-made objects,artifact,yes
+moonshotai_Kimi-K2.5,6347,11,having an enclosed interior space or hollow cavity that can contain things,artifact,no
+moonshotai_Kimi-K2.5,6359,12,contains the consecutive letters 'bag' as a substring,artifact,no
+moonshotai_Kimi-K2.5,6380,18,removing the first letter creates a new word or valid word segment,artifact,no
+moonshotai_Kimi-K2.5,6396,5,container,artifact,no
+moonshotai_Kimi-K2.5,6543,19,types of warships,artifact,no
+moonshotai_Kimi-K2.5,6575,13,things or objects,artifact,no
+moonshotai_Kimi-K2.5,9334,10,human anatomical structures,body_part,yes
+moonshotai_Kimi-K2.5,9433,19,named anatomical structures,body_part,yes
+moonshotai_Kimi-K2.5,9457,9,anatomical structures with Latin names,body_part,no
+moonshotai_Kimi-K2.5,9616,9,organs,body_part,no
+moonshotai_Kimi-K2.5,9624,18,lateralis,body_part,no
+moonshotai_Kimi-K2.5,9670,19,gross anatomical structures,body_part,no
+moonshotai_Kimi-K2.5,9949,2,arteries,body_part,no
+moonshotai_Kimi-K2.5,10074,17,connective tissue,body_part,no
+moonshotai_Kimi-K2.5,10237,19,food,food,yes
+moonshotai_Kimi-K2.5,10529,18,non-aqueous cooking ingredients,food,no
+moonshotai_Kimi-K2.5,10858,7,food,food,yes
+moonshotai_Kimi-K2.5,10981,14,food,food,yes
+moonshotai_Kimi-K2.5,10986,16,potential ice cream flavors,food,no
+moonshotai_Kimi-K2.5,11006,9,food,food,yes
+moonshotai_Kimi-K2.5,11016,13,food,food,yes
+moonshotai_Kimi-K2.5,11059,8,food,food,yes
+moonshotai_Kimi-K2.5,11263,6,food,food,yes
+moonshotai_Kimi-K2.5,11376,9,edible,food,yes
+moonshotai_Kimi-K2.5,11459,14,preserves,food,no
+moonshotai_Kimi-K2.5,11697,6,food,food,yes
+moonshotai_Kimi-K2.5,11921,15,food,food,yes
+moonshotai_Kimi-K2.5,12377,12,food,food,yes
+moonshotai_Kimi-K2.5,15245,10,embryophytes,plant,no
+moonshotai_Kimi-K2.5,15310,17,multicellular photosynthetic organisms,plant,no
+moonshotai_Kimi-K2.5,15508,11,seed plants,plant,no
+moonshotai_Kimi-K2.5,15611,6,plants,plant,yes
+moonshotai_Kimi-K2.5,15613,11,plants,plant,yes
+moonshotai_Kimi-K2.5,15790,20,tracheophytes,plant,no
+moonshotai_Kimi-K2.5,16096,7,plants,plant,yes
+moonshotai_Kimi-K2.5,16120,8,plants,plant,yes
+moonshotai_Kimi-K2.5,16152,12,names of pine trees,plant,no
+moonshotai_Kimi-K2.5,16249,10,plants,plant,yes
+moonshotai_Kimi-K2.5,16414,17,vascular plants,plant,no
+moonshotai_Kimi-K2.5,16467,8,spermatophytes (seed plants),plant,no
+moonshotai_Kimi-K2.5,16469,9,plants,plant,yes
+moonshotai_Kimi-K2.5,16864,8,plants,plant,yes
+moonshotai_Kimi-K2.5,17047,11,vascular plants,plant,no
+moonshotai_Kimi-K2.5,17257,7,plants,plant,yes
+moonshotai_Kimi-K2.5,17361,10,plants,plant,yes
+moonshotai_Kimi-K2.5,17775,6,plants,plant,yes
+openai_gpt-oss-120b,62,8,animal,animal,yes
+openai_gpt-oss-120b,357,6,being an animal (member of the animal kingdom),animal,yes
+openai_gpt-oss-120b,546,7,Each item’s name ends with a common name of an animal (the final word is an animal),animal,no
+openai_gpt-oss-120b,658,4,animal (any animal species),animal,yes
+openai_gpt-oss-120b,819,4,They are all names of fish,animal,no
+openai_gpt-oss-120b,1066,12,primarily aquatic vertebrate,animal,no
+openai_gpt-oss-120b,1136,10,All three items are common names of animal species,animal,no
+openai_gpt-oss-120b,1154,8,"Each common name ends with the name of a non‑mammalian animal (e.g., ray, halibut, pipefish, marlin, shark, eel, carp, trout, salmon, eagle, penguin, etc.)",animal,no
+openai_gpt-oss-120b,1261,17,The common name contains at least one word that is the standalone common name of an animal belonging to the phylum Chordata (vertebrates) or the class Cephalopoda.,animal,no
+openai_gpt-oss-120b,1551,2,human anatomical parts,body_part,yes
+openai_gpt-oss-120b,1725,8,animal,animal,yes
+openai_gpt-oss-120b,1943,11,animal,animal,yes
+openai_gpt-oss-120b,2806,11,"The word begins with a verb (e.g., “ring”, “do”, “dug”)",animal,no
+openai_gpt-oss-120b,2971,4,being an animal (any member of the animal kingdom),animal,yes
+openai_gpt-oss-120b,3172,10,animal,animal,yes
+openai_gpt-oss-120b,3192,6,the ability to fly (all items are capable of flight),animal,no
+openai_gpt-oss-120b,3411,8,animal,animal,yes
+openai_gpt-oss-120b,3743,5,being an animal,animal,yes
+openai_gpt-oss-120b,3852,6,being the common name of an animal (any animal species),animal,no
+openai_gpt-oss-120b,3947,11,has a cloaca (a single posterior opening),animal,no
+openai_gpt-oss-120b,3966,5,being an animal (any animal species),animal,yes
+openai_gpt-oss-120b,4020,7,"any anatomical structure that is a part of an animal (organ, tissue, or external body part)",body_part,yes
+openai_gpt-oss-120b,4032,6,animal anatomical part or structure,body_part,yes
+openai_gpt-oss-120b,4288,12,"The item must be a distinct anatomical structure (a specific organ, bone, or body part), not a generic tissue type, substance, or molecular component.",body_part,yes
+openai_gpt-oss-120b,4313,15,"A scientific name (bone, tooth, or flower) that comes from a Latin or Greek noun meaning a concrete, non‑anatomical object (e.g., key, wedge, sword, pan, millstone, thigh, shank, arm, elbow, chest, jaw, finger, cutter, spoke, rainbow) and is used because the structure resembles that object.",body_part,no
+openai_gpt-oss-120b,4348,6,anatomical part of the human (or vertebrate) body,body_part,yes
+openai_gpt-oss-120b,4368,4,human anatomical part,body_part,yes
+openai_gpt-oss-120b,4450,5,body part (anatomical term),body_part,yes
+openai_gpt-oss-120b,4458,8,an animal‑name followed by a body‑part (a common two‑word phrase like “elephant trunk” or “dog muzzle”),body_part,no
+openai_gpt-oss-120b,4465,5,"A two‑word anatomical term in which the first word designates a specific subclass or location of the second body‑part word (i.e., the first word specifies a particular type of the second word).",body_part,no
+openai_gpt-oss-120b,4779,9,"item has a standardized symbol in engineering schematic diagrams (electrical, mechanical, hydraulic, pneumatic, etc.)",artifact,no
+openai_gpt-oss-120b,4784,15,"Can be used as a component or material in a simple, low‑tech electronic/radio circuit (e.g., as antenna, conductor, insulator, capacitor, detector, power source, or wiring)",artifact,no
+openai_gpt-oss-120b,4875,18,"words that denote a reduced, minimalistic, or stripped‑down artistic form or category",artifact,no
+openai_gpt-oss-120b,5184,9,human‑made objects (artifacts),artifact,yes
+openai_gpt-oss-120b,5224,4,Man‑made (non‑living) objects or artifacts,artifact,yes
+openai_gpt-oss-120b,5265,15,"a finished manufactured object (i.e., a tangible product made by humans rather than a raw natural material)",artifact,yes
+openai_gpt-oss-120b,5506,9,"Each word ends with a two‑letter chemical element symbol (mouse → Se, foreground → Nd, repeater → Er)",artifact,no
+openai_gpt-oss-120b,5516,4,"has at least two electrical terminals (i.e., can be connected in an electrical circuit)",artifact,no
+openai_gpt-oss-120b,5652,5,"being a noun (a word that names a person, place, thing, or idea)",artifact,no
+openai_gpt-oss-120b,5653,3,musical instrument,artifact,no
+openai_gpt-oss-120b,5757,17,"A two‑word phrase where the first word names the material (or primary substance/energy source) that the object denoted by the second word is primarily made of or characterized by (e.g., ‘metal saw’, ‘paper bag’, ‘electric drill’).",artifact,no
+openai_gpt-oss-120b,5807,18,"Each pair shares a common modifier: there exists a single word that can be placed before both words to form familiar two‑word phrases (e.g., pocket case, pocket knife, pocket plane).",artifact,no
+openai_gpt-oss-120b,6347,9,portable objects that can be carried by a person,artifact,no
+openai_gpt-oss-120b,6359,14,"objects that have a closure mechanism (lid, zip, flap, plug, strap, etc.) allowing them to be sealed or closed",artifact,no
+openai_gpt-oss-120b,6380,4,compound noun (a word or phrase formed by combining two smaller words),artifact,no
+openai_gpt-oss-120b,6396,18,man-made physical objects (tangible artifacts),artifact,yes
+openai_gpt-oss-120b,6543,20,"terms that denote a military object or weapon and also have a common non‑military meaning that is peaceful (e.g., a tool, food, vehicle, structure, or entertainment) – i.e., dual‑use words with a civilian meaning that is not another weapon or defensive item",artifact,no
+openai_gpt-oss-120b,6575,14,"A ship type whose name describes a vessel used to transport people for a specific purpose or status (e.g., military, forced, emergency, relocation, rescue, etc.) rather than ordinary passenger or cargo transport",artifact,no
+openai_gpt-oss-120b,6606,18,"the word has been used as the proper name of an actual individual vessel (e.g., a ship, space shuttle, or spacecraft)",artifact,no
+openai_gpt-oss-120b,6607,17,man-made object,artifact,yes
+openai_gpt-oss-120b,9334,12,macroscopic human anatomical structures,body_part,no
+openai_gpt-oss-120b,9433,6,body part,body_part,yes
+openai_gpt-oss-120b,9457,6,"any term that refers to a human anatomical structure (muscle, bone, organ, vessel, brain region, etc.)",body_part,no
+openai_gpt-oss-120b,9596,4,any anatomical structure of an animal (body part),body_part,yes
+openai_gpt-oss-120b,9616,4,non‑circulatory anatomical structures of vertebrate animals,body_part,no
+openai_gpt-oss-120b,9624,4,sensory receptor,body_part,no
+openai_gpt-oss-120b,9650,5,human anatomical parts or structures,body_part,yes
+openai_gpt-oss-120b,9670,4,human anatomical structure,body_part,yes
+openai_gpt-oss-120b,9949,4,anatomical term (a name for a part of the human body),body_part,no
+openai_gpt-oss-120b,10074,8,human body part,body_part,yes
+openai_gpt-oss-120b,10237,11,"the term is the name of a sauce, dip, spread, or condiment",food,no
+openai_gpt-oss-120b,10529,6,edible items (food or food‑related substances),food,yes
+openai_gpt-oss-120b,10838,4,edible (food),food,yes
+openai_gpt-oss-120b,10858,5,Food (things that are edible),food,yes
+openai_gpt-oss-120b,10981,5,edible,food,yes
+openai_gpt-oss-120b,10986,6,"The ice‑cream flavor name is derived from something edible—a food, ingredient, or dish.",food,no
+openai_gpt-oss-120b,10994,5,edible,food,yes
+openai_gpt-oss-120b,11006,5,food (any edible item),food,yes
+openai_gpt-oss-120b,11016,12,food (edible item),food,yes
+openai_gpt-oss-120b,11059,17,The item is an edible food (a dish or food item),food,yes
+openai_gpt-oss-120b,11199,5,edible,food,yes
+openai_gpt-oss-120b,11263,6,"item provides caloric energy (i.e., it is a food that contains calories)",food,no
+openai_gpt-oss-120b,11376,7,"contains calories (i.e., has non‑zero caloric content)",food,no
+openai_gpt-oss-120b,11384,4,food,food,yes
+openai_gpt-oss-120b,11459,12,"ready‑to‑eat food product (a food that is generally consumed as a finished, prepared item rather than as a raw ingredient or simple seasoning)",food,no
+openai_gpt-oss-120b,11697,5,edible foods (things that can be eaten),food,yes
+openai_gpt-oss-120b,11921,2,types of bread,food,no
+openai_gpt-oss-120b,12016,7,food,food,yes
+openai_gpt-oss-120b,12095,7,food,food,yes
+openai_gpt-oss-120b,12377,5,food,food,yes
+openai_gpt-oss-120b,15245,4,gymnosperm,plant,no
+openai_gpt-oss-120b,15310,20,"The three items must not all be fruit‑producing plants (i.e., at least one of them must be a plant that does not bear edible fruit or nuts)",plant,no
+openai_gpt-oss-120b,15508,7,"Each item is the name of a plant (tree, shrub, herb, cactus, etc.)",plant,no
+openai_gpt-oss-120b,15598,4,plant,plant,yes
+openai_gpt-oss-120b,15611,4,Plant (member of the kingdom Plantae),plant,yes
+openai_gpt-oss-120b,15613,18,six‑letter words that end with a vowel,plant,no
+openai_gpt-oss-120b,15790,7,plant (any member of the kingdom Plantae),plant,yes
+openai_gpt-oss-120b,16096,5,A plant (any living plant species),plant,yes
+openai_gpt-oss-120b,16120,7,exactly two‑word common name of a plant,plant,no
+openai_gpt-oss-120b,16152,7,plant,plant,yes
+openai_gpt-oss-120b,16249,8,plant,plant,yes
+openai_gpt-oss-120b,16414,14,"Each item is a recognized English word or phrase that appears as an entry in a standard dictionary (i.e., the name itself is an ordinary English term, not just a scientific name)",plant,no
+openai_gpt-oss-120b,16467,18,member of the plant kingdom (Plantae),plant,yes
+openai_gpt-oss-120b,16469,4,Each pair of words shares exactly two letters in common,plant,no
+openai_gpt-oss-120b,16864,19,"a two‑word common name of a tree that is **not** the exact name of a commercially important soft‑wood species (e.g., “white pine” and “black spruce” are excluded)",plant,no
+openai_gpt-oss-120b,17047,6,being a plant (a member of the plant kingdom),plant,yes
+openai_gpt-oss-120b,17248,4,plant,plant,yes
+openai_gpt-oss-120b,17257,19,"A two‑word plant common name is accepted only when its first word is a descriptive modifier (an adjective or a noun used adjectivally) that is not a literal mineral, rock, or metal term (unless the word is also used as a colour adjective).",plant,no
+openai_gpt-oss-120b,17361,5,being a plant (any plant species or variety),plant,yes
+openai_gpt-oss-120b,17775,12,Common name of a plant that is not also a standard color name,plant,no
+openai_gpt-oss-20b,62,9,animal,animal,yes
+openai_gpt-oss-20b,357,6,animal,animal,yes
+openai_gpt-oss-20b,546,7,Animal,animal,yes
+openai_gpt-oss-20b,658,5,animal,animal,yes
+openai_gpt-oss-20b,819,5,Animals,animal,yes
+openai_gpt-oss-20b,1066,17,"An animal whose common name contains the name of another animal species (including itself, but not generic terms such as ""fish"").",animal,no
+openai_gpt-oss-20b,1136,20,"The item is the common name of a wild animal species (i.e., the animal is not a domestic breed or purely domestic species).",animal,no
+openai_gpt-oss-20b,1154,11,non‑human animals,animal,no
+openai_gpt-oss-20b,1261,6,Animal,animal,yes
+openai_gpt-oss-20b,1551,5,musculoskeletal system components,body_part,no
+openai_gpt-oss-20b,1725,12,cartilaginous fish,animal,no
+openai_gpt-oss-20b,1943,4,animals,animal,yes
+openai_gpt-oss-20b,2806,4,has the letter 'N' in its common name,animal,no
+openai_gpt-oss-20b,2971,16,The common name of each bird contains a word that itself is a type of bird,animal,no
+openai_gpt-oss-20b,3172,5,animal,animal,yes
+openai_gpt-oss-20b,3192,3,bird,animal,no
+openai_gpt-oss-20b,3411,12,animal,animal,yes
+openai_gpt-oss-20b,3743,8,animal,animal,yes
+openai_gpt-oss-20b,3852,5,living organism,animal,no
+openai_gpt-oss-20b,3947,5,vertebrate,animal,no
+openai_gpt-oss-20b,3966,18,animal,animal,yes
+openai_gpt-oss-20b,4020,19,organ with an epithelial lining or luminal interface,body_part,no
+openai_gpt-oss-20b,4032,4,Respiratory organ,body_part,no
+openai_gpt-oss-20b,4288,10,musculoskeletal tissue,body_part,no
+openai_gpt-oss-20b,4313,13,"The item is a bone or plant whose scientific Latin (or Greek) name contains a root that means a historical weapon (e.g., club, spear, sword), and the item itself is not that weapon.",body_part,no
+openai_gpt-oss-20b,4348,17,Bone name ending with a Roman numeral letter and NOT a vertebra,body_part,no
+openai_gpt-oss-20b,4368,10,skeletal tissue,body_part,no
+openai_gpt-oss-20b,4450,19,body part of an animal,body_part,yes
+openai_gpt-oss-20b,4458,3,Nose,body_part,no
+openai_gpt-oss-20b,4465,16,sensory organ,body_part,no
+openai_gpt-oss-20b,4779,4,electrical component,artifact,no
+openai_gpt-oss-20b,4784,4,Metallic electrodes used in electrical devices,artifact,no
+openai_gpt-oss-20b,5184,18,lab tool,artifact,no
+openai_gpt-oss-20b,5224,9,tool or instrument,artifact,no
+openai_gpt-oss-20b,5265,17,produces sound,artifact,no
+openai_gpt-oss-20b,5506,14,mouse‑driven GUI terminology,artifact,no
+openai_gpt-oss-20b,5516,13,electronic device,artifact,no
+openai_gpt-oss-20b,5652,3,plucked string instruments,artifact,no
+openai_gpt-oss-20b,5653,8,marching band instruments,artifact,no
+openai_gpt-oss-20b,5757,11,cutting tool,artifact,no
+openai_gpt-oss-20b,5807,13,hand tool,artifact,no
+openai_gpt-oss-20b,6347,10,hollow,artifact,no
+openai_gpt-oss-20b,6359,6,waste bags,artifact,no
+openai_gpt-oss-20b,6380,13,holding or carrying objects or people,artifact,no
+openai_gpt-oss-20b,6396,5,holder,artifact,no
+openai_gpt-oss-20b,6543,12,contains a US Navy major warship name or the word ship,artifact,no
+openai_gpt-oss-20b,6575,19,vehicle,artifact,no
+openai_gpt-oss-20b,6606,11,machine,artifact,no
+openai_gpt-oss-20b,6607,20,"""noun + ship"" where the noun denotes the cargo or function of the vessel",artifact,no
+openai_gpt-oss-20b,9334,3,body part,body_part,yes
+openai_gpt-oss-20b,9433,3,Anatomical body part,body_part,yes
+openai_gpt-oss-20b,9457,14,any anatomical structure that is part of the human body,body_part,yes
+openai_gpt-oss-20b,9596,10,animal anatomical part,body_part,yes
+openai_gpt-oss-20b,9616,6,all contain specialized sensory receptors that transmit signals to the nervous system,body_part,no
+openai_gpt-oss-20b,9624,8,sensory tissue,body_part,no
+openai_gpt-oss-20b,9650,8,mucous‑secreting tissue,body_part,no
+openai_gpt-oss-20b,9670,3,eye muscle,body_part,no
+openai_gpt-oss-20b,9949,15,contains an artery,body_part,no
+openai_gpt-oss-20b,10074,16,vascular tissue,body_part,no
+openai_gpt-oss-20b,10237,7,edible food,food,yes
+openai_gpt-oss-20b,10529,4,flavoring ingredients,food,no
+openai_gpt-oss-20b,10838,11,edible,food,yes
+openai_gpt-oss-20b,10858,6,dessert,food,no
+openai_gpt-oss-20b,10981,5,edible,food,yes
+openai_gpt-oss-20b,10986,5,edible,food,yes
+openai_gpt-oss-20b,10994,3,Frozen dessert,food,no
+openai_gpt-oss-20b,11006,10,dessert,food,no
+openai_gpt-oss-20b,11016,4,"String contains the letter ""a"" (case-insensitive)",food,no
+openai_gpt-oss-20b,11059,9,pudding,food,no
+openai_gpt-oss-20b,11199,11,grain-based food,food,no
+openai_gpt-oss-20b,11263,13,solid food,food,no
+openai_gpt-oss-20b,11376,9,Food,food,yes
+openai_gpt-oss-20b,11384,5,contains carbohydrate,food,no
+openai_gpt-oss-20b,11459,5,food,food,yes
+openai_gpt-oss-20b,11697,10,food,food,yes
+openai_gpt-oss-20b,11921,5,food,food,yes
+openai_gpt-oss-20b,12016,5,flour-based baked goods,food,no
+openai_gpt-oss-20b,12095,12,food,food,yes
+openai_gpt-oss-20b,12377,5,pastry,food,no
+openai_gpt-oss-20b,15245,17,plants with leaf‑derived spines,plant,no
+openai_gpt-oss-20b,15310,5,Plant,plant,yes
+openai_gpt-oss-20b,15508,6,plant,plant,yes
+openai_gpt-oss-20b,15598,15,plant,plant,yes
+openai_gpt-oss-20b,15611,7,"Plants cultivated by humans for any purpose (ornamental, food, timber, etc.)",plant,no
+openai_gpt-oss-20b,15613,13,fruit that contains the letter N,plant,no
+openai_gpt-oss-20b,15790,5,Abies,plant,no
+openai_gpt-oss-20b,16096,7,can be grown as bonsai,plant,no
+openai_gpt-oss-20b,16120,9,adjective noun pair,plant,no
+openai_gpt-oss-20b,16152,6,Evergreen,plant,no
+openai_gpt-oss-20b,16249,8,plant,plant,yes
+openai_gpt-oss-20b,16414,19,Descriptive‑Plant Compound Name,plant,no
+openai_gpt-oss-20b,16467,7,vascular plants,plant,no
+openai_gpt-oss-20b,16469,18,"Exactly two letters are shared, one of them a vowel and one a consonant",plant,no
+openai_gpt-oss-20b,16864,13,plant,plant,yes
+openai_gpt-oss-20b,17047,6,plant,plant,yes
+openai_gpt-oss-20b,17248,4,fruit,plant,no
+openai_gpt-oss-20b,17257,6,plant,plant,yes
+openai_gpt-oss-20b,17361,11,plant,plant,yes
+openai_gpt-oss-20b,17775,14,Two‑part plant common names (including hyphenated or two‑word phrases),plant,no
+zai-org_GLM-5,62,13,animals,animal,yes
+zai-org_GLM-5,357,7,animals,animal,yes
+zai-org_GLM-5,546,6,is an animal,animal,yes
+zai-org_GLM-5,658,6,animal,animal,yes
+zai-org_GLM-5,819,6,animals,animal,yes
+zai-org_GLM-5,1066,6,animal,animal,yes
+zai-org_GLM-5,1136,8,animals,animal,yes
+zai-org_GLM-5,1154,7,animal,animal,yes
+zai-org_GLM-5,1261,7,animals,animal,yes
+zai-org_GLM-5,1551,7,anatomical structure,body_part,yes
+zai-org_GLM-5,1725,6,animals,animal,yes
+zai-org_GLM-5,1943,5,is an animal,animal,yes
+zai-org_GLM-5,2806,19,animal names that begin with a common English word,animal,no
+zai-org_GLM-5,2971,7,animal species,animal,yes
+zai-org_GLM-5,3172,9,is an animal (member of the animal kingdom),animal,yes
+zai-org_GLM-5,3192,5,is an animal,animal,yes
+zai-org_GLM-5,3411,11,animals,animal,yes
+zai-org_GLM-5,3743,7,animal,animal,yes
+zai-org_GLM-5,3852,11,is an animal (member of the animal kingdom),animal,yes
+zai-org_GLM-5,3947,6,animals,animal,yes
+zai-org_GLM-5,3966,6,animals,animal,yes
+zai-org_GLM-5,4020,8,body parts or anatomical structures of animals,body_part,yes
+zai-org_GLM-5,4032,18,"anatomical structures or body parts (not whole organisms, not plants)",body_part,yes
+zai-org_GLM-5,4288,7,anatomical structure,body_part,yes
+zai-org_GLM-5,4313,5,bones of the human body,body_part,no
+zai-org_GLM-5,4348,8,body parts,body_part,yes
+zai-org_GLM-5,4450,6,body parts,body_part,yes
+zai-org_GLM-5,4458,8,body parts,body_part,yes
+zai-org_GLM-5,4465,19,"names of body parts or anatomical structures (excluding colloquial expressions for injuries, conditions, or symptoms)",body_part,no
+zai-org_GLM-5,4784,4,electrical components,artifact,no
+zai-org_GLM-5,4875,11,art,artifact,no
+zai-org_GLM-5,5184,9,measuring instrument,artifact,no
+zai-org_GLM-5,5224,8,man-made objects,artifact,yes
+zai-org_GLM-5,5265,8,man-made,artifact,yes
+zai-org_GLM-5,5506,19,"Computing terms that are compound words or derived words formed through standard English word formation (compounding two English words, or derivation with suffixes like -er/-or/-ter/-ist, etc.)",artifact,no
+zai-org_GLM-5,5516,8,"Technical nouns for devices, components, or instruments with agentive/instrumental suffixes (-or, -er, -ator, -izer, -ode)",artifact,no
+zai-org_GLM-5,5652,18,"Words containing at least one pair of adjacent letters that are consecutive in the alphabet (like 'ab', 'cd', 'mn', 'no', 'op', 'st', 'tu')",artifact,no
+zai-org_GLM-5,5653,5,musical instruments,artifact,no
+zai-org_GLM-5,5757,9,man-made objects (artifacts),artifact,yes
+zai-org_GLM-5,5807,10,concrete common nouns,artifact,no
+zai-org_GLM-5,6347,20,contains the sound /æk/ (as in 'sack') or /æɡ/ (as in 'bag') - the 'short a' vowel followed by a 'k' or 'g' sound,artifact,no
+zai-org_GLM-5,6359,7,words with two or more syllables,artifact,no
+zai-org_GLM-5,6380,15,concrete man-made physical objects (artifacts),artifact,yes
+zai-org_GLM-5,6396,15,items must be in alphabetical order,artifact,no
+zai-org_GLM-5,6543,13,established naval/maritime vessel types,artifact,no
+zai-org_GLM-5,6606,16,inanimate man-made objects,artifact,yes
+zai-org_GLM-5,6607,16,physical vehicles or vessels used for transportation,artifact,no
+zai-org_GLM-5,9433,14,anatomical terms,body_part,no
+zai-org_GLM-5,9457,14,"anatomical structures with Latin names that do not contain both 'h' and 'm' in the same word, and do not have any word ending in 'mus'",body_part,no
+zai-org_GLM-5,9596,7,animal body parts,body_part,yes
+zai-org_GLM-5,9616,10,anatomical structures of vertebrate animals,body_part,yes
+zai-org_GLM-5,9624,12,macroscopic anatomical structures,body_part,no
+zai-org_GLM-5,9650,11,anatomical structure (body part),body_part,yes
+zai-org_GLM-5,9670,10,macroscopic anatomical structures,body_part,no
+zai-org_GLM-5,9949,9,anatomical structure,body_part,yes
+zai-org_GLM-5,10074,8,human anatomical terms (names of body parts),body_part,no
+zai-org_GLM-5,10529,19,compound nouns naming ingredient varieties (modifier + ingredient category structure),food,no
+zai-org_GLM-5,10838,10,food,food,yes
+zai-org_GLM-5,10858,10,food,food,yes
+zai-org_GLM-5,10981,8,is a food (as opposed to a beverage),food,no
+zai-org_GLM-5,10986,17,food,food,yes
+zai-org_GLM-5,10994,7,food,food,yes
+zai-org_GLM-5,11006,9,"contains natural sugar (sucrose, fructose, or glucose) - not artificial sweeteners",food,no
+zai-org_GLM-5,11016,8,food,food,yes
+zai-org_GLM-5,11059,15,food,food,yes
+zai-org_GLM-5,11263,15,food items,food,yes
+zai-org_GLM-5,11384,10,food,food,yes
+zai-org_GLM-5,11459,15,"food items (things that are eaten rather than drunk, excluding pure seasonings and water)",food,yes
+zai-org_GLM-5,11697,15,Food items that are not primarily beverages or drinks,food,no
+zai-org_GLM-5,11921,20,"words containing at least one letter with an enclosed counter (a, b, d, e, g, o, p, or q)",food,no
+zai-org_GLM-5,12016,18,"foods (items commonly considered food, not beverages or ingredients)",food,no
+zai-org_GLM-5,12095,13,foods,food,yes
+zai-org_GLM-5,12377,9,food items,food,yes
+zai-org_GLM-5,15245,7,is a plant (member of Kingdom Plantae),plant,yes
+zai-org_GLM-5,15310,11,Plants,plant,yes
+zai-org_GLM-5,15508,7,real plants,plant,yes
+zai-org_GLM-5,15611,12,plant,plant,yes
+zai-org_GLM-5,15790,5,trees,plant,no
+zai-org_GLM-5,16096,8,is a plant (member of Kingdom Plantae),plant,yes
+zai-org_GLM-5,16120,7,plants,plant,yes
+zai-org_GLM-5,16152,6,are plants (members of kingdom Plantae),plant,yes
+zai-org_GLM-5,16414,6,plants,plant,yes
+zai-org_GLM-5,16467,3,trees,plant,no
+zai-org_GLM-5,16469,14,names of plants,plant,no
+zai-org_GLM-5,16864,9,are plants,plant,yes
+zai-org_GLM-5,17047,14,plants,plant,yes
+zai-org_GLM-5,17248,7,are plants,plant,yes
+zai-org_GLM-5,17257,19,is a vascular plant (plant with xylem and phloem),plant,no
+zai-org_GLM-5,17361,8,plants,plant,yes
+zai-org_GLM-5,17775,7,flowering plants,plant,no

@@ -1,0 +1,136 @@
+{
+  "model": "gpt-5.2-chat",
+  "status": "ok",
+  "games": 100,
+  "successful_games": 75,
+  "unsuccessful_games": 25,
+  "experiment_1_distributional_difference": {
+    "status": "ok",
+    "successful_games": 75,
+    "unsuccessful_games": 25,
+    "multiple_comparison_correction": {
+      "family": [
+        "disjoint",
+        "partial_overlap"
+      ],
+      "family_size": 2,
+      "methods": [
+        "bonferroni",
+        "holm"
+      ]
+    },
+    "relations": {
+      "disjoint": {
+        "group_a_count": 25,
+        "group_b_count": 75,
+        "group_a_mean": 0.14035649644473172,
+        "group_b_mean": 0.017777777777777778,
+        "mean_difference": 0.12257871866695394,
+        "group_a_median": 0.06666666666666667,
+        "group_b_median": 0.0,
+        "median_difference": 0.06666666666666667,
+        "welch_t_statistic": 2.9664867538184865,
+        "welch_t_p_value": 0.006307994234365843,
+        "mann_whitney_u": 1467.5,
+        "mann_whitney_p_value": 1.5996006257670668e-09,
+        "cliffs_delta": 0.5653333333333334,
+        "comparison": "unsuccessful_minus_successful",
+        "mann_whitney_p_value_bonferroni": 3.1992012515341337e-09,
+        "mann_whitney_p_value_holm": 1.876251980953455e-09,
+        "welch_t_p_value_bonferroni": 0.012615988468731685,
+        "welch_t_p_value_holm": 0.006307994234365843
+      },
+      "partial_overlap": {
+        "group_a_count": 25,
+        "group_b_count": 75,
+        "group_a_mean": 0.3749070602600014,
+        "group_b_mean": 0.10243060643060643,
+        "mean_difference": 0.272476453829395,
+        "group_a_median": 0.35294117647058826,
+        "group_b_median": 0.0,
+        "median_difference": 0.35294117647058826,
+        "welch_t_statistic": 6.512634778073722,
+        "welch_t_p_value": 6.310991780982376e-08,
+        "mann_whitney_u": 1647.0,
+        "mann_whitney_p_value": 9.381259904767274e-10,
+        "cliffs_delta": 0.7568,
+        "comparison": "unsuccessful_minus_successful",
+        "mann_whitney_p_value_bonferroni": 1.876251980953455e-09,
+        "mann_whitney_p_value_holm": 1.876251980953455e-09,
+        "welch_t_p_value_bonferroni": 1.2621983561964752e-07,
+        "welch_t_p_value_holm": 1.2621983561964752e-07
+      }
+    }
+  },
+  "experiment_3_linguistic_shift": {
+    "status": "ok",
+    "games": 100,
+    "games_with_linguistic_shift": 47,
+    "games_without_linguistic_shift": 53,
+    "linguistic_shift_rate": 0.47,
+    "success_rate_with_linguistic_shift": 0.5106382978723404,
+    "failure_rate_with_linguistic_shift": 0.48936170212765956,
+    "success_rate_without_linguistic_shift": 0.9622641509433962,
+    "failure_rate_without_linguistic_shift": 0.03773584905660377,
+    "failure_rate_gap_shifted_minus_unshifted": 0.4516258530710558,
+    "shift_rate_in_successful_games": 0.32,
+    "shift_rate_in_unsuccessful_games": 0.92,
+    "shift_rate_gap_unsuccessful_minus_successful": 0.6000000000000001,
+    "games_with_post_linguistic_recovery_opportunity": 45,
+    "successful_games_with_post_linguistic_recovery_opportunity": 23,
+    "unsuccessful_games_with_post_linguistic_recovery_opportunity": 22,
+    "post_linguistic_no_recovery_rate_in_successful_games": 0.043478260869565216,
+    "post_linguistic_no_recovery_rate_in_unsuccessful_games": 0.045454545454545456,
+    "post_linguistic_no_recovery_rate_gap_unsuccessful_minus_successful": 0.0019762845849802396,
+    "post_linguistic_no_recovery_fisher_exact": {
+      "odds_ratio": 1.0476190476190477,
+      "p_value": 1.0,
+      "table": {
+        "unsuccessful_no_recovery": 1,
+        "unsuccessful_recovered": 21,
+        "successful_no_recovery": 1,
+        "successful_recovered": 22
+      }
+    },
+    "failure_fisher_exact": {
+      "odds_ratio": 24.4375,
+      "p_value": 9.89279347679333e-08,
+      "table": {
+        "shifted_failures": 23,
+        "shifted_successes": 24,
+        "unshifted_failures": 2,
+        "unshifted_successes": 51
+      }
+    },
+    "relations": {
+      "disjoint": {
+        "total_turns": 61,
+        "linguistic_turns": 45,
+        "linguistic_share": 0.7377049180327869
+      },
+      "partial_overlap": {
+        "total_turns": 185,
+        "linguistic_turns": 99,
+        "linguistic_share": 0.5351351351351351
+      },
+      "target_relations_combined": {
+        "total_turns": 246,
+        "linguistic_turns": 144,
+        "linguistic_share": 0.5853658536585366
+      }
+    },
+    "matched_rule_counts": {
+      "meta_linguistic_structure": 113,
+      "letter": 86,
+      "vowel_consonant": 40,
+      "word_count": 28,
+      "naming": 17,
+      "syllable": 12,
+      "prefix_suffix": 8,
+      "initial_final_unit": 7,
+      "alphabetic": 3,
+      "pronunciation": 3,
+      "spelling": 3
+    }
+  }
+}

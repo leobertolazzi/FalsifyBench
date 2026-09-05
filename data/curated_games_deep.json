@@ -1,0 +1,1670 @@
+[
+  {
+    "game_id": 9949,
+    "sampling_hypothesis": "artery",
+    "target_hypothesis": "body_part",
+    "initial_examples": [
+      "ileocolic artery",
+      "intercostal artery",
+      "ulnar artery"
+    ],
+    "hypernym_path": [
+      "artery",
+      "blood_vessel",
+      "vessel",
+      "tube",
+      "structure",
+      "body_part"
+    ],
+    "hypernym_synsets": [
+      "artery.n.01",
+      "blood_vessel.n.01",
+      "vessel.n.01",
+      "tube.n.04",
+      "structure.n.04",
+      "body_part.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 6,
+    "psc": "body",
+    "psc_synset": "body_part.n.01",
+    "psc_definitions": [
+      "any part of an organism such as an organ or extremity"
+    ]
+  },
+  {
+    "game_id": 4368,
+    "sampling_hypothesis": "bone",
+    "target_hypothesis": "body_part",
+    "initial_examples": [
+      "cartilage bone",
+      "sacrum",
+      "lacrimal bone"
+    ],
+    "hypernym_path": [
+      "bone",
+      "connective_tissue",
+      "animal_tissue",
+      "tissue",
+      "body_part"
+    ],
+    "hypernym_synsets": [
+      "bone.n.01",
+      "connective_tissue.n.01",
+      "animal_tissue.n.01",
+      "tissue.n.01",
+      "body_part.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "body",
+    "psc_synset": "body_part.n.01",
+    "psc_definitions": [
+      "any part of an organism such as an organ or extremity"
+    ]
+  },
+  {
+    "game_id": 2971,
+    "sampling_hypothesis": "New_World_flycatcher",
+    "target_hypothesis": "animal",
+    "initial_examples": [
+      "cock of the rock",
+      "vermillion flycatcher",
+      "umbrella bird"
+    ],
+    "hypernym_path": [
+      "New_World_flycatcher",
+      "tyrannid",
+      "passerine",
+      "bird",
+      "vertebrate",
+      "chordate",
+      "animal"
+    ],
+    "hypernym_synsets": [
+      "new_world_flycatcher.n.01",
+      "tyrannid.n.01",
+      "passerine.n.01",
+      "bird.n.01",
+      "vertebrate.n.01",
+      "chordate.n.01",
+      "animal.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 7,
+    "psc": "animal",
+    "psc_synset": "animal.n.01",
+    "psc_definitions": [
+      "a living organism characterized by voluntary movement",
+      "all the animal life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 6543,
+    "sampling_hypothesis": "ship",
+    "target_hypothesis": "artifact",
+    "initial_examples": [
+      "cattleship",
+      "flagship",
+      "fleet ballistic missile submarine"
+    ],
+    "hypernym_path": [
+      "ship",
+      "vessel",
+      "craft",
+      "vehicle",
+      "conveyance",
+      "instrumentality",
+      "artifact"
+    ],
+    "hypernym_synsets": [
+      "ship.n.01",
+      "vessel.n.02",
+      "craft.n.02",
+      "vehicle.n.01",
+      "conveyance.n.03",
+      "instrumentality.n.03",
+      "artifact.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 7,
+    "psc": "artifact",
+    "psc_synset": "artifact.n.01",
+    "psc_definitions": [
+      "a man-made object taken as a whole"
+    ]
+  },
+  {
+    "game_id": 10981,
+    "sampling_hypothesis": "frozen_dessert",
+    "target_hypothesis": "food",
+    "initial_examples": [
+      "Neapolitan ice cream",
+      "ice-cream cake",
+      "banana split"
+    ],
+    "hypernym_path": [
+      "frozen_dessert",
+      "dessert",
+      "course",
+      "nutriment",
+      "food"
+    ],
+    "hypernym_synsets": [
+      "frozen_dessert.n.01",
+      "dessert.n.01",
+      "course.n.07",
+      "nutriment.n.01",
+      "food.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "food",
+    "psc_synset": "food.n.01",
+    "psc_definitions": [
+      "any substance that can be metabolized by an animal to give energy and build tissue",
+      "any solid substance (as opposed to liquid) that is used as a source of nourishment"
+    ]
+  },
+  {
+    "game_id": 4288,
+    "sampling_hypothesis": "bone",
+    "target_hypothesis": "body_part",
+    "initial_examples": [
+      "cuboid bone",
+      "clavicle",
+      "dentine"
+    ],
+    "hypernym_path": [
+      "bone",
+      "connective_tissue",
+      "animal_tissue",
+      "tissue",
+      "body_part"
+    ],
+    "hypernym_synsets": [
+      "bone.n.01",
+      "connective_tissue.n.01",
+      "animal_tissue.n.01",
+      "tissue.n.01",
+      "body_part.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "body",
+    "psc_synset": "body_part.n.01",
+    "psc_definitions": [
+      "any part of an organism such as an organ or extremity"
+    ]
+  },
+  {
+    "game_id": 9670,
+    "sampling_hypothesis": "ocular_muscle",
+    "target_hypothesis": "body_part",
+    "initial_examples": [
+      "abducens muscle",
+      "medial rectus muscle",
+      "superior rectus muscle"
+    ],
+    "hypernym_path": [
+      "ocular_muscle",
+      "muscle",
+      "contractile_organ",
+      "organ",
+      "body_part"
+    ],
+    "hypernym_synsets": [
+      "ocular_muscle.n.01",
+      "muscle.n.01",
+      "contractile_organ.n.01",
+      "organ.n.01",
+      "body_part.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "body",
+    "psc_synset": "body_part.n.01",
+    "psc_definitions": [
+      "any part of an organism such as an organ or extremity"
+    ]
+  },
+  {
+    "game_id": 15611,
+    "sampling_hypothesis": "conifer",
+    "target_hypothesis": "plant",
+    "initial_examples": [
+      "golden larch",
+      "rimu",
+      "plum-fruited yew"
+    ],
+    "hypernym_path": [
+      "conifer",
+      "gymnospermous_tree",
+      "tree",
+      "woody_plant",
+      "vascular_plant",
+      "plant"
+    ],
+    "hypernym_synsets": [
+      "conifer.n.01",
+      "gymnospermous_tree.n.01",
+      "tree.n.01",
+      "woody_plant.n.01",
+      "vascular_plant.n.01",
+      "plant.n.02"
+    ],
+    "distance_group": "deep",
+    "distance": 6,
+    "psc": "plant",
+    "psc_synset": "plant.n.02",
+    "psc_definitions": [
+      "(botany) a living organism lacking the power of locomotion",
+      "all the plant life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 4313,
+    "sampling_hypothesis": "bone",
+    "target_hypothesis": "body_part",
+    "initial_examples": [
+      "clavicle",
+      "sphenoid bone",
+      "gladiolus"
+    ],
+    "hypernym_path": [
+      "bone",
+      "connective_tissue",
+      "animal_tissue",
+      "tissue",
+      "body_part"
+    ],
+    "hypernym_synsets": [
+      "bone.n.01",
+      "connective_tissue.n.01",
+      "animal_tissue.n.01",
+      "tissue.n.01",
+      "body_part.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "body",
+    "psc_synset": "body_part.n.01",
+    "psc_definitions": [
+      "any part of an organism such as an organ or extremity"
+    ]
+  },
+  {
+    "game_id": 6606,
+    "sampling_hypothesis": "warship",
+    "target_hypothesis": "artifact",
+    "initial_examples": [
+      "frigate",
+      "ironclad",
+      "sloop of war"
+    ],
+    "hypernym_path": [
+      "warship",
+      "ship",
+      "vessel",
+      "craft",
+      "vehicle",
+      "conveyance",
+      "instrumentality",
+      "artifact"
+    ],
+    "hypernym_synsets": [
+      "warship.n.01",
+      "ship.n.01",
+      "vessel.n.02",
+      "craft.n.02",
+      "vehicle.n.01",
+      "conveyance.n.03",
+      "instrumentality.n.03",
+      "artifact.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 8,
+    "psc": "artifact",
+    "psc_synset": "artifact.n.01",
+    "psc_definitions": [
+      "a man-made object taken as a whole"
+    ]
+  },
+  {
+    "game_id": 5224,
+    "sampling_hypothesis": "measuring_instrument",
+    "target_hypothesis": "artifact",
+    "initial_examples": [
+      "algometer",
+      "tape",
+      "wattmeter"
+    ],
+    "hypernym_path": [
+      "measuring_instrument",
+      "instrument",
+      "device",
+      "instrumentality",
+      "artifact"
+    ],
+    "hypernym_synsets": [
+      "measuring_instrument.n.01",
+      "instrument.n.01",
+      "device.n.01",
+      "instrumentality.n.03",
+      "artifact.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "artifact",
+    "psc_synset": "artifact.n.01",
+    "psc_definitions": [
+      "a man-made object taken as a whole"
+    ]
+  },
+  {
+    "game_id": 819,
+    "sampling_hypothesis": "bony_fish",
+    "target_hypothesis": "animal",
+    "initial_examples": [
+      "common American shad",
+      "sweeper",
+      "largemouth"
+    ],
+    "hypernym_path": [
+      "bony_fish",
+      "fish",
+      "aquatic_vertebrate",
+      "vertebrate",
+      "chordate",
+      "animal"
+    ],
+    "hypernym_synsets": [
+      "bony_fish.n.01",
+      "fish.n.01",
+      "aquatic_vertebrate.n.01",
+      "vertebrate.n.01",
+      "chordate.n.01",
+      "animal.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 6,
+    "psc": "animal",
+    "psc_synset": "animal.n.01",
+    "psc_definitions": [
+      "a living organism characterized by voluntary movement",
+      "all the animal life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 4348,
+    "sampling_hypothesis": "bone",
+    "target_hypothesis": "body_part",
+    "initial_examples": [
+      "phalanx",
+      "sternum",
+      "tarsal"
+    ],
+    "hypernym_path": [
+      "bone",
+      "connective_tissue",
+      "animal_tissue",
+      "tissue",
+      "body_part"
+    ],
+    "hypernym_synsets": [
+      "bone.n.01",
+      "connective_tissue.n.01",
+      "animal_tissue.n.01",
+      "tissue.n.01",
+      "body_part.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "body",
+    "psc_synset": "body_part.n.01",
+    "psc_definitions": [
+      "any part of an organism such as an organ or extremity"
+    ]
+  },
+  {
+    "game_id": 11697,
+    "sampling_hypothesis": "beefsteak",
+    "target_hypothesis": "food",
+    "initial_examples": [
+      "minute steak",
+      "sirloin steak",
+      "round steak"
+    ],
+    "hypernym_path": [
+      "beefsteak",
+      "steak",
+      "cut",
+      "meat",
+      "food"
+    ],
+    "hypernym_synsets": [
+      "beefsteak.n.01",
+      "steak.n.01",
+      "cut.n.06",
+      "meat.n.01",
+      "food.n.02"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "food",
+    "psc_synset": "food.n.02",
+    "psc_definitions": [
+      "any substance that can be metabolized by an animal to give energy and build tissue",
+      "any solid substance (as opposed to liquid) that is used as a source of nourishment"
+    ]
+  },
+  {
+    "game_id": 17248,
+    "sampling_hypothesis": "fruit_tree",
+    "target_hypothesis": "plant",
+    "initial_examples": [
+      "toothbrush tree",
+      "jaboticaba",
+      "marang"
+    ],
+    "hypernym_path": [
+      "fruit_tree",
+      "angiospermous_tree",
+      "tree",
+      "woody_plant",
+      "vascular_plant",
+      "plant"
+    ],
+    "hypernym_synsets": [
+      "fruit_tree.n.01",
+      "angiospermous_tree.n.01",
+      "tree.n.01",
+      "woody_plant.n.01",
+      "vascular_plant.n.01",
+      "plant.n.02"
+    ],
+    "distance_group": "deep",
+    "distance": 6,
+    "psc": "plant",
+    "psc_synset": "plant.n.02",
+    "psc_definitions": [
+      "(botany) a living organism lacking the power of locomotion",
+      "all the plant life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 3743,
+    "sampling_hypothesis": "bird_of_prey",
+    "target_hypothesis": "animal",
+    "initial_examples": [
+      "Old World scops owl",
+      "long-eared owl",
+      "black kite"
+    ],
+    "hypernym_path": [
+      "bird_of_prey",
+      "bird",
+      "vertebrate",
+      "chordate",
+      "animal"
+    ],
+    "hypernym_synsets": [
+      "bird_of_prey.n.01",
+      "bird.n.01",
+      "vertebrate.n.01",
+      "chordate.n.01",
+      "animal.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "animal",
+    "psc_synset": "animal.n.01",
+    "psc_definitions": [
+      "a living organism characterized by voluntary movement",
+      "all the animal life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 12377,
+    "sampling_hypothesis": "sweet_roll",
+    "target_hypothesis": "food",
+    "initial_examples": [
+      "bear claw",
+      "pinwheel roll",
+      "danish"
+    ],
+    "hypernym_path": [
+      "sweet_roll",
+      "bun",
+      "bread",
+      "starches",
+      "foodstuff",
+      "food"
+    ],
+    "hypernym_synsets": [
+      "sweet_roll.n.01",
+      "bun.n.01",
+      "bread.n.01",
+      "starches.n.01",
+      "foodstuff.n.02",
+      "food.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 6,
+    "psc": "food",
+    "psc_synset": "food.n.01",
+    "psc_definitions": [
+      "any substance that can be metabolized by an animal to give energy and build tissue",
+      "any solid substance (as opposed to liquid) that is used as a source of nourishment"
+    ]
+  },
+  {
+    "game_id": 10529,
+    "sampling_hypothesis": "sugar",
+    "target_hypothesis": "food",
+    "initial_examples": [
+      "lump sugar",
+      "sugarloaf",
+      "beet sugar"
+    ],
+    "hypernym_path": [
+      "sugar",
+      "sweetening",
+      "flavorer",
+      "ingredient",
+      "foodstuff",
+      "food"
+    ],
+    "hypernym_synsets": [
+      "sugar.n.01",
+      "sweetening.n.01",
+      "flavorer.n.01",
+      "ingredient.n.03",
+      "foodstuff.n.02",
+      "food.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 6,
+    "psc": "food",
+    "psc_synset": "food.n.01",
+    "psc_definitions": [
+      "any substance that can be metabolized by an animal to give energy and build tissue",
+      "any solid substance (as opposed to liquid) that is used as a source of nourishment"
+    ]
+  },
+  {
+    "game_id": 15245,
+    "sampling_hypothesis": "cycad",
+    "target_hypothesis": "plant",
+    "initial_examples": [
+      "dioon",
+      "encephalartos",
+      "kaffir bread"
+    ],
+    "hypernym_path": [
+      "cycad",
+      "gymnosperm",
+      "spermatophyte",
+      "vascular_plant",
+      "plant"
+    ],
+    "hypernym_synsets": [
+      "cycad.n.01",
+      "gymnosperm.n.01",
+      "spermatophyte.n.01",
+      "vascular_plant.n.01",
+      "plant.n.02"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "plant",
+    "psc_synset": "plant.n.02",
+    "psc_definitions": [
+      "(botany) a living organism lacking the power of locomotion",
+      "all the plant life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 1943,
+    "sampling_hypothesis": "shark",
+    "target_hypothesis": "animal",
+    "initial_examples": [
+      "basking shark",
+      "nurse shark",
+      "bull shark"
+    ],
+    "hypernym_path": [
+      "shark",
+      "elasmobranch",
+      "cartilaginous_fish",
+      "fish",
+      "aquatic_vertebrate",
+      "vertebrate",
+      "chordate",
+      "animal"
+    ],
+    "hypernym_synsets": [
+      "shark.n.01",
+      "elasmobranch.n.01",
+      "cartilaginous_fish.n.01",
+      "fish.n.01",
+      "aquatic_vertebrate.n.01",
+      "vertebrate.n.01",
+      "chordate.n.01",
+      "animal.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 8,
+    "psc": "animal",
+    "psc_synset": "animal.n.01",
+    "psc_definitions": [
+      "a living organism characterized by voluntary movement",
+      "all the animal life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 5757,
+    "sampling_hypothesis": "cutter",
+    "target_hypothesis": "artifact",
+    "initial_examples": [
+      "beading plane",
+      "firmer chisel",
+      "glass cutter"
+    ],
+    "hypernym_path": [
+      "cutter",
+      "cutting_implement",
+      "tool",
+      "implement",
+      "instrumentality",
+      "artifact"
+    ],
+    "hypernym_synsets": [
+      "cutter.n.06",
+      "cutting_implement.n.01",
+      "tool.n.01",
+      "implement.n.01",
+      "instrumentality.n.03",
+      "artifact.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 6,
+    "psc": "artifact",
+    "psc_synset": "artifact.n.01",
+    "psc_definitions": [
+      "a man-made object taken as a whole"
+    ]
+  },
+  {
+    "game_id": 10237,
+    "sampling_hypothesis": "condiment",
+    "target_hypothesis": "food",
+    "initial_examples": [
+      "bordelaise",
+      "foie gras",
+      "Mornay sauce"
+    ],
+    "hypernym_path": [
+      "condiment",
+      "flavorer",
+      "ingredient",
+      "foodstuff",
+      "food"
+    ],
+    "hypernym_synsets": [
+      "condiment.n.01",
+      "flavorer.n.01",
+      "ingredient.n.03",
+      "foodstuff.n.02",
+      "food.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "food",
+    "psc_synset": "food.n.01",
+    "psc_definitions": [
+      "any substance that can be metabolized by an animal to give energy and build tissue",
+      "any solid substance (as opposed to liquid) that is used as a source of nourishment"
+    ]
+  },
+  {
+    "game_id": 3852,
+    "sampling_hypothesis": "hawk",
+    "target_hypothesis": "animal",
+    "initial_examples": [
+      "carancha",
+      "sparrow hawk",
+      "marsh harrier"
+    ],
+    "hypernym_path": [
+      "hawk",
+      "bird_of_prey",
+      "bird",
+      "vertebrate",
+      "chordate",
+      "animal"
+    ],
+    "hypernym_synsets": [
+      "hawk.n.01",
+      "bird_of_prey.n.01",
+      "bird.n.01",
+      "vertebrate.n.01",
+      "chordate.n.01",
+      "animal.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 6,
+    "psc": "animal",
+    "psc_synset": "animal.n.01",
+    "psc_definitions": [
+      "a living organism characterized by voluntary movement",
+      "all the animal life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 3411,
+    "sampling_hypothesis": "New_World_warbler",
+    "target_hypothesis": "animal",
+    "initial_examples": [
+      "Wilson's warbler",
+      "Audubon's warbler",
+      "blackpoll"
+    ],
+    "hypernym_path": [
+      "New_World_warbler",
+      "warbler",
+      "oscine",
+      "passerine",
+      "bird",
+      "vertebrate",
+      "chordate",
+      "animal"
+    ],
+    "hypernym_synsets": [
+      "new_world_warbler.n.01",
+      "warbler.n.02",
+      "oscine.n.01",
+      "passerine.n.01",
+      "bird.n.01",
+      "vertebrate.n.01",
+      "chordate.n.01",
+      "animal.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 8,
+    "psc": "animal",
+    "psc_synset": "animal.n.01",
+    "psc_definitions": [
+      "a living organism characterized by voluntary movement",
+      "all the animal life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 10986,
+    "sampling_hypothesis": "ice_cream",
+    "target_hypothesis": "food",
+    "initial_examples": [
+      "peach ice cream",
+      "strawberry ice cream",
+      "vanilla ice cream"
+    ],
+    "hypernym_path": [
+      "ice_cream",
+      "frozen_dessert",
+      "dessert",
+      "course",
+      "nutriment",
+      "food"
+    ],
+    "hypernym_synsets": [
+      "ice_cream.n.01",
+      "frozen_dessert.n.01",
+      "dessert.n.01",
+      "course.n.07",
+      "nutriment.n.01",
+      "food.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 6,
+    "psc": "food",
+    "psc_synset": "food.n.01",
+    "psc_definitions": [
+      "any substance that can be metabolized by an animal to give energy and build tissue",
+      "any solid substance (as opposed to liquid) that is used as a source of nourishment"
+    ]
+  },
+  {
+    "game_id": 10074,
+    "sampling_hypothesis": "blood_vessel",
+    "target_hypothesis": "body_part",
+    "initial_examples": [
+      "venae labiales anteriores",
+      "azygos vein",
+      "long saphenous vein"
+    ],
+    "hypernym_path": [
+      "blood_vessel",
+      "vessel",
+      "tube",
+      "structure",
+      "body_part"
+    ],
+    "hypernym_synsets": [
+      "blood_vessel.n.01",
+      "vessel.n.01",
+      "tube.n.04",
+      "structure.n.04",
+      "body_part.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "body",
+    "psc_synset": "body_part.n.01",
+    "psc_definitions": [
+      "any part of an organism such as an organ or extremity"
+    ]
+  },
+  {
+    "game_id": 1551,
+    "sampling_hypothesis": "bone",
+    "target_hypothesis": "body_part",
+    "initial_examples": [
+      "ischium",
+      "triquetral",
+      "primary tooth"
+    ],
+    "hypernym_path": [
+      "bone",
+      "connective_tissue",
+      "animal_tissue",
+      "tissue",
+      "body_part"
+    ],
+    "hypernym_synsets": [
+      "bone.n.01",
+      "connective_tissue.n.01",
+      "animal_tissue.n.01",
+      "tissue.n.01",
+      "body_part.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "body",
+    "psc_synset": "body_part.n.01",
+    "psc_definitions": [
+      "any part of an organism such as an organ or extremity"
+    ]
+  },
+  {
+    "game_id": 16467,
+    "sampling_hypothesis": "conifer",
+    "target_hypothesis": "plant",
+    "initial_examples": [
+      "loblolly pine",
+      "scrub pine",
+      "European larch"
+    ],
+    "hypernym_path": [
+      "conifer",
+      "gymnospermous_tree",
+      "tree",
+      "woody_plant",
+      "vascular_plant",
+      "plant"
+    ],
+    "hypernym_synsets": [
+      "conifer.n.01",
+      "gymnospermous_tree.n.01",
+      "tree.n.01",
+      "woody_plant.n.01",
+      "vascular_plant.n.01",
+      "plant.n.02"
+    ],
+    "distance_group": "deep",
+    "distance": 6,
+    "psc": "plant",
+    "psc_synset": "plant.n.02",
+    "psc_definitions": [
+      "(botany) a living organism lacking the power of locomotion",
+      "all the plant life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 3966,
+    "sampling_hypothesis": "Old_World_vulture",
+    "target_hypothesis": "animal",
+    "initial_examples": [
+      "griffon vulture",
+      "bearded vulture",
+      "black vulture"
+    ],
+    "hypernym_path": [
+      "Old_World_vulture",
+      "vulture",
+      "bird_of_prey",
+      "bird",
+      "vertebrate",
+      "chordate",
+      "animal"
+    ],
+    "hypernym_synsets": [
+      "old_world_vulture.n.01",
+      "vulture.n.01",
+      "bird_of_prey.n.01",
+      "bird.n.01",
+      "vertebrate.n.01",
+      "chordate.n.01",
+      "animal.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 7,
+    "psc": "animal",
+    "psc_synset": "animal.n.01",
+    "psc_definitions": [
+      "a living organism characterized by voluntary movement",
+      "all the animal life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 11459,
+    "sampling_hypothesis": "conserve",
+    "target_hypothesis": "food",
+    "initial_examples": [
+      "apple butter",
+      "chowchow",
+      "lemon curd"
+    ],
+    "hypernym_path": [
+      "conserve",
+      "confiture",
+      "sweet",
+      "dainty",
+      "nutriment",
+      "food"
+    ],
+    "hypernym_synsets": [
+      "conserve.n.01",
+      "confiture.n.01",
+      "sweet.n.03",
+      "dainty.n.01",
+      "nutriment.n.01",
+      "food.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 6,
+    "psc": "food",
+    "psc_synset": "food.n.01",
+    "psc_definitions": [
+      "any substance that can be metabolized by an animal to give energy and build tissue",
+      "any solid substance (as opposed to liquid) that is used as a source of nourishment"
+    ]
+  },
+  {
+    "game_id": 6607,
+    "sampling_hypothesis": "ship",
+    "target_hypothesis": "artifact",
+    "initial_examples": [
+      "container ship",
+      "transport ship",
+      "treasure ship"
+    ],
+    "hypernym_path": [
+      "ship",
+      "vessel",
+      "craft",
+      "vehicle",
+      "conveyance",
+      "instrumentality",
+      "artifact"
+    ],
+    "hypernym_synsets": [
+      "ship.n.01",
+      "vessel.n.02",
+      "craft.n.02",
+      "vehicle.n.01",
+      "conveyance.n.03",
+      "instrumentality.n.03",
+      "artifact.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 7,
+    "psc": "artifact",
+    "psc_synset": "artifact.n.01",
+    "psc_definitions": [
+      "a man-made object taken as a whole"
+    ]
+  },
+  {
+    "game_id": 4458,
+    "sampling_hypothesis": "nose",
+    "target_hypothesis": "body_part",
+    "initial_examples": [
+      "hawk nose",
+      "proboscis",
+      "Roman nose"
+    ],
+    "hypernym_path": [
+      "nose",
+      "chemoreceptor",
+      "sense_organ",
+      "organ",
+      "body_part"
+    ],
+    "hypernym_synsets": [
+      "nose.n.01",
+      "chemoreceptor.n.01",
+      "sense_organ.n.01",
+      "organ.n.01",
+      "body_part.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "body",
+    "psc_synset": "body_part.n.01",
+    "psc_definitions": [
+      "any part of an organism such as an organ or extremity"
+    ]
+  },
+  {
+    "game_id": 17361,
+    "sampling_hypothesis": "magnolia",
+    "target_hypothesis": "plant",
+    "initial_examples": [
+      "large-leaved magnolia",
+      "star magnolia",
+      "sweet bay"
+    ],
+    "hypernym_path": [
+      "magnolia",
+      "angiospermous_tree",
+      "tree",
+      "woody_plant",
+      "vascular_plant",
+      "plant"
+    ],
+    "hypernym_synsets": [
+      "magnolia.n.02",
+      "angiospermous_tree.n.01",
+      "tree.n.01",
+      "woody_plant.n.01",
+      "vascular_plant.n.01",
+      "plant.n.02"
+    ],
+    "distance_group": "deep",
+    "distance": 6,
+    "psc": "plant",
+    "psc_synset": "plant.n.02",
+    "psc_definitions": [
+      "(botany) a living organism lacking the power of locomotion",
+      "all the plant life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 11016,
+    "sampling_hypothesis": "ice_cream",
+    "target_hypothesis": "food",
+    "initial_examples": [
+      "Neapolitan ice cream",
+      "strawberry ice cream",
+      "vanilla ice cream"
+    ],
+    "hypernym_path": [
+      "ice_cream",
+      "frozen_dessert",
+      "dessert",
+      "course",
+      "nutriment",
+      "food"
+    ],
+    "hypernym_synsets": [
+      "ice_cream.n.01",
+      "frozen_dessert.n.01",
+      "dessert.n.01",
+      "course.n.07",
+      "nutriment.n.01",
+      "food.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 6,
+    "psc": "food",
+    "psc_synset": "food.n.01",
+    "psc_definitions": [
+      "any substance that can be metabolized by an animal to give energy and build tissue",
+      "any solid substance (as opposed to liquid) that is used as a source of nourishment"
+    ]
+  },
+  {
+    "game_id": 4875,
+    "sampling_hypothesis": "painting",
+    "target_hypothesis": "artifact",
+    "initial_examples": [
+      "abstraction",
+      "nude",
+      "tanka"
+    ],
+    "hypernym_path": [
+      "painting",
+      "graphic_art",
+      "art",
+      "creation",
+      "artifact"
+    ],
+    "hypernym_synsets": [
+      "painting.n.01",
+      "graphic_art.n.01",
+      "art.n.01",
+      "creation.n.02",
+      "artifact.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "artifact",
+    "psc_synset": "artifact.n.01",
+    "psc_definitions": [
+      "a man-made object taken as a whole"
+    ]
+  },
+  {
+    "game_id": 9650,
+    "sampling_hypothesis": "mucous_membrane",
+    "target_hypothesis": "body_part",
+    "initial_examples": [
+      "endometrium",
+      "pinguecula",
+      "palpebra conjunctiva"
+    ],
+    "hypernym_path": [
+      "mucous_membrane",
+      "membrane",
+      "animal_tissue",
+      "tissue",
+      "body_part"
+    ],
+    "hypernym_synsets": [
+      "mucous_membrane.n.01",
+      "membrane.n.02",
+      "animal_tissue.n.01",
+      "tissue.n.01",
+      "body_part.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "body",
+    "psc_synset": "body_part.n.01",
+    "psc_definitions": [
+      "any part of an organism such as an organ or extremity"
+    ]
+  },
+  {
+    "game_id": 1725,
+    "sampling_hypothesis": "shark",
+    "target_hypothesis": "animal",
+    "initial_examples": [
+      "carpet shark",
+      "sand tiger",
+      "angel shark"
+    ],
+    "hypernym_path": [
+      "shark",
+      "elasmobranch",
+      "cartilaginous_fish",
+      "fish",
+      "aquatic_vertebrate",
+      "vertebrate",
+      "chordate",
+      "animal"
+    ],
+    "hypernym_synsets": [
+      "shark.n.01",
+      "elasmobranch.n.01",
+      "cartilaginous_fish.n.01",
+      "fish.n.01",
+      "aquatic_vertebrate.n.01",
+      "vertebrate.n.01",
+      "chordate.n.01",
+      "animal.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 8,
+    "psc": "animal",
+    "psc_synset": "animal.n.01",
+    "psc_definitions": [
+      "a living organism characterized by voluntary movement",
+      "all the animal life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 6575,
+    "sampling_hypothesis": "ship",
+    "target_hypothesis": "artifact",
+    "initial_examples": [
+      "transport ship",
+      "troopship",
+      "slave ship"
+    ],
+    "hypernym_path": [
+      "ship",
+      "vessel",
+      "craft",
+      "vehicle",
+      "conveyance",
+      "instrumentality",
+      "artifact"
+    ],
+    "hypernym_synsets": [
+      "ship.n.01",
+      "vessel.n.02",
+      "craft.n.02",
+      "vehicle.n.01",
+      "conveyance.n.03",
+      "instrumentality.n.03",
+      "artifact.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 7,
+    "psc": "artifact",
+    "psc_synset": "artifact.n.01",
+    "psc_definitions": [
+      "a man-made object taken as a whole"
+    ]
+  },
+  {
+    "game_id": 11059,
+    "sampling_hypothesis": "pudding",
+    "target_hypothesis": "food",
+    "initial_examples": [
+      "plum pudding",
+      "chocolate pudding",
+      "Nesselrode"
+    ],
+    "hypernym_path": [
+      "pudding",
+      "dessert",
+      "course",
+      "nutriment",
+      "food"
+    ],
+    "hypernym_synsets": [
+      "pudding.n.03",
+      "dessert.n.01",
+      "course.n.07",
+      "nutriment.n.01",
+      "food.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "food",
+    "psc_synset": "food.n.01",
+    "psc_definitions": [
+      "any substance that can be metabolized by an animal to give energy and build tissue",
+      "any solid substance (as opposed to liquid) that is used as a source of nourishment"
+    ]
+  },
+  {
+    "game_id": 16152,
+    "sampling_hypothesis": "conifer",
+    "target_hypothesis": "plant",
+    "initial_examples": [
+      "Japanese black pine",
+      "knobcone pine",
+      "American white pine"
+    ],
+    "hypernym_path": [
+      "conifer",
+      "gymnospermous_tree",
+      "tree",
+      "woody_plant",
+      "vascular_plant",
+      "plant"
+    ],
+    "hypernym_synsets": [
+      "conifer.n.01",
+      "gymnospermous_tree.n.01",
+      "tree.n.01",
+      "woody_plant.n.01",
+      "vascular_plant.n.01",
+      "plant.n.02"
+    ],
+    "distance_group": "deep",
+    "distance": 6,
+    "psc": "plant",
+    "psc_synset": "plant.n.02",
+    "psc_definitions": [
+      "(botany) a living organism lacking the power of locomotion",
+      "all the plant life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 5652,
+    "sampling_hypothesis": "stringed_instrument",
+    "target_hypothesis": "artifact",
+    "initial_examples": [
+      "cittern",
+      "banjo",
+      "mandola"
+    ],
+    "hypernym_path": [
+      "stringed_instrument",
+      "musical_instrument",
+      "device",
+      "instrumentality",
+      "artifact"
+    ],
+    "hypernym_synsets": [
+      "stringed_instrument.n.01",
+      "musical_instrument.n.01",
+      "device.n.01",
+      "instrumentality.n.03",
+      "artifact.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "artifact",
+    "psc_synset": "artifact.n.01",
+    "psc_definitions": [
+      "a man-made object taken as a whole"
+    ]
+  },
+  {
+    "game_id": 16096,
+    "sampling_hypothesis": "conifer",
+    "target_hypothesis": "plant",
+    "initial_examples": [
+      "yellow cypress",
+      "common sickle pine",
+      "nagi"
+    ],
+    "hypernym_path": [
+      "conifer",
+      "gymnospermous_tree",
+      "tree",
+      "woody_plant",
+      "vascular_plant",
+      "plant"
+    ],
+    "hypernym_synsets": [
+      "conifer.n.01",
+      "gymnospermous_tree.n.01",
+      "tree.n.01",
+      "woody_plant.n.01",
+      "vascular_plant.n.01",
+      "plant.n.02"
+    ],
+    "distance_group": "deep",
+    "distance": 6,
+    "psc": "plant",
+    "psc_synset": "plant.n.02",
+    "psc_definitions": [
+      "(botany) a living organism lacking the power of locomotion",
+      "all the plant life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 3947,
+    "sampling_hypothesis": "bird_of_prey",
+    "target_hypothesis": "animal",
+    "initial_examples": [
+      "red-shouldered hawk",
+      "Kamchatkan sea eagle",
+      "osprey"
+    ],
+    "hypernym_path": [
+      "bird_of_prey",
+      "bird",
+      "vertebrate",
+      "chordate",
+      "animal"
+    ],
+    "hypernym_synsets": [
+      "bird_of_prey.n.01",
+      "bird.n.01",
+      "vertebrate.n.01",
+      "chordate.n.01",
+      "animal.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "animal",
+    "psc_synset": "animal.n.01",
+    "psc_definitions": [
+      "a living organism characterized by voluntary movement",
+      "all the animal life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 15598,
+    "sampling_hypothesis": "larch",
+    "target_hypothesis": "plant",
+    "initial_examples": [
+      "western larch",
+      "subalpine larch",
+      "European larch"
+    ],
+    "hypernym_path": [
+      "larch",
+      "conifer",
+      "gymnospermous_tree",
+      "tree",
+      "woody_plant",
+      "vascular_plant",
+      "plant"
+    ],
+    "hypernym_synsets": [
+      "larch.n.02",
+      "conifer.n.01",
+      "gymnospermous_tree.n.01",
+      "tree.n.01",
+      "woody_plant.n.01",
+      "vascular_plant.n.01",
+      "plant.n.02"
+    ],
+    "distance_group": "deep",
+    "distance": 7,
+    "psc": "plant",
+    "psc_synset": "plant.n.02",
+    "psc_definitions": [
+      "(botany) a living organism lacking the power of locomotion",
+      "all the plant life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 5184,
+    "sampling_hypothesis": "measuring_instrument",
+    "target_hypothesis": "artifact",
+    "initial_examples": [
+      "Kundt's tube",
+      "pelvimeter",
+      "tensiometer"
+    ],
+    "hypernym_path": [
+      "measuring_instrument",
+      "instrument",
+      "device",
+      "instrumentality",
+      "artifact"
+    ],
+    "hypernym_synsets": [
+      "measuring_instrument.n.01",
+      "instrument.n.01",
+      "device.n.01",
+      "instrumentality.n.03",
+      "artifact.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "artifact",
+    "psc_synset": "artifact.n.01",
+    "psc_definitions": [
+      "a man-made object taken as a whole"
+    ]
+  },
+  {
+    "game_id": 12095,
+    "sampling_hypothesis": "flatbread",
+    "target_hypothesis": "food",
+    "initial_examples": [
+      "flatbrod",
+      "bannock",
+      "pita"
+    ],
+    "hypernym_path": [
+      "flatbread",
+      "bread",
+      "starches",
+      "foodstuff",
+      "food"
+    ],
+    "hypernym_synsets": [
+      "flatbread.n.01",
+      "bread.n.01",
+      "starches.n.01",
+      "foodstuff.n.02",
+      "food.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "food",
+    "psc_synset": "food.n.01",
+    "psc_definitions": [
+      "any substance that can be metabolized by an animal to give energy and build tissue",
+      "any solid substance (as opposed to liquid) that is used as a source of nourishment"
+    ]
+  },
+  {
+    "game_id": 5807,
+    "sampling_hypothesis": "cutting_implement",
+    "target_hypothesis": "artifact",
+    "initial_examples": [
+      "case knife",
+      "jack plane",
+      "match plane"
+    ],
+    "hypernym_path": [
+      "cutting_implement",
+      "tool",
+      "implement",
+      "instrumentality",
+      "artifact"
+    ],
+    "hypernym_synsets": [
+      "cutting_implement.n.01",
+      "tool.n.01",
+      "implement.n.01",
+      "instrumentality.n.03",
+      "artifact.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 5,
+    "psc": "artifact",
+    "psc_synset": "artifact.n.01",
+    "psc_definitions": [
+      "a man-made object taken as a whole"
+    ]
+  },
+  {
+    "game_id": 15790,
+    "sampling_hypothesis": "fir",
+    "target_hypothesis": "plant",
+    "initial_examples": [
+      "Santa Lucia fir",
+      "white fir",
+      "Fraser fir"
+    ],
+    "hypernym_path": [
+      "fir",
+      "conifer",
+      "gymnospermous_tree",
+      "tree",
+      "woody_plant",
+      "vascular_plant",
+      "plant"
+    ],
+    "hypernym_synsets": [
+      "fir.n.02",
+      "conifer.n.01",
+      "gymnospermous_tree.n.01",
+      "tree.n.01",
+      "woody_plant.n.01",
+      "vascular_plant.n.01",
+      "plant.n.02"
+    ],
+    "distance_group": "deep",
+    "distance": 7,
+    "psc": "plant",
+    "psc_synset": "plant.n.02",
+    "psc_definitions": [
+      "(botany) a living organism lacking the power of locomotion",
+      "all the plant life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 16249,
+    "sampling_hypothesis": "cedar",
+    "target_hypothesis": "plant",
+    "initial_examples": [
+      "southern white cedar",
+      "Oregon cedar",
+      "pahautea"
+    ],
+    "hypernym_path": [
+      "cedar",
+      "conifer",
+      "gymnospermous_tree",
+      "tree",
+      "woody_plant",
+      "vascular_plant",
+      "plant"
+    ],
+    "hypernym_synsets": [
+      "cedar.n.01",
+      "conifer.n.01",
+      "gymnospermous_tree.n.01",
+      "tree.n.01",
+      "woody_plant.n.01",
+      "vascular_plant.n.01",
+      "plant.n.02"
+    ],
+    "distance_group": "deep",
+    "distance": 7,
+    "psc": "plant",
+    "psc_synset": "plant.n.02",
+    "psc_definitions": [
+      "(botany) a living organism lacking the power of locomotion",
+      "all the plant life in a particular region or period"
+    ]
+  },
+  {
+    "game_id": 1136,
+    "sampling_hypothesis": "bony_fish",
+    "target_hypothesis": "animal",
+    "initial_examples": [
+      "deepwater pipefish",
+      "John Dory",
+      "beaugregory"
+    ],
+    "hypernym_path": [
+      "bony_fish",
+      "fish",
+      "aquatic_vertebrate",
+      "vertebrate",
+      "chordate",
+      "animal"
+    ],
+    "hypernym_synsets": [
+      "bony_fish.n.01",
+      "fish.n.01",
+      "aquatic_vertebrate.n.01",
+      "vertebrate.n.01",
+      "chordate.n.01",
+      "animal.n.01"
+    ],
+    "distance_group": "deep",
+    "distance": 6,
+    "psc": "animal",
+    "psc_synset": "animal.n.01",
+    "psc_definitions": [
+      "a living organism characterized by voluntary movement",
+      "all the animal life in a particular region or period"
+    ]
+  }
+]

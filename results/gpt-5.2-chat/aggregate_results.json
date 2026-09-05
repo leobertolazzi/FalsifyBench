@@ -1,0 +1,61 @@
+{
+  "overall": {
+    "distance_group": "all",
+    "total_games": 100,
+    "successful_games": 75,
+    "failed_games": 25,
+    "success_rate": 0.75,
+    "avg_guesses_per_game": 2.19,
+    "avg_guesses_per_game_std": 1.75,
+    "avg_guesses_per_game_ci95": 0.35,
+    "avg_turns_to_solution": 5.61,
+    "avg_turns_to_solution_std": 3.04,
+    "avg_turns_to_solution_ci95": 0.7,
+    "avg_positive_testing_bias": 0.273,
+    "avg_positive_testing_bias_std": 0.237,
+    "avg_positive_testing_bias_ci95": 0.047,
+    "avg_conclusive_falsification_rate": 0.495,
+    "avg_conclusive_falsification_rate_std": 0.19,
+    "avg_conclusive_falsification_rate_ci95": 0.038
+  },
+  "by_distance_group": {
+    "close": {
+      "distance_group": "close",
+      "total_games": 50,
+      "successful_games": 36,
+      "failed_games": 14,
+      "success_rate": 0.72,
+      "avg_guesses_per_game": 2.16,
+      "avg_guesses_per_game_std": 1.68,
+      "avg_guesses_per_game_ci95": 0.48,
+      "avg_turns_to_solution": 5.03,
+      "avg_turns_to_solution_std": 2.01,
+      "avg_turns_to_solution_ci95": 0.69,
+      "avg_positive_testing_bias": 0.316,
+      "avg_positive_testing_bias_std": 0.245,
+      "avg_positive_testing_bias_ci95": 0.07,
+      "avg_conclusive_falsification_rate": 0.448,
+      "avg_conclusive_falsification_rate_std": 0.183,
+      "avg_conclusive_falsification_rate_ci95": 0.053
+    },
+    "deep": {
+      "distance_group": "deep",
+      "total_games": 50,
+      "successful_games": 39,
+      "failed_games": 11,
+      "success_rate": 0.78,
+      "avg_guesses_per_game": 2.22,
+      "avg_guesses_per_game_std": 1.83,
+      "avg_guesses_per_game_ci95": 0.52,
+      "avg_turns_to_solution": 6.15,
+      "avg_turns_to_solution_std": 3.67,
+      "avg_turns_to_solution_ci95": 1.2,
+      "avg_positive_testing_bias": 0.23,
+      "avg_positive_testing_bias_std": 0.22,
+      "avg_positive_testing_bias_ci95": 0.063,
+      "avg_conclusive_falsification_rate": 0.542,
+      "avg_conclusive_falsification_rate_std": 0.185,
+      "avg_conclusive_falsification_rate_ci95": 0.053
+    }
+  }
+}

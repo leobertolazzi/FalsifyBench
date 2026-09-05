@@ -1,0 +1,62 @@
+{
+  "analysis": "game_level_mixed_effects_logit",
+  "outcome": "success",
+  "predictors": [
+    "positive_testing_bias",
+    "oracle_any_error"
+  ],
+  "random_effect": "model",
+  "results_dir": "results",
+  "annotation_dir": "results/annotation_pairs_oracle",
+  "rows_output_path": "results/mixed_effect_analysis/game_level_mixed_effects_rows.csv",
+  "plot_output_path": "results/mixed_effect_analysis/game_level_mixed_effects_plot.png",
+  "total_game_rows": 1200,
+  "games_with_oracle_annotations": 1200,
+  "models_total": 12,
+  "models_with_oracle_annotations": 12,
+  "oracle_annotation_note": "oracle_any_error is derived from sampled human-vs-LLM disagreements in guess_target_equivalence and test_turn_target_judgment annotation pairs.",
+  "fit": {
+    "status": "ok",
+    "formula": "success ~ positive_testing_bias + oracle_any_error",
+    "complete_case_games": 1200,
+    "models_in_fit": [
+      "MiniMaxAI_MiniMax-M2.5",
+      "Qwen_Qwen3.5-9B",
+      "deepseek-ai_DeepSeek-V3.1",
+      "gpt-5-mini",
+      "gpt-5-nano",
+      "gpt-5.2-chat",
+      "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+      "mistralai_Mistral-Small-24B-Instruct-2501",
+      "moonshotai_Kimi-K2.5",
+      "openai_gpt-oss-120b",
+      "openai_gpt-oss-20b",
+      "zai-org_GLM-5"
+    ],
+    "fixed_effects": {
+      "Intercept": {
+        "posterior_mean": 1.9554068415050347,
+        "posterior_sd": 0.0660235271715942,
+        "odds_ratio": 7.066793503837521
+      },
+      "positive_testing_bias": {
+        "posterior_mean": -4.147615934718183,
+        "posterior_sd": 0.1162741844236305,
+        "odds_ratio": 0.015802044719145123
+      },
+      "oracle_any_error": {
+        "posterior_mean": -0.12252687770695882,
+        "posterior_sd": 0.14676214655557568,
+        "odds_ratio": 0.8846821263969836
+      }
+    },
+    "random_effects": {
+      "model": {
+        "log_sd_posterior_mean": -0.5917465946391817,
+        "log_sd_posterior_sd": 0.20490884113647084,
+        "implied_sd": 0.5533599446920172
+      }
+    },
+    "fit_method": "BinomialBayesMixedGLM.fit_vb"
+  }
+}

@@ -1,0 +1,3581 @@
+{
+  "input_dir": "results/annotation_pairs_oracle",
+  "pair_summaries": [
+    {
+      "pair_name": "guess_target_equivalence",
+      "llm_file": "results/annotation_pairs_oracle/guess_target_equivalence_llm.csv",
+      "human_file": "results/annotation_pairs_oracle/guess_target_equivalence_human.csv",
+      "rows_in_llm": 1132,
+      "rows_in_human": 1132,
+      "rows_shared": 1132,
+      "rows_only_in_llm": 0,
+      "rows_only_in_human": 0,
+      "rows_with_missing_human_judgment": 0,
+      "rows_compared": 1132,
+      "matches": 1001,
+      "mismatches": 131,
+      "percent_agreement": 0.8842756183745583,
+      "cohen_kappa": 0.755566397879593,
+      "llm_label_counts": {
+        "no": 700,
+        "yes": 432
+      },
+      "human_label_counts": {
+        "no": 693,
+        "yes": 439
+      },
+      "by_model": {
+        "MiniMaxAI_MiniMax-M2.5": {
+          "rows_compared": 91,
+          "matches": 76,
+          "mismatches": 15,
+          "percent_agreement": 0.8351648351648352,
+          "cohen_kappa": 0.6694114797771858,
+          "llm_label_counts": {
+            "no": 57,
+            "yes": 34
+          },
+          "human_label_counts": {
+            "no": 46,
+            "yes": 45
+          }
+        },
+        "Qwen_Qwen3.5-9B": {
+          "rows_compared": 88,
+          "matches": 66,
+          "mismatches": 22,
+          "percent_agreement": 0.75,
+          "cohen_kappa": 0.4248366013071896,
+          "llm_label_counts": {
+            "no": 67,
+            "yes": 21
+          },
+          "human_label_counts": {
+            "no": 55,
+            "yes": 33
+          }
+        },
+        "deepseek-ai_DeepSeek-V3.1": {
+          "rows_compared": 100,
+          "matches": 85,
+          "mismatches": 15,
+          "percent_agreement": 0.85,
+          "cohen_kappa": 0.6462264150943396,
+          "llm_label_counts": {
+            "no": 70,
+            "yes": 30
+          },
+          "human_label_counts": {
+            "no": 69,
+            "yes": 31
+          }
+        },
+        "gpt-5-mini": {
+          "rows_compared": 98,
+          "matches": 82,
+          "mismatches": 16,
+          "percent_agreement": 0.8367346938775511,
+          "cohen_kappa": 0.6730608840700585,
+          "llm_label_counts": {
+            "no": 50,
+            "yes": 48
+          },
+          "human_label_counts": {
+            "no": 52,
+            "yes": 46
+          }
+        },
+        "gpt-5-nano": {
+          "rows_compared": 86,
+          "matches": 82,
+          "mismatches": 4,
+          "percent_agreement": 0.9534883720930233,
+          "cohen_kappa": 0.8071748878923768,
+          "llm_label_counts": {
+            "no": 76,
+            "yes": 10
+          },
+          "human_label_counts": {
+            "no": 72,
+            "yes": 14
+          }
+        },
+        "gpt-5.2-chat": {
+          "rows_compared": 100,
+          "matches": 99,
+          "mismatches": 1,
+          "percent_agreement": 0.99,
+          "cohen_kappa": 0.9781659388646288,
+          "llm_label_counts": {
+            "no": 35,
+            "yes": 65
+          },
+          "human_label_counts": {
+            "no": 36,
+            "yes": 64
+          }
+        },
+        "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8": {
+          "rows_compared": 100,
+          "matches": 89,
+          "mismatches": 11,
+          "percent_agreement": 0.89,
+          "cohen_kappa": 0.5338983050847458,
+          "llm_label_counts": {
+            "no": 83,
+            "yes": 17
+          },
+          "human_label_counts": {
+            "no": 90,
+            "yes": 10
+          }
+        },
+        "mistralai_Mistral-Small-24B-Instruct-2501": {
+          "rows_compared": 100,
+          "matches": 85,
+          "mismatches": 15,
+          "percent_agreement": 0.85,
+          "cohen_kappa": 0.3397887323943663,
+          "llm_label_counts": {
+            "no": 81,
+            "yes": 19
+          },
+          "human_label_counts": {
+            "no": 94,
+            "yes": 6
+          }
+        },
+        "moonshotai_Kimi-K2.5": {
+          "rows_compared": 80,
+          "matches": 74,
+          "mismatches": 6,
+          "percent_agreement": 0.925,
+          "cohen_kappa": 0.8421052631578948,
+          "llm_label_counts": {
+            "no": 30,
+            "yes": 50
+          },
+          "human_label_counts": {
+            "no": 32,
+            "yes": 48
+          }
+        },
+        "openai_gpt-oss-120b": {
+          "rows_compared": 100,
+          "matches": 88,
+          "mismatches": 12,
+          "percent_agreement": 0.88,
+          "cohen_kappa": 0.7597116539847817,
+          "llm_label_counts": {
+            "no": 47,
+            "yes": 53
+          },
+          "human_label_counts": {
+            "no": 49,
+            "yes": 51
+          }
+        },
+        "openai_gpt-oss-20b": {
+          "rows_compared": 99,
+          "matches": 94,
+          "mismatches": 5,
+          "percent_agreement": 0.9494949494949495,
+          "cohen_kappa": 0.8818897637795275,
+          "llm_label_counts": {
+            "no": 71,
+            "yes": 28
+          },
+          "human_label_counts": {
+            "no": 66,
+            "yes": 33
+          }
+        },
+        "zai-org_GLM-5": {
+          "rows_compared": 90,
+          "matches": 81,
+          "mismatches": 9,
+          "percent_agreement": 0.9,
+          "cohen_kappa": 0.7833065810593901,
+          "llm_label_counts": {
+            "no": 33,
+            "yes": 57
+          },
+          "human_label_counts": {
+            "no": 32,
+            "yes": 58
+          }
+        }
+      },
+      "by_target_property": {
+        "animal": {
+          "rows_compared": 234,
+          "matches": 208,
+          "mismatches": 26,
+          "percent_agreement": 0.8888888888888888,
+          "cohen_kappa": 0.7770448548812664,
+          "llm_label_counts": {
+            "no": 112,
+            "yes": 122
+          },
+          "human_label_counts": {
+            "no": 108,
+            "yes": 126
+          }
+        },
+        "artifact": {
+          "rows_compared": 211,
+          "matches": 199,
+          "mismatches": 12,
+          "percent_agreement": 0.943127962085308,
+          "cohen_kappa": 0.7675358060962173,
+          "llm_label_counts": {
+            "no": 185,
+            "yes": 26
+          },
+          "human_label_counts": {
+            "no": 177,
+            "yes": 34
+          }
+        },
+        "body_part": {
+          "rows_compared": 230,
+          "matches": 183,
+          "mismatches": 47,
+          "percent_agreement": 0.7956521739130434,
+          "cohen_kappa": 0.5716097329000555,
+          "llm_label_counts": {
+            "no": 134,
+            "yes": 96
+          },
+          "human_label_counts": {
+            "no": 147,
+            "yes": 83
+          }
+        },
+        "food": {
+          "rows_compared": 225,
+          "matches": 193,
+          "mismatches": 32,
+          "percent_agreement": 0.8577777777777778,
+          "cohen_kappa": 0.7140814867762687,
+          "llm_label_counts": {
+            "no": 127,
+            "yes": 98
+          },
+          "human_label_counts": {
+            "no": 117,
+            "yes": 108
+          }
+        },
+        "plant": {
+          "rows_compared": 232,
+          "matches": 218,
+          "mismatches": 14,
+          "percent_agreement": 0.9396551724137931,
+          "cohen_kappa": 0.8724072910119423,
+          "llm_label_counts": {
+            "no": 142,
+            "yes": 90
+          },
+          "human_label_counts": {
+            "no": 144,
+            "yes": 88
+          }
+        }
+      },
+      "disagreements": [
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "1154",
+          "turn_number": "7",
+          "guess": "animals",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "11921",
+          "turn_number": "11",
+          "guess": "edible",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "16249",
+          "turn_number": "8",
+          "guess": "plants",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "1943",
+          "turn_number": "15",
+          "guess": "Shark",
+          "target_property": "animal",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "2971",
+          "turn_number": "10",
+          "guess": "animals",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "3192",
+          "turn_number": "7",
+          "guess": "is an animal",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "4020",
+          "turn_number": "7",
+          "guess": "animal body parts",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "4348",
+          "turn_number": "6",
+          "guess": "body parts",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "4368",
+          "turn_number": "11",
+          "guess": "animal body parts",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "4450",
+          "turn_number": "5",
+          "guess": "body parts",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "4779",
+          "turn_number": "18",
+          "guess": "man-made object",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "5184",
+          "turn_number": "14",
+          "guess": "man-made objects",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "5653",
+          "turn_number": "17",
+          "guess": "man-made objects",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "6396",
+          "turn_number": "9",
+          "guess": "man-made",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "9650",
+          "turn_number": "11",
+          "guess": "mucous membrane",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "10237",
+          "turn_number": "7",
+          "guess": "food or beverage items",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "10981",
+          "turn_number": "9",
+          "guess": "food items",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "10986",
+          "turn_number": "14",
+          "guess": "food items",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "11006",
+          "turn_number": "20",
+          "guess": "edible items",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "11059",
+          "turn_number": "7",
+          "guess": "food items",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "11921",
+          "turn_number": "15",
+          "guess": "edible food items",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "12016",
+          "turn_number": "20",
+          "guess": "Commonly consumed solid food items",
+          "target_property": "food",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "12377",
+          "turn_number": "12",
+          "guess": "edible food items",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "1261",
+          "turn_number": "12",
+          "guess": "real animal species",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "1551",
+          "turn_number": "19",
+          "guess": "Specific, formally named human anatomical structures (excluding body regions, categories, or descriptive adjectives)",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "15598",
+          "turn_number": "14",
+          "guess": "botanical plant names (common or scientific)",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "1725",
+          "turn_number": "16",
+          "guess": "animals",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "17257",
+          "turn_number": "18",
+          "guess": "plants",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "3852",
+          "turn_number": "6",
+          "guess": "animals",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "4032",
+          "turn_number": "3",
+          "guess": "respiratory structures in animals",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "4465",
+          "turn_number": "19",
+          "guess": "parts of the human body",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "62",
+          "turn_number": "4",
+          "guess": "animals",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "658",
+          "turn_number": "9",
+          "guess": "animals",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "9624",
+          "turn_number": "20",
+          "guess": "animal anatomical structures",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "9650",
+          "turn_number": "11",
+          "guess": "human body structures",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "9670",
+          "turn_number": "9",
+          "guess": "named anatomical structures",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "9949",
+          "turn_number": "8",
+          "guess": "anatomical terms",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "10838",
+          "turn_number": "7",
+          "guess": "edible",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "10858",
+          "turn_number": "11",
+          "guess": "edible",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "11059",
+          "turn_number": "4",
+          "guess": "dessert pudding",
+          "target_property": "food",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "11263",
+          "turn_number": "10",
+          "guess": "edible",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "1154",
+          "turn_number": "19",
+          "guess": "animals",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "12095",
+          "turn_number": "15",
+          "guess": "unleavened bread",
+          "target_property": "food",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "16152",
+          "turn_number": "8",
+          "guess": "tree",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "3966",
+          "turn_number": "17",
+          "guess": "animals",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "4368",
+          "turn_number": "8",
+          "guess": "anatomical structures",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "4458",
+          "turn_number": "7",
+          "guess": "proboscis",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "4784",
+          "turn_number": "11",
+          "guess": "man-made object",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "6606",
+          "turn_number": "12",
+          "guess": "artifacts",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "9334",
+          "turn_number": "13",
+          "guess": "anatomical terms",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "9596",
+          "turn_number": "18",
+          "guess": "nose",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "9650",
+          "turn_number": "13",
+          "guess": "mucous membrane",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "10074",
+          "turn_number": "7",
+          "guess": "named anatomical structures (human anatomy)",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "10529",
+          "turn_number": "7",
+          "guess": "edible (food or food ingredient)",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "10981",
+          "turn_number": "9",
+          "guess": "Food or drink intended for human consumption",
+          "target_property": "food",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "11006",
+          "turn_number": "11",
+          "guess": "items intended for consumption as food or non-alcoholic beverages (edible/ drinkable items), excluding medicines and alcoholic drinks",
+          "target_property": "food",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "11384",
+          "turn_number": "14",
+          "guess": "Items that are food or drink (intended to be eaten or drunk)",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "12095",
+          "turn_number": "11",
+          "guess": "food or drink (edible/drinkable items intended for consumption)",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "1551",
+          "turn_number": "5",
+          "guess": "anatomical terms (names of body parts or anatomical structures)",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "15790",
+          "turn_number": "16",
+          "guess": "Viridiplantae (green plants)",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "16414",
+          "turn_number": "4",
+          "guess": "is a plant (a common plant name)",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "2806",
+          "turn_number": "10",
+          "guess": "is the name of an animal (common animal name, including breeds)",
+          "target_property": "animal",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "4020",
+          "turn_number": "12",
+          "guess": "anatomical/morphological structures of non-plant eukaryotes (animals, fungi, protists) \u2014 i.e., organismal body parts or external cellular appendages, excluding plant organs, intracellular organelles, and prokaryotic structures",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "4348",
+          "turn_number": "7",
+          "guess": "names of animal (including human) anatomical body parts / anatomical structures",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "4779",
+          "turn_number": "12",
+          "guess": "man-made (manufactured) objects",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "658",
+          "turn_number": "5",
+          "guess": "is the name of an animal",
+          "target_property": "animal",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "9334",
+          "turn_number": "8",
+          "guess": "animal body parts (anatomical parts of animals)",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "9616",
+          "turn_number": "6",
+          "guess": "Any anatomical or morphological part/structure of a living organism (organ, body part, or organ-like structure, in animals, plants, fungi, etc.)",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-nano",
+          "game_id": "11199",
+          "turn_number": "5",
+          "guess": "edible",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-nano",
+          "game_id": "16096",
+          "turn_number": "7",
+          "guess": "plants",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-nano",
+          "game_id": "3172",
+          "turn_number": "7",
+          "guess": "All items are animals",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-nano",
+          "game_id": "4784",
+          "turn_number": "20",
+          "guess": "man-made objects",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5.2-chat",
+          "game_id": "9670",
+          "turn_number": "8",
+          "guess": "Gross anatomical structures (not tissues or cell types)",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "10074",
+          "turn_number": "10",
+          "guess": "having a Latin anatomical name",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "10838",
+          "turn_number": "5",
+          "guess": "contains multiple components",
+          "target_property": "food",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "1943",
+          "turn_number": "20",
+          "guess": "animals",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "357",
+          "turn_number": "4",
+          "guess": "animals that are real",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "4313",
+          "turn_number": "5",
+          "guess": "human anatomical terms",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "4368",
+          "turn_number": "20",
+          "guess": "ends with 'oid'",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "4465",
+          "turn_number": "4",
+          "guess": "anatomical term",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "6380",
+          "turn_number": "4",
+          "guess": "Contains the letter sequence of a common English word",
+          "target_property": "artifact",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "9433",
+          "turn_number": "4",
+          "guess": "anatomical terms",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "9616",
+          "turn_number": "19",
+          "guess": "bilaterally paired sensory structure",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "9949",
+          "turn_number": "6",
+          "guess": "anatomical term",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "10074",
+          "turn_number": "6",
+          "guess": "blood vessels",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "10986",
+          "turn_number": "14",
+          "guess": "frozen dairy treats",
+          "target_property": "food",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "1136",
+          "turn_number": "10",
+          "guess": "saltwater fish",
+          "target_property": "animal",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "1551",
+          "turn_number": "4",
+          "guess": "parts of the human body",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "17047",
+          "turn_number": "17",
+          "guess": "All items are plants",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "1725",
+          "turn_number": "4",
+          "guess": "shark",
+          "target_property": "animal",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "17361",
+          "turn_number": "6",
+          "guess": "parts of a magnolia plant",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "1943",
+          "turn_number": "8",
+          "guess": "marine animals that live in the sea",
+          "target_property": "animal",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "3172",
+          "turn_number": "11",
+          "guess": "birds that primarily live in or around water",
+          "target_property": "animal",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "3852",
+          "turn_number": "12",
+          "guess": "birds of prey",
+          "target_property": "animal",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "4313",
+          "turn_number": "6",
+          "guess": "internal body parts of living organisms",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "4348",
+          "turn_number": "5",
+          "guess": "bones in the human body",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "6543",
+          "turn_number": "11",
+          "guess": "contains the letter 't'",
+          "target_property": "artifact",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "9616",
+          "turn_number": "16",
+          "guess": "organs or structures involved in physiological function",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "9670",
+          "turn_number": "3",
+          "guess": "extraocular muscles",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "moonshotai_Kimi-K2.5",
+          "game_id": "1066",
+          "turn_number": "10",
+          "guess": "triploblastic animals",
+          "target_property": "animal",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "moonshotai_Kimi-K2.5",
+          "game_id": "15245",
+          "turn_number": "10",
+          "guess": "embryophytes",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "moonshotai_Kimi-K2.5",
+          "game_id": "15310",
+          "turn_number": "17",
+          "guess": "multicellular photosynthetic organisms",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "moonshotai_Kimi-K2.5",
+          "game_id": "16120",
+          "turn_number": "8",
+          "guess": "plants",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "moonshotai_Kimi-K2.5",
+          "game_id": "5184",
+          "turn_number": "12",
+          "guess": "human-made",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "moonshotai_Kimi-K2.5",
+          "game_id": "9670",
+          "turn_number": "19",
+          "guess": "gross anatomical structures",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "10074",
+          "turn_number": "8",
+          "guess": "human body part",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "10981",
+          "turn_number": "5",
+          "guess": "edible",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "10986",
+          "turn_number": "6",
+          "guess": "The ice\u2011cream flavor name is derived from something edible\u2014a food, ingredient, or dish.",
+          "target_property": "food",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "10994",
+          "turn_number": "5",
+          "guess": "edible",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "11199",
+          "turn_number": "5",
+          "guess": "edible",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "11263",
+          "turn_number": "6",
+          "guess": "item provides caloric energy (i.e., it is a food that contains calories)",
+          "target_property": "food",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "1136",
+          "turn_number": "10",
+          "guess": "All three items are common names of animal species",
+          "target_property": "animal",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "15508",
+          "turn_number": "7",
+          "guess": "Each item is the name of a plant (tree, shrub, herb, cactus, etc.)",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "3852",
+          "turn_number": "6",
+          "guess": "being the common name of an animal (any animal species)",
+          "target_property": "animal",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "6607",
+          "turn_number": "17",
+          "guess": "man-made object",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "9457",
+          "turn_number": "6",
+          "guess": "any term that refers to a human anatomical structure (muscle, bone, organ, vessel, brain region, etc.)",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "9949",
+          "turn_number": "4",
+          "guess": "anatomical term (a name for a part of the human body)",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "10838",
+          "turn_number": "11",
+          "guess": "edible",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "10986",
+          "turn_number": "5",
+          "guess": "edible",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "1943",
+          "turn_number": "4",
+          "guess": "animals",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "4450",
+          "turn_number": "19",
+          "guess": "body part of an animal",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "9596",
+          "turn_number": "10",
+          "guess": "animal anatomical part",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "10074",
+          "turn_number": "8",
+          "guess": "human anatomical terms (names of body parts)",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "10981",
+          "turn_number": "8",
+          "guess": "is a food (as opposed to a beverage)",
+          "target_property": "food",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "11263",
+          "turn_number": "15",
+          "guess": "food items",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "12016",
+          "turn_number": "18",
+          "guess": "foods (items commonly considered food, not beverages or ingredients)",
+          "target_property": "food",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "1551",
+          "turn_number": "7",
+          "guess": "anatomical structure",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "16469",
+          "turn_number": "14",
+          "guess": "names of plants",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "2971",
+          "turn_number": "7",
+          "guess": "animal species",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "9616",
+          "turn_number": "10",
+          "guess": "anatomical structures of vertebrate animals",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "9949",
+          "turn_number": "9",
+          "guess": "anatomical structure",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        }
+      ]
+    },
+    {
+      "pair_name": "test_turn_target_judgment",
+      "llm_file": "results/annotation_pairs_oracle/test_turn_target_judgment_llm.csv",
+      "human_file": "results/annotation_pairs_oracle/test_turn_target_judgment_human.csv",
+      "rows_in_llm": 1200,
+      "rows_in_human": 1200,
+      "rows_shared": 1200,
+      "rows_only_in_llm": 0,
+      "rows_only_in_human": 0,
+      "rows_with_missing_human_judgment": 0,
+      "rows_compared": 1200,
+      "matches": 1073,
+      "mismatches": 127,
+      "percent_agreement": 0.8941666666666667,
+      "cohen_kappa": 0.726920871559633,
+      "llm_label_counts": {
+        "no": 347,
+        "yes": 853
+      },
+      "human_label_counts": {
+        "no": 280,
+        "yes": 920
+      },
+      "by_model": {
+        "MiniMaxAI_MiniMax-M2.5": {
+          "rows_compared": 100,
+          "matches": 96,
+          "mismatches": 4,
+          "percent_agreement": 0.96,
+          "cohen_kappa": 0.9082568807339448,
+          "llm_label_counts": {
+            "no": 34,
+            "yes": 66
+          },
+          "human_label_counts": {
+            "no": 30,
+            "yes": 70
+          }
+        },
+        "Qwen_Qwen3.5-9B": {
+          "rows_compared": 100,
+          "matches": 78,
+          "mismatches": 22,
+          "percent_agreement": 0.78,
+          "cohen_kappa": 0.4513715710723193,
+          "llm_label_counts": {
+            "no": 35,
+            "yes": 65
+          },
+          "human_label_counts": {
+            "no": 17,
+            "yes": 83
+          }
+        },
+        "deepseek-ai_DeepSeek-V3.1": {
+          "rows_compared": 100,
+          "matches": 87,
+          "mismatches": 13,
+          "percent_agreement": 0.87,
+          "cohen_kappa": 0.6298405466970387,
+          "llm_label_counts": {
+            "no": 26,
+            "yes": 74
+          },
+          "human_label_counts": {
+            "no": 19,
+            "yes": 81
+          }
+        },
+        "gpt-5-mini": {
+          "rows_compared": 100,
+          "matches": 91,
+          "mismatches": 9,
+          "percent_agreement": 0.91,
+          "cohen_kappa": 0.7794117647058825,
+          "llm_label_counts": {
+            "no": 30,
+            "yes": 70
+          },
+          "human_label_counts": {
+            "no": 27,
+            "yes": 73
+          }
+        },
+        "gpt-5-nano": {
+          "rows_compared": 100,
+          "matches": 92,
+          "mismatches": 8,
+          "percent_agreement": 0.92,
+          "cohen_kappa": 0.7167138810198301,
+          "llm_label_counts": {
+            "no": 18,
+            "yes": 82
+          },
+          "human_label_counts": {
+            "no": 16,
+            "yes": 84
+          }
+        },
+        "gpt-5.2-chat": {
+          "rows_compared": 100,
+          "matches": 99,
+          "mismatches": 1,
+          "percent_agreement": 0.99,
+          "cohen_kappa": 0.9790794979079498,
+          "llm_label_counts": {
+            "no": 40,
+            "yes": 60
+          },
+          "human_label_counts": {
+            "no": 39,
+            "yes": 61
+          }
+        },
+        "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8": {
+          "rows_compared": 100,
+          "matches": 90,
+          "mismatches": 10,
+          "percent_agreement": 0.9,
+          "cohen_kappa": 0.6081504702194359,
+          "llm_label_counts": {
+            "no": 16,
+            "yes": 84
+          },
+          "human_label_counts": {
+            "no": 14,
+            "yes": 86
+          }
+        },
+        "mistralai_Mistral-Small-24B-Instruct-2501": {
+          "rows_compared": 100,
+          "matches": 84,
+          "mismatches": 16,
+          "percent_agreement": 0.84,
+          "cohen_kappa": 0.35483870967741893,
+          "llm_label_counts": {
+            "no": 20,
+            "yes": 80
+          },
+          "human_label_counts": {
+            "no": 8,
+            "yes": 92
+          }
+        },
+        "moonshotai_Kimi-K2.5": {
+          "rows_compared": 100,
+          "matches": 90,
+          "mismatches": 10,
+          "percent_agreement": 0.9,
+          "cohen_kappa": 0.766355140186916,
+          "llm_label_counts": {
+            "no": 32,
+            "yes": 68
+          },
+          "human_label_counts": {
+            "no": 30,
+            "yes": 70
+          }
+        },
+        "openai_gpt-oss-120b": {
+          "rows_compared": 100,
+          "matches": 93,
+          "mismatches": 7,
+          "percent_agreement": 0.93,
+          "cohen_kappa": 0.8287671232876713,
+          "llm_label_counts": {
+            "no": 31,
+            "yes": 69
+          },
+          "human_label_counts": {
+            "no": 26,
+            "yes": 74
+          }
+        },
+        "openai_gpt-oss-20b": {
+          "rows_compared": 100,
+          "matches": 84,
+          "mismatches": 16,
+          "percent_agreement": 0.84,
+          "cohen_kappa": 0.5813710099424385,
+          "llm_label_counts": {
+            "no": 31,
+            "yes": 69
+          },
+          "human_label_counts": {
+            "no": 19,
+            "yes": 81
+          }
+        },
+        "zai-org_GLM-5": {
+          "rows_compared": 100,
+          "matches": 89,
+          "mismatches": 11,
+          "percent_agreement": 0.89,
+          "cohen_kappa": 0.7566371681415929,
+          "llm_label_counts": {
+            "no": 34,
+            "yes": 66
+          },
+          "human_label_counts": {
+            "no": 35,
+            "yes": 65
+          }
+        }
+      },
+      "by_target_property": {
+        "animal": {
+          "rows_compared": 240,
+          "matches": 232,
+          "mismatches": 8,
+          "percent_agreement": 0.9666666666666667,
+          "cohen_kappa": 0.903177004538578,
+          "llm_label_counts": {
+            "no": 55,
+            "yes": 185
+          },
+          "human_label_counts": {
+            "no": 51,
+            "yes": 189
+          }
+        },
+        "artifact": {
+          "rows_compared": 240,
+          "matches": 188,
+          "mismatches": 52,
+          "percent_agreement": 0.7833333333333333,
+          "cohen_kappa": 0.5243539903956095,
+          "llm_label_counts": {
+            "no": 99,
+            "yes": 141
+          },
+          "human_label_counts": {
+            "no": 59,
+            "yes": 181
+          }
+        },
+        "body_part": {
+          "rows_compared": 240,
+          "matches": 217,
+          "mismatches": 23,
+          "percent_agreement": 0.9041666666666667,
+          "cohen_kappa": 0.7258641239570918,
+          "llm_label_counts": {
+            "no": 63,
+            "yes": 177
+          },
+          "human_label_counts": {
+            "no": 44,
+            "yes": 196
+          }
+        },
+        "food": {
+          "rows_compared": 240,
+          "matches": 226,
+          "mismatches": 14,
+          "percent_agreement": 0.9416666666666667,
+          "cohen_kappa": 0.8432104526364909,
+          "llm_label_counts": {
+            "no": 65,
+            "yes": 175
+          },
+          "human_label_counts": {
+            "no": 53,
+            "yes": 187
+          }
+        },
+        "plant": {
+          "rows_compared": 240,
+          "matches": 210,
+          "mismatches": 30,
+          "percent_agreement": 0.875,
+          "cohen_kappa": 0.6953025814642404,
+          "llm_label_counts": {
+            "no": 65,
+            "yes": 175
+          },
+          "human_label_counts": {
+            "no": 73,
+            "yes": 167
+          }
+        }
+      },
+      "disagreements": [
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "11459",
+          "turn_number": "13",
+          "triple": "soda | milk | coffee",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "4020",
+          "turn_number": "14",
+          "triple": "epithelium | muscle tissue | nervous tissue",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "5506",
+          "turn_number": "19",
+          "triple": "network | software | hardware",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "MiniMaxAI_MiniMax-M2.5",
+          "game_id": "9650",
+          "turn_number": "5",
+          "triple": "retina | sclera | vitreous humor",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "11263",
+          "turn_number": "16",
+          "triple": "sandwich | bun | can",
+          "target_property": "food",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "15790",
+          "turn_number": "15",
+          "triple": "Fern | Corn | Pinecone",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "17248",
+          "turn_number": "4",
+          "triple": "Banana | Orange | Coconut",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "4779",
+          "turn_number": "19",
+          "triple": "chopper coil | fuel injector coil | starter relay",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "4784",
+          "turn_number": "4",
+          "triple": "solar panel | generator | motor",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "5224",
+          "turn_number": "16",
+          "triple": "felt | plastic | fabric",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "5265",
+          "turn_number": "18",
+          "triple": "cello | piano | saxophone",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "5506",
+          "turn_number": "8",
+          "triple": "cell | channel | screen",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "5516",
+          "turn_number": "7",
+          "triple": "vacuum tube | electron tube | thermionic valve",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "5652",
+          "turn_number": "13",
+          "triple": "piano | glockenspiel | sitar",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "5653",
+          "turn_number": "17",
+          "triple": "mallet | reed | valve",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "5757",
+          "turn_number": "2",
+          "triple": "sander | drill | grinder",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "5807",
+          "turn_number": "16",
+          "triple": "file knife | carpenter knife | utility knife",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "6347",
+          "turn_number": "12",
+          "triple": "tote | laundry hamper | hopper",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "6359",
+          "turn_number": "13",
+          "triple": "headache bag | anxiety bag | heart attack bag",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "6380",
+          "turn_number": "20",
+          "triple": "window seat | meat grinder | bookworm",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "6396",
+          "turn_number": "17",
+          "triple": "bucket strap | pencil case | coin purse",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "6543",
+          "turn_number": "7",
+          "triple": "steamer | dhow | yacht",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "6575",
+          "turn_number": "12",
+          "triple": "anti-aircraft ship | minesweeper | tugboat",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "6606",
+          "turn_number": "15",
+          "triple": "frigate | ironclad | sloop",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "6607",
+          "turn_number": "16",
+          "triple": "silk ship | jade ship | gem ship",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "Qwen_Qwen3.5-9B",
+          "game_id": "819",
+          "turn_number": "16",
+          "triple": "coral | jellyfish | manta ray",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "16469",
+          "turn_number": "19",
+          "triple": "basket | oak | bark",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "17047",
+          "turn_number": "8",
+          "triple": "fern | moss | pine",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "1725",
+          "turn_number": "17",
+          "triple": "beef stew | chicken soup | pork roast",
+          "target_property": "animal",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "4032",
+          "turn_number": "9",
+          "triple": "spiracle | trachea | book gill",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "4288",
+          "turn_number": "1",
+          "triple": "femur | scapula | enamel",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "4458",
+          "turn_number": "3",
+          "triple": "hook nose | aquiline nose | bulbous nose",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "4779",
+          "turn_number": "14",
+          "triple": "secondary winding | field coil | excitation coil",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "4875",
+          "turn_number": "12",
+          "triple": "epic | ode | elegy",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "5506",
+          "turn_number": "13",
+          "triple": "mouse | foreground | repeater",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "5807",
+          "turn_number": "1",
+          "triple": "paper knife | wood plane | fire match",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "6396",
+          "turn_number": "11",
+          "triple": "rainwater | bicycle lane | piggy bank",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "9596",
+          "turn_number": "6",
+          "triple": "hammer | anvil | stirrup",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "deepseek-ai_DeepSeek-V3.1",
+          "game_id": "9650",
+          "turn_number": "4",
+          "triple": "blood | bone | muscle",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "15790",
+          "turn_number": "13",
+          "triple": "Chara (stonewort) | sugar maple | oak",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "16864",
+          "turn_number": "8",
+          "triple": "liverwort | horsetail | aloe",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "17257",
+          "turn_number": "7",
+          "triple": "velvet fern | stone rose | city oak",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "17775",
+          "turn_number": "20",
+          "triple": "Spanish moss | sea lettuce | broomrape",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "4465",
+          "turn_number": "3",
+          "triple": "sixth sense | photoreceptor | spleen",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "5506",
+          "turn_number": "7",
+          "triple": "audio | planet | window",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "819",
+          "turn_number": "13",
+          "triple": "dragon | unicorn | phoenix",
+          "target_property": "animal",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "9433",
+          "turn_number": "5",
+          "triple": "acetabulum | stapes | sarcomere",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-mini",
+          "game_id": "9650",
+          "turn_number": "8",
+          "triple": "bronchial mucosa | urinary bladder urothelium | peritoneal mesothelium",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-nano",
+          "game_id": "10529",
+          "turn_number": "16",
+          "triple": "agarose | pectin | xanthan gum",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-nano",
+          "game_id": "16414",
+          "turn_number": "6",
+          "triple": "crystal ivy | amber cedar | azure orchid",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-nano",
+          "game_id": "16469",
+          "turn_number": "14",
+          "triple": "river pine | canyon maple | delta cedar",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-nano",
+          "game_id": "16864",
+          "turn_number": "7",
+          "triple": "purple palm | crystal willow | amber fir",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "gpt-5-nano",
+          "game_id": "5506",
+          "turn_number": "14",
+          "triple": "level | radar | civic",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-nano",
+          "game_id": "9334",
+          "turn_number": "20",
+          "triple": "hyaline cartilage | fibrocartilage | elastic cartilage",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-nano",
+          "game_id": "9650",
+          "turn_number": "12",
+          "triple": "epidermis | endothelium | mesothelium",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5-nano",
+          "game_id": "9949",
+          "turn_number": "3",
+          "triple": "ulnar artery | femoral artery | tibial artery",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "gpt-5.2-chat",
+          "game_id": "9624",
+          "turn_number": "2",
+          "triple": "retina | cochlea | neuron",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "15508",
+          "turn_number": "13",
+          "triple": "gamboge | dragon's blood | myrrh resin",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "16152",
+          "turn_number": "20",
+          "triple": "Pine needle | Pine bark | Pine wood",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "16467",
+          "turn_number": "3",
+          "triple": "pineapple | oak wood | maple syrup",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "17047",
+          "turn_number": "3",
+          "triple": "ebony | sallow | heather plant",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "3172",
+          "turn_number": "14",
+          "triple": "red fox | bluebottle | yellow jacket",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "4032",
+          "turn_number": "9",
+          "triple": "Nudibranch cerata | Dorid nudibranch | Aeolid nudibranch",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "5506",
+          "turn_number": "1",
+          "triple": "house | background | amplifier",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "6380",
+          "turn_number": "1",
+          "triple": "chest | car | john",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "6543",
+          "turn_number": "9",
+          "triple": "gunship | capital ship | sister ship",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8",
+          "game_id": "6606",
+          "turn_number": "7",
+          "triple": "vessel | warrior | warning",
+          "target_property": "artifact",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "1136",
+          "turn_number": "5",
+          "triple": "frog | whale | beaugregory",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "16467",
+          "turn_number": "7",
+          "triple": "mushroom | fern | daisy",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "16469",
+          "turn_number": "3",
+          "triple": "apple | carrot | potato",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "3966",
+          "turn_number": "3",
+          "triple": "bat | butterfly | kite",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "4875",
+          "turn_number": "5",
+          "triple": "lyric | ballad | ode",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "5224",
+          "turn_number": "6",
+          "triple": "ruler | stop sign | paintbrush",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "5652",
+          "turn_number": "15",
+          "triple": "cello | double bass | viola",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "5807",
+          "turn_number": "3",
+          "triple": "wrench | pencil | ladder",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "62",
+          "turn_number": "14",
+          "triple": "pocketed bat | skimmer | Tarsius glis",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "6347",
+          "turn_number": "6",
+          "triple": "sack | bag | pouch",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "6359",
+          "turn_number": "14",
+          "triple": "evidence bag | crime scene bag | forensic bag",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "6380",
+          "turn_number": "2",
+          "triple": "train | bottle | letter",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "6543",
+          "turn_number": "9",
+          "triple": "cattle | flag | submarine",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "6575",
+          "turn_number": "4",
+          "triple": "aircraft carrier | hospital ship | prison ship",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "6607",
+          "turn_number": "3",
+          "triple": "rowboat | yacht | barge",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "mistralai_Mistral-Small-24B-Instruct-2501",
+          "game_id": "9650",
+          "turn_number": "2",
+          "triple": "osteocyte | neuron | hepatocyte",
+          "target_property": "body_part",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "moonshotai_Kimi-K2.5",
+          "game_id": "10994",
+          "turn_number": "18",
+          "triple": "bread | water | juice",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "moonshotai_Kimi-K2.5",
+          "game_id": "11459",
+          "turn_number": "18",
+          "triple": "water | salt | sugar",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "moonshotai_Kimi-K2.5",
+          "game_id": "15310",
+          "turn_number": "15",
+          "triple": "lichen | oak | pine",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "moonshotai_Kimi-K2.5",
+          "game_id": "15508",
+          "turn_number": "7",
+          "triple": "ginkgo | magnolia | liverwort",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "moonshotai_Kimi-K2.5",
+          "game_id": "16864",
+          "turn_number": "5",
+          "triple": "moss | grass | bush",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "moonshotai_Kimi-K2.5",
+          "game_id": "2971",
+          "turn_number": "10",
+          "triple": "sloth | sea squirt | clownfish coral",
+          "target_property": "animal",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "moonshotai_Kimi-K2.5",
+          "game_id": "4465",
+          "turn_number": "3",
+          "triple": "rib cage | lazy eye | white blood cell",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "moonshotai_Kimi-K2.5",
+          "game_id": "6380",
+          "turn_number": "3",
+          "triple": "dining car | war chest | punt gun",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "moonshotai_Kimi-K2.5",
+          "game_id": "6396",
+          "turn_number": "14",
+          "triple": "styrofoam cup | boulder | fireworks",
+          "target_property": "artifact",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "moonshotai_Kimi-K2.5",
+          "game_id": "6607",
+          "turn_number": "6",
+          "triple": "tank ship | bulk ship | research ship",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "10237",
+          "turn_number": "15",
+          "triple": "cream | wine | tomato",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "12095",
+          "turn_number": "5",
+          "triple": "bread | cheese | juice",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "15613",
+          "turn_number": "1",
+          "triple": "apple | banana | pear",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "16469",
+          "turn_number": "20",
+          "triple": "oak leaf | pine bark | fir root",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "17775",
+          "turn_number": "18",
+          "triple": "apple | banana | cherry",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "6606",
+          "turn_number": "6",
+          "triple": "whaler | catboat | dogger",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-120b",
+          "game_id": "9334",
+          "turn_number": "9",
+          "triple": "femur | skeletal muscle | connective tissue",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "11016",
+          "turn_number": "6",
+          "triple": "bottle | cucumber | orange",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "11059",
+          "turn_number": "2",
+          "triple": "rice | bread | water",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "11263",
+          "turn_number": "7",
+          "triple": "soup | coffee | ice cream",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "15245",
+          "turn_number": "20",
+          "triple": "cactus | pine | moss",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "1551",
+          "turn_number": "6",
+          "triple": "calcified cartilage | skin | tendon",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "17248",
+          "turn_number": "3",
+          "triple": "carrot | onion | coffee bean",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "17775",
+          "turn_number": "18",
+          "triple": "blue-bell | red\u2011crowned pine | tiger\u2011lion tree",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "4288",
+          "turn_number": "8",
+          "triple": "clavicle | cuboid bone | dentine",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "4313",
+          "turn_number": "5",
+          "triple": "clavicle | sphenoid | gladiolus",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "4875",
+          "turn_number": "7",
+          "triple": "harmony | robot | story",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "5224",
+          "turn_number": "13",
+          "triple": "bolt | nut | violin",
+          "target_property": "artifact",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "5653",
+          "turn_number": "1",
+          "triple": "bassoon | tuba | soprano",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "6347",
+          "turn_number": "11",
+          "triple": "purse | can | skull",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "6359",
+          "turn_number": "4",
+          "triple": "money bag | handbag | bag of holding",
+          "target_property": "artifact",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "9334",
+          "turn_number": "2",
+          "triple": "apple | chair | computer",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "openai_gpt-oss-20b",
+          "game_id": "9624",
+          "turn_number": "13",
+          "triple": "retina | muscle | fat",
+          "target_property": "body_part",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "10237",
+          "turn_number": "6",
+          "triple": "cookie | pizza | tea",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "10838",
+          "turn_number": "8",
+          "triple": "soda | sparkling water | diet coke",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "11059",
+          "turn_number": "11",
+          "triple": "ice cubes | snow cone | popsicle",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "11921",
+          "turn_number": "2",
+          "triple": "meat | apple | water",
+          "target_property": "food",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "16096",
+          "turn_number": "4",
+          "triple": "algae | lily | cactus",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "16152",
+          "turn_number": "4",
+          "triple": "tulip | fern | seaweed",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "17047",
+          "turn_number": "12",
+          "triple": "moss | liverwort | hornwort",
+          "target_property": "plant",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "17257",
+          "turn_number": "11",
+          "triple": "peat moss | spanish moss | reindeer moss",
+          "target_property": "plant",
+          "llm_judgment": "no",
+          "human_judgment": "yes"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "4875",
+          "turn_number": "16",
+          "triple": "sushi | karaoke | pizza",
+          "target_property": "artifact",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "5506",
+          "turn_number": "15",
+          "triple": "byte | hardware | virus",
+          "target_property": "artifact",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        },
+        {
+          "model": "zai-org_GLM-5",
+          "game_id": "5757",
+          "turn_number": "8",
+          "triple": "skyscraper | computer | shampoo",
+          "target_property": "artifact",
+          "llm_judgment": "yes",
+          "human_judgment": "no"
+        }
+      ]
+    }
+  ],
+  "overall": {
+    "pairs_found": 2,
+    "rows_compared": 2332,
+    "matches": 2074,
+    "mismatches": 258,
+    "micro_percent_agreement": 0.8893653516295026,
+    "macro_percent_agreement": 0.8892211425206125,
+    "macro_cohen_kappa": 0.741243634719613,
+    "by_file": {
+      "guess_target_equivalence": {
+        "rows_compared": 1132,
+        "matches": 1001,
+        "mismatches": 131,
+        "percent_agreement": 0.8842756183745583,
+        "cohen_kappa": 0.755566397879593,
+        "llm_label_counts": {
+          "no": 700,
+          "yes": 432
+        },
+        "human_label_counts": {
+          "no": 693,
+          "yes": 439
+        }
+      },
+      "test_turn_target_judgment": {
+        "rows_compared": 1200,
+        "matches": 1073,
+        "mismatches": 127,
+        "percent_agreement": 0.8941666666666667,
+        "cohen_kappa": 0.726920871559633,
+        "llm_label_counts": {
+          "no": 347,
+          "yes": 853
+        },
+        "human_label_counts": {
+          "no": 280,
+          "yes": 920
+        }
+      }
+    },
+    "by_model": {
+      "MiniMaxAI_MiniMax-M2.5": {
+        "rows_compared": 191,
+        "matches": 172,
+        "mismatches": 19,
+        "percent_agreement": 0.900523560209424,
+        "cohen_kappa": 0.79911430943814,
+        "llm_label_counts": {
+          "no": 91,
+          "yes": 100
+        },
+        "human_label_counts": {
+          "no": 76,
+          "yes": 115
+        },
+        "pair_name": {
+          "guess_target_equivalence": {
+            "rows_compared": 91,
+            "matches": 76,
+            "mismatches": 15,
+            "percent_agreement": 0.8351648351648352,
+            "cohen_kappa": 0.6694114797771858,
+            "llm_label_counts": {
+              "no": 57,
+              "yes": 34
+            },
+            "human_label_counts": {
+              "no": 46,
+              "yes": 45
+            }
+          },
+          "test_turn_target_judgment": {
+            "rows_compared": 100,
+            "matches": 96,
+            "mismatches": 4,
+            "percent_agreement": 0.96,
+            "cohen_kappa": 0.9082568807339448,
+            "llm_label_counts": {
+              "no": 34,
+              "yes": 66
+            },
+            "human_label_counts": {
+              "no": 30,
+              "yes": 70
+            }
+          }
+        }
+      },
+      "Qwen_Qwen3.5-9B": {
+        "rows_compared": 188,
+        "matches": 144,
+        "mismatches": 44,
+        "percent_agreement": 0.7659574468085106,
+        "cohen_kappa": 0.5410563692853972,
+        "llm_label_counts": {
+          "no": 102,
+          "yes": 86
+        },
+        "human_label_counts": {
+          "no": 72,
+          "yes": 116
+        },
+        "pair_name": {
+          "guess_target_equivalence": {
+            "rows_compared": 88,
+            "matches": 66,
+            "mismatches": 22,
+            "percent_agreement": 0.75,
+            "cohen_kappa": 0.4248366013071896,
+            "llm_label_counts": {
+              "no": 67,
+              "yes": 21
+            },
+            "human_label_counts": {
+              "no": 55,
+              "yes": 33
+            }
+          },
+          "test_turn_target_judgment": {
+            "rows_compared": 100,
+            "matches": 78,
+            "mismatches": 22,
+            "percent_agreement": 0.78,
+            "cohen_kappa": 0.4513715710723193,
+            "llm_label_counts": {
+              "no": 35,
+              "yes": 65
+            },
+            "human_label_counts": {
+              "no": 17,
+              "yes": 83
+            }
+          }
+        }
+      },
+      "deepseek-ai_DeepSeek-V3.1": {
+        "rows_compared": 200,
+        "matches": 172,
+        "mismatches": 28,
+        "percent_agreement": 0.86,
+        "cohen_kappa": 0.7186495176848875,
+        "llm_label_counts": {
+          "no": 96,
+          "yes": 104
+        },
+        "human_label_counts": {
+          "no": 88,
+          "yes": 112
+        },
+        "pair_name": {
+          "guess_target_equivalence": {
+            "rows_compared": 100,
+            "matches": 85,
+            "mismatches": 15,
+            "percent_agreement": 0.85,
+            "cohen_kappa": 0.6462264150943396,
+            "llm_label_counts": {
+              "no": 70,
+              "yes": 30
+            },
+            "human_label_counts": {
+              "no": 69,
+              "yes": 31
+            }
+          },
+          "test_turn_target_judgment": {
+            "rows_compared": 100,
+            "matches": 87,
+            "mismatches": 13,
+            "percent_agreement": 0.87,
+            "cohen_kappa": 0.6298405466970387,
+            "llm_label_counts": {
+              "no": 26,
+              "yes": 74
+            },
+            "human_label_counts": {
+              "no": 19,
+              "yes": 81
+            }
+          }
+        }
+      },
+      "gpt-5-mini": {
+        "rows_compared": 198,
+        "matches": 173,
+        "mismatches": 25,
+        "percent_agreement": 0.8737373737373737,
+        "cohen_kappa": 0.7372890351342745,
+        "llm_label_counts": {
+          "no": 80,
+          "yes": 118
+        },
+        "human_label_counts": {
+          "no": 79,
+          "yes": 119
+        },
+        "pair_name": {
+          "guess_target_equivalence": {
+            "rows_compared": 98,
+            "matches": 82,
+            "mismatches": 16,
+            "percent_agreement": 0.8367346938775511,
+            "cohen_kappa": 0.6730608840700585,
+            "llm_label_counts": {
+              "no": 50,
+              "yes": 48
+            },
+            "human_label_counts": {
+              "no": 52,
+              "yes": 46
+            }
+          },
+          "test_turn_target_judgment": {
+            "rows_compared": 100,
+            "matches": 91,
+            "mismatches": 9,
+            "percent_agreement": 0.91,
+            "cohen_kappa": 0.7794117647058825,
+            "llm_label_counts": {
+              "no": 30,
+              "yes": 70
+            },
+            "human_label_counts": {
+              "no": 27,
+              "yes": 73
+            }
+          }
+        }
+      },
+      "gpt-5-nano": {
+        "rows_compared": 186,
+        "matches": 174,
+        "mismatches": 12,
+        "percent_agreement": 0.9354838709677419,
+        "cohen_kappa": 0.8710422925814651,
+        "llm_label_counts": {
+          "no": 94,
+          "yes": 92
+        },
+        "human_label_counts": {
+          "no": 88,
+          "yes": 98
+        },
+        "pair_name": {
+          "guess_target_equivalence": {
+            "rows_compared": 86,
+            "matches": 82,
+            "mismatches": 4,
+            "percent_agreement": 0.9534883720930233,
+            "cohen_kappa": 0.8071748878923768,
+            "llm_label_counts": {
+              "no": 76,
+              "yes": 10
+            },
+            "human_label_counts": {
+              "no": 72,
+              "yes": 14
+            }
+          },
+          "test_turn_target_judgment": {
+            "rows_compared": 100,
+            "matches": 92,
+            "mismatches": 8,
+            "percent_agreement": 0.92,
+            "cohen_kappa": 0.7167138810198301,
+            "llm_label_counts": {
+              "no": 18,
+              "yes": 82
+            },
+            "human_label_counts": {
+              "no": 16,
+              "yes": 84
+            }
+          }
+        }
+      },
+      "gpt-5.2-chat": {
+        "rows_compared": 200,
+        "matches": 198,
+        "mismatches": 2,
+        "percent_agreement": 0.99,
+        "cohen_kappa": 0.9786666666666667,
+        "llm_label_counts": {
+          "no": 75,
+          "yes": 125
+        },
+        "human_label_counts": {
+          "no": 75,
+          "yes": 125
+        },
+        "pair_name": {
+          "guess_target_equivalence": {
+            "rows_compared": 100,
+            "matches": 99,
+            "mismatches": 1,
+            "percent_agreement": 0.99,
+            "cohen_kappa": 0.9781659388646288,
+            "llm_label_counts": {
+              "no": 35,
+              "yes": 65
+            },
+            "human_label_counts": {
+              "no": 36,
+              "yes": 64
+            }
+          },
+          "test_turn_target_judgment": {
+            "rows_compared": 100,
+            "matches": 99,
+            "mismatches": 1,
+            "percent_agreement": 0.99,
+            "cohen_kappa": 0.9790794979079498,
+            "llm_label_counts": {
+              "no": 40,
+              "yes": 60
+            },
+            "human_label_counts": {
+              "no": 39,
+              "yes": 61
+            }
+          }
+        }
+      },
+      "meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8": {
+        "rows_compared": 200,
+        "matches": 179,
+        "mismatches": 21,
+        "percent_agreement": 0.895,
+        "cohen_kappa": 0.7900839664134347,
+        "llm_label_counts": {
+          "no": 99,
+          "yes": 101
+        },
+        "human_label_counts": {
+          "no": 104,
+          "yes": 96
+        },
+        "pair_name": {
+          "guess_target_equivalence": {
+            "rows_compared": 100,
+            "matches": 89,
+            "mismatches": 11,
+            "percent_agreement": 0.89,
+            "cohen_kappa": 0.5338983050847458,
+            "llm_label_counts": {
+              "no": 83,
+              "yes": 17
+            },
+            "human_label_counts": {
+              "no": 90,
+              "yes": 10
+            }
+          },
+          "test_turn_target_judgment": {
+            "rows_compared": 100,
+            "matches": 90,
+            "mismatches": 10,
+            "percent_agreement": 0.9,
+            "cohen_kappa": 0.6081504702194359,
+            "llm_label_counts": {
+              "no": 16,
+              "yes": 84
+            },
+            "human_label_counts": {
+              "no": 14,
+              "yes": 86
+            }
+          }
+        }
+      },
+      "mistralai_Mistral-Small-24B-Instruct-2501": {
+        "rows_compared": 200,
+        "matches": 169,
+        "mismatches": 31,
+        "percent_agreement": 0.845,
+        "cohen_kappa": 0.6899379875975195,
+        "llm_label_counts": {
+          "no": 101,
+          "yes": 99
+        },
+        "human_label_counts": {
+          "no": 102,
+          "yes": 98
+        },
+        "pair_name": {
+          "guess_target_equivalence": {
+            "rows_compared": 100,
+            "matches": 85,
+            "mismatches": 15,
+            "percent_agreement": 0.85,
+            "cohen_kappa": 0.3397887323943663,
+            "llm_label_counts": {
+              "no": 81,
+              "yes": 19
+            },
+            "human_label_counts": {
+              "no": 94,
+              "yes": 6
+            }
+          },
+          "test_turn_target_judgment": {
+            "rows_compared": 100,
+            "matches": 84,
+            "mismatches": 16,
+            "percent_agreement": 0.84,
+            "cohen_kappa": 0.35483870967741893,
+            "llm_label_counts": {
+              "no": 20,
+              "yes": 80
+            },
+            "human_label_counts": {
+              "no": 8,
+              "yes": 92
+            }
+          }
+        }
+      },
+      "moonshotai_Kimi-K2.5": {
+        "rows_compared": 180,
+        "matches": 164,
+        "mismatches": 16,
+        "percent_agreement": 0.9111111111111111,
+        "cohen_kappa": 0.8031711317659923,
+        "llm_label_counts": {
+          "no": 62,
+          "yes": 118
+        },
+        "human_label_counts": {
+          "no": 62,
+          "yes": 118
+        },
+        "pair_name": {
+          "guess_target_equivalence": {
+            "rows_compared": 80,
+            "matches": 74,
+            "mismatches": 6,
+            "percent_agreement": 0.925,
+            "cohen_kappa": 0.8421052631578948,
+            "llm_label_counts": {
+              "no": 30,
+              "yes": 50
+            },
+            "human_label_counts": {
+              "no": 32,
+              "yes": 48
+            }
+          },
+          "test_turn_target_judgment": {
+            "rows_compared": 100,
+            "matches": 90,
+            "mismatches": 10,
+            "percent_agreement": 0.9,
+            "cohen_kappa": 0.766355140186916,
+            "llm_label_counts": {
+              "no": 32,
+              "yes": 68
+            },
+            "human_label_counts": {
+              "no": 30,
+              "yes": 70
+            }
+          }
+        }
+      },
+      "openai_gpt-oss-120b": {
+        "rows_compared": 200,
+        "matches": 181,
+        "mismatches": 19,
+        "percent_agreement": 0.905,
+        "cohen_kappa": 0.7989417989417991,
+        "llm_label_counts": {
+          "no": 78,
+          "yes": 122
+        },
+        "human_label_counts": {
+          "no": 75,
+          "yes": 125
+        },
+        "pair_name": {
+          "guess_target_equivalence": {
+            "rows_compared": 100,
+            "matches": 88,
+            "mismatches": 12,
+            "percent_agreement": 0.88,
+            "cohen_kappa": 0.7597116539847817,
+            "llm_label_counts": {
+              "no": 47,
+              "yes": 53
+            },
+            "human_label_counts": {
+              "no": 49,
+              "yes": 51
+            }
+          },
+          "test_turn_target_judgment": {
+            "rows_compared": 100,
+            "matches": 93,
+            "mismatches": 7,
+            "percent_agreement": 0.93,
+            "cohen_kappa": 0.8287671232876713,
+            "llm_label_counts": {
+              "no": 31,
+              "yes": 69
+            },
+            "human_label_counts": {
+              "no": 26,
+              "yes": 74
+            }
+          }
+        }
+      },
+      "openai_gpt-oss-20b": {
+        "rows_compared": 199,
+        "matches": 178,
+        "mismatches": 21,
+        "percent_agreement": 0.8944723618090452,
+        "cohen_kappa": 0.7897146882705177,
+        "llm_label_counts": {
+          "no": 102,
+          "yes": 97
+        },
+        "human_label_counts": {
+          "no": 85,
+          "yes": 114
+        },
+        "pair_name": {
+          "guess_target_equivalence": {
+            "rows_compared": 99,
+            "matches": 94,
+            "mismatches": 5,
+            "percent_agreement": 0.9494949494949495,
+            "cohen_kappa": 0.8818897637795275,
+            "llm_label_counts": {
+              "no": 71,
+              "yes": 28
+            },
+            "human_label_counts": {
+              "no": 66,
+              "yes": 33
+            }
+          },
+          "test_turn_target_judgment": {
+            "rows_compared": 100,
+            "matches": 84,
+            "mismatches": 16,
+            "percent_agreement": 0.84,
+            "cohen_kappa": 0.5813710099424385,
+            "llm_label_counts": {
+              "no": 31,
+              "yes": 69
+            },
+            "human_label_counts": {
+              "no": 19,
+              "yes": 81
+            }
+          }
+        }
+      },
+      "zai-org_GLM-5": {
+        "rows_compared": 190,
+        "matches": 170,
+        "mismatches": 20,
+        "percent_agreement": 0.8947368421052632,
+        "cohen_kappa": 0.7694454556485864,
+        "llm_label_counts": {
+          "no": 67,
+          "yes": 123
+        },
+        "human_label_counts": {
+          "no": 67,
+          "yes": 123
+        },
+        "pair_name": {
+          "guess_target_equivalence": {
+            "rows_compared": 90,
+            "matches": 81,
+            "mismatches": 9,
+            "percent_agreement": 0.9,
+            "cohen_kappa": 0.7833065810593901,
+            "llm_label_counts": {
+              "no": 33,
+              "yes": 57
+            },
+            "human_label_counts": {
+              "no": 32,
+              "yes": 58
+            }
+          },
+          "test_turn_target_judgment": {
+            "rows_compared": 100,
+            "matches": 89,
+            "mismatches": 11,
+            "percent_agreement": 0.89,
+            "cohen_kappa": 0.7566371681415929,
+            "llm_label_counts": {
+              "no": 34,
+              "yes": 66
+            },
+            "human_label_counts": {
+              "no": 35,
+              "yes": 65
+            }
+          }
+        }
+      }
+    },
+    "by_target_property": {
+      "animal": {
+        "rows_compared": 474,
+        "matches": 440,
+        "mismatches": 34,
+        "percent_agreement": 0.9282700421940928,
+        "cohen_kappa": 0.8410932970478613,
+        "llm_label_counts": {
+          "no": 167,
+          "yes": 307
+        },
+        "human_label_counts": {
+          "no": 159,
+          "yes": 315
+        }
+      },
+      "artifact": {
+        "rows_compared": 451,
+        "matches": 387,
+        "mismatches": 64,
+        "percent_agreement": 0.8580931263858093,
+        "cohen_kappa": 0.7127159805717014,
+        "llm_label_counts": {
+          "no": 284,
+          "yes": 167
+        },
+        "human_label_counts": {
+          "no": 236,
+          "yes": 215
+        }
+      },
+      "body_part": {
+        "rows_compared": 470,
+        "matches": 400,
+        "mismatches": 70,
+        "percent_agreement": 0.851063829787234,
+        "cohen_kappa": 0.6928276660504546,
+        "llm_label_counts": {
+          "no": 197,
+          "yes": 273
+        },
+        "human_label_counts": {
+          "no": 191,
+          "yes": 279
+        }
+      },
+      "food": {
+        "rows_compared": 465,
+        "matches": 419,
+        "mismatches": 46,
+        "percent_agreement": 0.9010752688172043,
+        "cohen_kappa": 0.7924308588064047,
+        "llm_label_counts": {
+          "no": 192,
+          "yes": 273
+        },
+        "human_label_counts": {
+          "no": 170,
+          "yes": 295
+        }
+      },
+      "plant": {
+        "rows_compared": 472,
+        "matches": 428,
+        "mismatches": 44,
+        "percent_agreement": 0.9067796610169492,
+        "cohen_kappa": 0.811696436666969,
+        "llm_label_counts": {
+          "no": 207,
+          "yes": 265
+        },
+        "human_label_counts": {
+          "no": 217,
+          "yes": 255
+        }
+      }
+    }
+  }
+}

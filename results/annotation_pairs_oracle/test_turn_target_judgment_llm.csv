@@ -1,0 +1,1201 @@
+model,game_id,turn_number,triple,target_property,judgment
+MiniMaxAI_MiniMax-M2.5,62,7,rock | paper | scissors,animal,no
+MiniMaxAI_MiniMax-M2.5,357,1,lion | golden retriever | gorilla,animal,yes
+MiniMaxAI_MiniMax-M2.5,546,7,cat | dog | elephant,animal,yes
+MiniMaxAI_MiniMax-M2.5,658,1,salmon | tuna | eel,animal,yes
+MiniMaxAI_MiniMax-M2.5,819,16,bird | snake | spider,animal,yes
+MiniMaxAI_MiniMax-M2.5,1066,20,robin | daisy | timothy grass,animal,no
+MiniMaxAI_MiniMax-M2.5,1136,3,dolphin | crab | octopus,animal,yes
+MiniMaxAI_MiniMax-M2.5,1154,10,freshwater turtle | hippopotamus | frog,animal,yes
+MiniMaxAI_MiniMax-M2.5,1261,4,goldfish | parrot | sea turtle,animal,yes
+MiniMaxAI_MiniMax-M2.5,1551,16,carpus | tarsus | femur,body_part,yes
+MiniMaxAI_MiniMax-M2.5,1725,13,mushroom | algae | fern,animal,no
+MiniMaxAI_MiniMax-M2.5,1943,5,venus flytrap | mushroom | coral,animal,no
+MiniMaxAI_MiniMax-M2.5,2806,2,lizard | frog | turtle,animal,yes
+MiniMaxAI_MiniMax-M2.5,2971,1,penguin | eagle | parrot,animal,yes
+MiniMaxAI_MiniMax-M2.5,3172,16,rock | cloud | rain,animal,no
+MiniMaxAI_MiniMax-M2.5,3192,11,apple | banana | orange,animal,no
+MiniMaxAI_MiniMax-M2.5,3411,2,Cape May warbler | Northern cardinal | Black-capped chickadee,animal,yes
+MiniMaxAI_MiniMax-M2.5,3743,1,red-tailed hawk | house sparrow | peregrine falcon,animal,yes
+MiniMaxAI_MiniMax-M2.5,3852,18,car | book | ball,animal,no
+MiniMaxAI_MiniMax-M2.5,3947,16,dog | cat | horse,animal,yes
+MiniMaxAI_MiniMax-M2.5,3966,2,house sparrow | ostrich | hoopoe,animal,yes
+MiniMaxAI_MiniMax-M2.5,4020,14,epithelium | muscle tissue | nervous tissue,body_part,no
+MiniMaxAI_MiniMax-M2.5,4032,10,antenna | spiracle | trachea,body_part,yes
+MiniMaxAI_MiniMax-M2.5,4288,18,tibia | femur | humerus,body_part,yes
+MiniMaxAI_MiniMax-M2.5,4313,8,brain | stomach | kidney,body_part,yes
+MiniMaxAI_MiniMax-M2.5,4348,18,triangle | square | circle,body_part,no
+MiniMaxAI_MiniMax-M2.5,4368,4,table | chair | mountain,body_part,no
+MiniMaxAI_MiniMax-M2.5,4450,14,bull dog | pig | horse,body_part,no
+MiniMaxAI_MiniMax-M2.5,4458,5,arm | leg | finger,body_part,yes
+MiniMaxAI_MiniMax-M2.5,4465,5,rock | water | air,body_part,no
+MiniMaxAI_MiniMax-M2.5,4779,8,iron | steel | aluminum,artifact,no
+MiniMaxAI_MiniMax-M2.5,4784,5,lightning | static electricity | amber,artifact,no
+MiniMaxAI_MiniMax-M2.5,4875,13,allegory | metaphor | irony,artifact,no
+MiniMaxAI_MiniMax-M2.5,5184,1,thermometer | barometer | seismometer,artifact,yes
+MiniMaxAI_MiniMax-M2.5,5224,3,scale | ruler | clock,artifact,yes
+MiniMaxAI_MiniMax-M2.5,5265,11,fife | tambourine | lyre,artifact,yes
+MiniMaxAI_MiniMax-M2.5,5506,19,network | software | hardware,artifact,no
+MiniMaxAI_MiniMax-M2.5,5516,12,microscope | telescope | periscope,artifact,yes
+MiniMaxAI_MiniMax-M2.5,5652,2,clarinet | trumpet | flute,artifact,yes
+MiniMaxAI_MiniMax-M2.5,5653,11,grass | river | ocean,artifact,no
+MiniMaxAI_MiniMax-M2.5,5757,8,light | sound | gravity,artifact,no
+MiniMaxAI_MiniMax-M2.5,5807,14,book | key | fork,artifact,yes
+MiniMaxAI_MiniMax-M2.5,6347,1,shopping bag | garbage bag | paper bag,artifact,yes
+MiniMaxAI_MiniMax-M2.5,6359,15,hat | shoe | key,artifact,yes
+MiniMaxAI_MiniMax-M2.5,6380,2,suitcase | barrel | crate,artifact,yes
+MiniMaxAI_MiniMax-M2.5,6396,12,basket | suitcase | briefcase,artifact,yes
+MiniMaxAI_MiniMax-M2.5,6543,1,aircraft carrier | warship | cargo ship,artifact,yes
+MiniMaxAI_MiniMax-M2.5,6575,5,speedboat | warship | sailing ship,artifact,yes
+MiniMaxAI_MiniMax-M2.5,6606,12,gunboat | torpedo boat | minelayer,artifact,yes
+MiniMaxAI_MiniMax-M2.5,6607,14,car | bus | truck,artifact,yes
+MiniMaxAI_MiniMax-M2.5,9334,15,whale | eagle | shark,body_part,no
+MiniMaxAI_MiniMax-M2.5,9433,4,brain | lungs | liver,body_part,yes
+MiniMaxAI_MiniMax-M2.5,9457,6,masseter | temporalis | orbicularis oris,body_part,yes
+MiniMaxAI_MiniMax-M2.5,9596,19,bone | tendon | ligament,body_part,yes
+MiniMaxAI_MiniMax-M2.5,9616,17,pancreas | thyroid | adrenal gland,body_part,yes
+MiniMaxAI_MiniMax-M2.5,9624,16,gallbladder | intestine | diaphragm,body_part,yes
+MiniMaxAI_MiniMax-M2.5,9650,5,retina | sclera | vitreous humor,body_part,no
+MiniMaxAI_MiniMax-M2.5,9670,9,skin | liver | lung,body_part,yes
+MiniMaxAI_MiniMax-M2.5,9949,8,neuron | fibroblast | hepatocyte,body_part,no
+MiniMaxAI_MiniMax-M2.5,10074,5,oxygen | water | sunlight,body_part,no
+MiniMaxAI_MiniMax-M2.5,10237,9,mayonnaise | chocolate | vanilla,food,yes
+MiniMaxAI_MiniMax-M2.5,10529,5,toothpaste | soap | shampoo,food,no
+MiniMaxAI_MiniMax-M2.5,10838,8,tomato soup | chicken noodle soup | minestrone,food,yes
+MiniMaxAI_MiniMax-M2.5,10858,10,carrot | celery | onion,food,yes
+MiniMaxAI_MiniMax-M2.5,10981,10,ice cream cone | milkshake | frozen yogurt,food,yes
+MiniMaxAI_MiniMax-M2.5,10986,14,pistachio ice cream | butterscotch ice cream | rainbow ice cream,food,yes
+MiniMaxAI_MiniMax-M2.5,10994,4,pudding | pie | brownie,food,yes
+MiniMaxAI_MiniMax-M2.5,11006,12,crunchy chips | croutons | granola,food,yes
+MiniMaxAI_MiniMax-M2.5,11016,13,microwave popcorn | frozen pot pie | frozen fish sticks,food,yes
+MiniMaxAI_MiniMax-M2.5,11059,17,soufflé | brittle | praline,food,yes
+MiniMaxAI_MiniMax-M2.5,11199,13,apple | peach | cherry,food,yes
+MiniMaxAI_MiniMax-M2.5,11263,18,grape | lime | pear,food,yes
+MiniMaxAI_MiniMax-M2.5,11376,9,birthday cake | holiday cookies | celebration pie,food,yes
+MiniMaxAI_MiniMax-M2.5,11384,13,birthday cake | wedding cake | carrot cake,food,yes
+MiniMaxAI_MiniMax-M2.5,11459,13,soda | milk | coffee,food,no
+MiniMaxAI_MiniMax-M2.5,11697,6,sushi | croissant | cereal,food,yes
+MiniMaxAI_MiniMax-M2.5,11921,19,rock | paper | plastic,food,no
+MiniMaxAI_MiniMax-M2.5,12016,16,spoon | knife | fork,food,no
+MiniMaxAI_MiniMax-M2.5,12095,5,stone | plastic | wood,food,no
+MiniMaxAI_MiniMax-M2.5,12377,14,steak sauce | lettuce wrap | tap water,food,no
+MiniMaxAI_MiniMax-M2.5,15245,8,stone | metal | water,plant,no
+MiniMaxAI_MiniMax-M2.5,15310,5,datura | white oleander | angel's trumpet,plant,yes
+MiniMaxAI_MiniMax-M2.5,15508,6,redwood | blue spruce | white oak,plant,yes
+MiniMaxAI_MiniMax-M2.5,15598,9,sugar maple | red maple | silver maple,plant,yes
+MiniMaxAI_MiniMax-M2.5,15611,20,rose | tomato | strawberry,plant,yes
+MiniMaxAI_MiniMax-M2.5,15613,18,celery | cucumber | bell pepper,plant,yes
+MiniMaxAI_MiniMax-M2.5,15790,16,dried flower | silk flower | plant cutting,plant,no
+MiniMaxAI_MiniMax-M2.5,16096,3,rose | tulip | daisy,plant,yes
+MiniMaxAI_MiniMax-M2.5,16120,2,oak | maple | elm,plant,yes
+MiniMaxAI_MiniMax-M2.5,16152,16,wheat | barley | sugarcane,plant,yes
+MiniMaxAI_MiniMax-M2.5,16249,19,yew | pine | larch,plant,yes
+MiniMaxAI_MiniMax-M2.5,16414,5,hammer | table | computer,plant,no
+MiniMaxAI_MiniMax-M2.5,16467,6,brown mushroom | orange juice | yellow sunflower,plant,no
+MiniMaxAI_MiniMax-M2.5,16469,18,cabbage | oak | hemlock,plant,yes
+MiniMaxAI_MiniMax-M2.5,16864,10,sunflower | cactus | bamboo,plant,yes
+MiniMaxAI_MiniMax-M2.5,17047,4,plastic tree | silk flower | toy cactus,plant,no
+MiniMaxAI_MiniMax-M2.5,17248,3,oak | maple | pine,plant,yes
+MiniMaxAI_MiniMax-M2.5,17257,9,dog | cat | bird,plant,no
+MiniMaxAI_MiniMax-M2.5,17361,11,venus flytrap | pitcher plant | sundew,plant,yes
+MiniMaxAI_MiniMax-M2.5,17775,4,lily | orchid | chrysanthemum,plant,yes
+Qwen_Qwen3.5-9B,62,2,striped bat | echidna | mantis shrimp,animal,yes
+Qwen_Qwen3.5-9B,357,4,Tundra bison | Honey badger | Red deer,animal,yes
+Qwen_Qwen3.5-9B,546,3,pangolin | sloth | spiny anteater,animal,yes
+Qwen_Qwen3.5-9B,658,15,Wombat | Penguin | Raven,animal,yes
+Qwen_Qwen3.5-9B,819,16,coral | jellyfish | manta ray,animal,no
+Qwen_Qwen3.5-9B,1066,1,Salmon | Dolphin | Lobster,animal,yes
+Qwen_Qwen3.5-9B,1136,16,crab | lobster | shrimp,animal,yes
+Qwen_Qwen3.5-9B,1154,1,goldfish | blue whale | great white shark,animal,yes
+Qwen_Qwen3.5-9B,1261,10,Mule deer | Elk | Caribou,animal,yes
+Qwen_Qwen3.5-9B,1551,17,Carpal | Cranial | Sinus,body_part,yes
+Qwen_Qwen3.5-9B,1725,5,mountain | building | tree,animal,no
+Qwen_Qwen3.5-9B,1943,12,platypus | porcupine | hummingbird,animal,yes
+Qwen_Qwen3.5-9B,2806,4,sparrow | owl | eagle,animal,yes
+Qwen_Qwen3.5-9B,2971,8,humming bird | rock wren | polar bear,animal,yes
+Qwen_Qwen3.5-9B,3172,15,kiwi | kagu | albatross,animal,yes
+Qwen_Qwen3.5-9B,3192,14,penguin | ostrich | sparrow hawk,animal,yes
+Qwen_Qwen3.5-9B,3411,16,ovenbird | wren | oriole warbler,animal,yes
+Qwen_Qwen3.5-9B,3743,3,tiger |  panda | shark,animal,yes
+Qwen_Qwen3.5-9B,3852,14,cardinal | parrot | ferret,animal,yes
+Qwen_Qwen3.5-9B,3947,10,stork | crane | ibis,animal,yes
+Qwen_Qwen3.5-9B,3966,2,red-tailed hawk | brown pelican | bald eagle,animal,yes
+Qwen_Qwen3.5-9B,4020,9,kidney | stomach | brain,body_part,yes
+Qwen_Qwen3.5-9B,4032,1,trachea | branchial gill | carapace,body_part,yes
+Qwen_Qwen3.5-9B,4288,4,plastic chair | wooden table | steel spoon,body_part,no
+Qwen_Qwen3.5-9B,4313,10,hand | arm | leg,body_part,yes
+Qwen_Qwen3.5-9B,4348,13,tibia | ulna | radius,body_part,yes
+Qwen_Qwen3.5-9B,4368,14,patella | patellar tendon | mandible,body_part,yes
+Qwen_Qwen3.5-9B,4450,5,heart | bone | skin,body_part,yes
+Qwen_Qwen3.5-9B,4458,16,face | skin | flesh,body_part,yes
+Qwen_Qwen3.5-9B,4465,4,heart | kidney | lung,body_part,yes
+Qwen_Qwen3.5-9B,4779,19,chopper coil | fuel injector coil | starter relay,artifact,no
+Qwen_Qwen3.5-9B,4784,4,solar panel | generator | motor,artifact,no
+Qwen_Qwen3.5-9B,4875,5,charcoal | portrait | pentameter,artifact,no
+Qwen_Qwen3.5-9B,5184,12,barograph | micrometer | chronometer,artifact,yes
+Qwen_Qwen3.5-9B,5224,16,felt | plastic | fabric,artifact,no
+Qwen_Qwen3.5-9B,5265,18,cello | piano | saxophone,artifact,no
+Qwen_Qwen3.5-9B,5506,8,cell | channel | screen,artifact,no
+Qwen_Qwen3.5-9B,5516,7,vacuum tube | electron tube | thermionic valve,artifact,no
+Qwen_Qwen3.5-9B,5652,13,piano | glockenspiel | sitar,artifact,no
+Qwen_Qwen3.5-9B,5653,17,mallet | reed | valve,artifact,no
+Qwen_Qwen3.5-9B,5757,2,sander | drill | grinder,artifact,no
+Qwen_Qwen3.5-9B,5807,16,file knife | carpenter knife | utility knife,artifact,no
+Qwen_Qwen3.5-9B,6347,12,tote | laundry hamper | hopper,artifact,no
+Qwen_Qwen3.5-9B,6359,13,headache bag | anxiety bag | heart attack bag,artifact,no
+Qwen_Qwen3.5-9B,6380,20,window seat | meat grinder | bookworm,artifact,no
+Qwen_Qwen3.5-9B,6396,17,bucket strap | pencil case | coin purse,artifact,no
+Qwen_Qwen3.5-9B,6543,7,steamer | dhow | yacht,artifact,no
+Qwen_Qwen3.5-9B,6575,12,anti-aircraft ship | minesweeper | tugboat,artifact,no
+Qwen_Qwen3.5-9B,6606,15,frigate | ironclad | sloop,artifact,no
+Qwen_Qwen3.5-9B,6607,16,silk ship | jade ship | gem ship,artifact,no
+Qwen_Qwen3.5-9B,9334,19,axial | preaxial | postaxial,body_part,no
+Qwen_Qwen3.5-9B,9433,11,limb | head | foot,body_part,yes
+Qwen_Qwen3.5-9B,9457,2,heart | liver | lung,body_part,yes
+Qwen_Qwen3.5-9B,9596,12,radula | radial | radiate,body_part,no
+Qwen_Qwen3.5-9B,9616,17,vertischial organ | otic capsule | otic vesicle,body_part,yes
+Qwen_Qwen3.5-9B,9624,10,scale | fin | wing,body_part,yes
+Qwen_Qwen3.5-9B,9650,16,clitoris | amniotic | omentum,body_part,no
+Qwen_Qwen3.5-9B,9670,16,optic nerve | trochlear nerve | oculomotor nerve,body_part,yes
+Qwen_Qwen3.5-9B,9949,3,femoral vein | coronary artery | carotid nerve,body_part,yes
+Qwen_Qwen3.5-9B,10074,15,short saphenous vein | great saphenous vein | sural vein,body_part,yes
+Qwen_Qwen3.5-9B,10237,6,apple | water | spoon,food,no
+Qwen_Qwen3.5-9B,10529,8,chocolate | bread | toothpaste,food,no
+Qwen_Qwen3.5-9B,10838,12,chow mein | goulash | croquete,food,yes
+Qwen_Qwen3.5-9B,10858,6,salt | water | gravy,food,yes
+Qwen_Qwen3.5-9B,10981,4,coffee | water bottle | live concert tickets,food,no
+Qwen_Qwen3.5-9B,10986,12,chicken tsimaym | anabolic steroids | carduelis,food,no
+Qwen_Qwen3.5-9B,10994,17,milk | hummus | stock,food,yes
+Qwen_Qwen3.5-9B,11006,16,jelly bean | brownie | pie,food,yes
+Qwen_Qwen3.5-9B,11016,1,chocolate ice cream | pizza | gelato,food,yes
+Qwen_Qwen3.5-9B,11059,15,cheese | olive | wine,food,yes
+Qwen_Qwen3.5-9B,11199,4,potato chips | cheddar cheese | bank of america,food,no
+Qwen_Qwen3.5-9B,11263,16,sandwich | bun | can,food,yes
+Qwen_Qwen3.5-9B,11376,3,apple | cheese | chocolate bar,food,yes
+Qwen_Qwen3.5-9B,11384,5,grilled steak | homemade ravioli | fresh spinach,food,yes
+Qwen_Qwen3.5-9B,11459,14,raisin bread | pizza dough | rice,food,yes
+Qwen_Qwen3.5-9B,11697,13,ground steak | bean steak | fish steak,food,yes
+Qwen_Qwen3.5-9B,11921,13,bagel | croissant | pancake,food,yes
+Qwen_Qwen3.5-9B,12016,5,wagyu beef | truffle oil | 香槟,food,yes
+Qwen_Qwen3.5-9B,12095,16,bread | rice | chocolate,food,yes
+Qwen_Qwen3.5-9B,12377,8,air | book | textbook,food,no
+Qwen_Qwen3.5-9B,15245,10,cyclamen | nicolai | tsangrella,plant,no
+Qwen_Qwen3.5-9B,15310,12,fern | thistle | fig tree,plant,yes
+Qwen_Qwen3.5-9B,15508,12,daisy | roses | lilies,plant,yes
+Qwen_Qwen3.5-9B,15598,9,typha latifolia | rhododendron maximum | sequoia gigantea,plant,yes
+Qwen_Qwen3.5-9B,15611,15,sunflower | orchid | pine tree,plant,yes
+Qwen_Qwen3.5-9B,15613,14,gooseberry | elderberry | cranberry,plant,yes
+Qwen_Qwen3.5-9B,15790,15,Fern | Corn | Pinecone,plant,yes
+Qwen_Qwen3.5-9B,16096,4,maple | bamboo | petunias,plant,yes
+Qwen_Qwen3.5-9B,16120,1,oak tree | blue rose | maple,plant,yes
+Qwen_Qwen3.5-9B,16152,4,lion | gold | stone,plant,no
+Qwen_Qwen3.5-9B,16249,1,yellow cedar | red cedar | white cedar,plant,yes
+Qwen_Qwen3.5-9B,16414,3,lavender | corn | ginseng,plant,yes
+Qwen_Qwen3.5-9B,16467,15,red maple | redwood tree | blue spruce,plant,yes
+Qwen_Qwen3.5-9B,16469,9,red apple | black stone | blue sky,plant,no
+Qwen_Qwen3.5-9B,16864,13,broccoli | spinach | zucchini,plant,yes
+Qwen_Qwen3.5-9B,17047,16,petunia | jasmine | orchid,plant,yes
+Qwen_Qwen3.5-9B,17248,4,Banana | Orange | Coconut,plant,no
+Qwen_Qwen3.5-9B,17257,1,bird cherry | white pine | dwarf birch,plant,yes
+Qwen_Qwen3.5-9B,17361,10,pine | cypress | fir,plant,yes
+Qwen_Qwen3.5-9B,17775,7,hibiscus flower | orchid blooms | rose bush,plant,yes
+deepseek-ai_DeepSeek-V3.1,62,3,Tarsius bancanus | Nycticebus coucang | Galago senegalensis,animal,yes
+deepseek-ai_DeepSeek-V3.1,357,3,grizzly bear | bald eagle | koala,animal,yes
+deepseek-ai_DeepSeek-V3.1,546,10,octopus | squid | crab,animal,yes
+deepseek-ai_DeepSeek-V3.1,658,12,rock | tree | car,animal,no
+deepseek-ai_DeepSeek-V3.1,819,17,dodo | woolly mammoth | saber-toothed tiger,animal,yes
+deepseek-ai_DeepSeek-V3.1,1066,16,python | boa | anaconda,animal,yes
+deepseek-ai_DeepSeek-V3.1,1136,1,clownfish | seahorse | blue tang,animal,yes
+deepseek-ai_DeepSeek-V3.1,1154,12,plant | tree | grass,animal,no
+deepseek-ai_DeepSeek-V3.1,1261,3,northern cardinal | american robin | european starling,animal,yes
+deepseek-ai_DeepSeek-V3.1,1551,13,artery | vein | nerve,body_part,yes
+deepseek-ai_DeepSeek-V3.1,1725,17,beef stew | chicken soup | pork roast,animal,yes
+deepseek-ai_DeepSeek-V3.1,1943,8,coral | seaweed | sponge,animal,no
+deepseek-ai_DeepSeek-V3.1,2806,2,blue jay | German shepherd | sea lion,animal,yes
+deepseek-ai_DeepSeek-V3.1,2971,1,flamingo | cardinal | scarlet macaw,animal,yes
+deepseek-ai_DeepSeek-V3.1,3172,2,oak tree | rose | daisy,animal,no
+deepseek-ai_DeepSeek-V3.1,3192,11,airplane | helicopter | drone,animal,no
+deepseek-ai_DeepSeek-V3.1,3411,19,common yellowthroat | northern parula | chestnut-sided warbler,animal,yes
+deepseek-ai_DeepSeek-V3.1,3743,3,pigeon | sparrow | robin,animal,yes
+deepseek-ai_DeepSeek-V3.1,3852,3,lion | tiger | bear,animal,yes
+deepseek-ai_DeepSeek-V3.1,3947,5,oak tree | rose | dandelion,animal,no
+deepseek-ai_DeepSeek-V3.1,3966,4,bat | butterfly | bee,animal,yes
+deepseek-ai_DeepSeek-V3.1,4020,7,fin | wing | antenna,body_part,yes
+deepseek-ai_DeepSeek-V3.1,4032,9,spiracle | trachea | book gill,body_part,no
+deepseek-ai_DeepSeek-V3.1,4288,1,femur | scapula | enamel,body_part,no
+deepseek-ai_DeepSeek-V3.1,4313,18,scapula | patella | coccyx,body_part,yes
+deepseek-ai_DeepSeek-V3.1,4348,6,mandible | sacrum | coccyx,body_part,yes
+deepseek-ai_DeepSeek-V3.1,4368,5,heart | lung | kidney,body_part,yes
+deepseek-ai_DeepSeek-V3.1,4450,13,lung | liver | kidney,body_part,yes
+deepseek-ai_DeepSeek-V3.1,4458,3,hook nose | aquiline nose | bulbous nose,body_part,no
+deepseek-ai_DeepSeek-V3.1,4465,3,liver | kidney | pancreas,body_part,yes
+deepseek-ai_DeepSeek-V3.1,4779,14,secondary winding | field coil | excitation coil,artifact,no
+deepseek-ai_DeepSeek-V3.1,4784,9,water | air | fire,artifact,no
+deepseek-ai_DeepSeek-V3.1,4875,12,epic | ode | elegy,artifact,no
+deepseek-ai_DeepSeek-V3.1,5184,12,caliper | micrometer | vernier,artifact,yes
+deepseek-ai_DeepSeek-V3.1,5224,5,book | chair | apple,artifact,no
+deepseek-ai_DeepSeek-V3.1,5265,16,harmonica | kazoo | tambourine,artifact,yes
+deepseek-ai_DeepSeek-V3.1,5506,13,mouse | foreground | repeater,artifact,no
+deepseek-ai_DeepSeek-V3.1,5516,5,microphone | speaker | antenna,artifact,yes
+deepseek-ai_DeepSeek-V3.1,5652,18,glockenspiel | steel drum | handbell,artifact,yes
+deepseek-ai_DeepSeek-V3.1,5653,16,violin | trumpet | flute,artifact,yes
+deepseek-ai_DeepSeek-V3.1,5757,1,hammer | saw | screwdriver,artifact,yes
+deepseek-ai_DeepSeek-V3.1,5807,1,paper knife | wood plane | fire match,artifact,no
+deepseek-ai_DeepSeek-V3.1,6347,8,water bottle | briefcase | backpack,artifact,yes
+deepseek-ai_DeepSeek-V3.1,6359,1,gift bag | paper bag | sleeping bag,artifact,yes
+deepseek-ai_DeepSeek-V3.1,6380,4,mail car | mail truck | mail van,artifact,yes
+deepseek-ai_DeepSeek-V3.1,6396,11,rainwater | bicycle lane | piggy bank,artifact,no
+deepseek-ai_DeepSeek-V3.1,6543,2,truck | airplane | tank,artifact,yes
+deepseek-ai_DeepSeek-V3.1,6575,2,submarine | rowboat | fishing boat,artifact,yes
+deepseek-ai_DeepSeek-V3.1,6606,6,skateboard | wheelbarrow | sled,artifact,yes
+deepseek-ai_DeepSeek-V3.1,6607,2,airplane | car | train,artifact,yes
+deepseek-ai_DeepSeek-V3.1,9334,4,trapezius | platysma | sternocleidomastoid,body_part,yes
+deepseek-ai_DeepSeek-V3.1,9433,4,liver | kidney | brain,body_part,yes
+deepseek-ai_DeepSeek-V3.1,9457,12,musculus | nervus | arteria,body_part,yes
+deepseek-ai_DeepSeek-V3.1,9596,6,hammer | anvil | stirrup,body_part,no
+deepseek-ai_DeepSeek-V3.1,9616,5,chair | rock | cloud,body_part,no
+deepseek-ai_DeepSeek-V3.1,9624,2,taste bud | electroreceptor | statocyst,body_part,yes
+deepseek-ai_DeepSeek-V3.1,9650,4,blood | bone | muscle,body_part,yes
+deepseek-ai_DeepSeek-V3.1,9670,14,buccinator | coracobrachialis | iliopsoas,body_part,yes
+deepseek-ai_DeepSeek-V3.1,9949,13,facial artery | lingual artery | occipital artery,body_part,yes
+deepseek-ai_DeepSeek-V3.1,10074,20,thoracoepigastric vein | superficial epigastric vein | superficial circumflex iliac vein,body_part,yes
+deepseek-ai_DeepSeek-V3.1,10237,3,curry | soy sauce | ketchup,food,yes
+deepseek-ai_DeepSeek-V3.1,10529,13,table salt | sea salt | iodized salt,food,yes
+deepseek-ai_DeepSeek-V3.1,10838,10,steak | carrot | milk,food,yes
+deepseek-ai_DeepSeek-V3.1,10858,2,sushi | ramen | tempura,food,yes
+deepseek-ai_DeepSeek-V3.1,10981,20,air | rock | plastic,food,no
+deepseek-ai_DeepSeek-V3.1,10986,4,blue car | red car | green car,food,no
+deepseek-ai_DeepSeek-V3.1,10994,8,cheddar cheese | parmesan cheese | swiss cheese,food,yes
+deepseek-ai_DeepSeek-V3.1,11006,4,soup | coffee | juice,food,yes
+deepseek-ai_DeepSeek-V3.1,11016,19,Neapolitan ice cream | strawberry ice cream | vanilla ice cream,food,yes
+deepseek-ai_DeepSeek-V3.1,11059,1,rice pudding | bread pudding | vanilla pudding,food,yes
+deepseek-ai_DeepSeek-V3.1,11199,2,pizza | cake | tart,food,yes
+deepseek-ai_DeepSeek-V3.1,11263,11,milk | juice | soda,food,yes
+deepseek-ai_DeepSeek-V3.1,11376,10,cheesecake | tiramisu | flan,food,yes
+deepseek-ai_DeepSeek-V3.1,11384,3,pancake | waffle | muffin,food,yes
+deepseek-ai_DeepSeek-V3.1,11459,11,vinegar | soy sauce | olive oil,food,yes
+deepseek-ai_DeepSeek-V3.1,11697,4,water | air | rock,food,no
+deepseek-ai_DeepSeek-V3.1,11921,4,pizza | pie | tart,food,yes
+deepseek-ai_DeepSeek-V3.1,12016,9,puff pastry | pie crust | shortbread,food,yes
+deepseek-ai_DeepSeek-V3.1,12095,5,apple | carrot | steak,food,yes
+deepseek-ai_DeepSeek-V3.1,12377,12,orange | date | chip,food,yes
+deepseek-ai_DeepSeek-V3.1,15245,1,cycad | zamia | stangeria,plant,yes
+deepseek-ai_DeepSeek-V3.1,15310,20,oak tree | pine tree | maple tree,plant,yes
+deepseek-ai_DeepSeek-V3.1,15508,11,clubmoss | peat moss | Spanish moss,plant,yes
+deepseek-ai_DeepSeek-V3.1,15598,1,tamarack | Japanese larch | dawn redwood,plant,yes
+deepseek-ai_DeepSeek-V3.1,15611,1,pine | oak | maple,plant,yes
+deepseek-ai_DeepSeek-V3.1,15613,19,pizza | sushi | taco,plant,no
+deepseek-ai_DeepSeek-V3.1,15790,3,oak tree | maple tree | birch tree,plant,yes
+deepseek-ai_DeepSeek-V3.1,16096,5,pine | cypress | maple,plant,yes
+deepseek-ai_DeepSeek-V3.1,16120,10,rose hip | alder buckthorn | rubber plant,plant,yes
+deepseek-ai_DeepSeek-V3.1,16152,3,rock | water | air,plant,no
+deepseek-ai_DeepSeek-V3.1,16249,17,Cedrus atlantica | Cedrus libani | Cedrus deodara,plant,yes
+deepseek-ai_DeepSeek-V3.1,16414,1,clover | daisy | rose,plant,yes
+deepseek-ai_DeepSeek-V3.1,16467,10,deciduous larch | bald cypress | dawn redwood,plant,yes
+deepseek-ai_DeepSeek-V3.1,16469,19,basket | oak | bark,plant,no
+deepseek-ai_DeepSeek-V3.1,16864,20,river oak | swamp mahogany | forest red gum,plant,yes
+deepseek-ai_DeepSeek-V3.1,17047,8,fern | moss | pine,plant,yes
+deepseek-ai_DeepSeek-V3.1,17248,6,bacteria | algae | mushroom,plant,no
+deepseek-ai_DeepSeek-V3.1,17257,20,moss | algae | lichen,plant,no
+deepseek-ai_DeepSeek-V3.1,17361,8,daisy | tulip | dandelion,plant,yes
+deepseek-ai_DeepSeek-V3.1,17775,15,blackberry | blueberry | strawberry,plant,yes
+gpt-5-mini,62,7,octopus | spider | earthworm,animal,yes
+gpt-5-mini,357,2,bald eagle | Atlantic salmon | tree frog,animal,yes
+gpt-5-mini,546,9,dog | cat | cow,animal,yes
+gpt-5-mini,658,2,cat | chair | eagle,animal,no
+gpt-5-mini,819,13,dragon | unicorn | phoenix,animal,yes
+gpt-5-mini,1066,3,African elephant | rose | peregrine falcon,animal,no
+gpt-5-mini,1136,8,Portuguese man o' war | sea anemone | sponge,animal,yes
+gpt-5-mini,1154,2,octopus | blue crab | bottlenose dolphin,animal,yes
+gpt-5-mini,1261,1,red-tailed hawk | blue-footed booby | striped skunk,animal,yes
+gpt-5-mini,1551,2,meniscus | phalanx | muscle,body_part,yes
+gpt-5-mini,1725,19,sea cucumber | crab | salmon,animal,yes
+gpt-5-mini,1943,3,octopus | jellyfish | sea star,animal,yes
+gpt-5-mini,2806,5,banana | fox | lamp,animal,no
+gpt-5-mini,2971,6,kiwi | kakapo | hoatzin,animal,yes
+gpt-5-mini,3172,3,oak tree | rose | granite,animal,no
+gpt-5-mini,3192,16,oak | duck | robin,animal,no
+gpt-5-mini,3411,11,bird | Aves | Passeriformes,animal,yes
+gpt-5-mini,3743,3,domestic cat | green tree frog | monarch butterfly,animal,yes
+gpt-5-mini,3852,10,kiwi | emu | ostrich,animal,yes
+gpt-5-mini,3947,1,peregrine falcon | barn owl | bald eagle,animal,yes
+gpt-5-mini,3966,5,oak tree | rose | granite,animal,no
+gpt-5-mini,4020,1,heart | gill | kidney,body_part,yes
+gpt-5-mini,4032,12,hepatic sinusoid | sweat gland | stoma (plant stomatal pore),body_part,no
+gpt-5-mini,4288,3,spleen | clavicle | dentine,body_part,yes
+gpt-5-mini,4313,9,feather | acorn | mushroom cap,body_part,no
+gpt-5-mini,4348,6,heart | liver | spleen,body_part,yes
+gpt-5-mini,4368,2,tooth | cartilage | tendon,body_part,yes
+gpt-5-mini,4450,2,skin | finger | brain,body_part,yes
+gpt-5-mini,4458,2,nostril | snout | horn,body_part,yes
+gpt-5-mini,4465,3,sixth sense | photoreceptor | spleen,body_part,no
+gpt-5-mini,4779,4,aluminum can | copper coin | plastic ruler,artifact,yes
+gpt-5-mini,4784,8,original oil painting | print of a painting (mass-produced) | photograph print,artifact,yes
+gpt-5-mini,4875,19,word | milk | education,artifact,no
+gpt-5-mini,5184,8,spade | wrench | hammer,artifact,yes
+gpt-5-mini,5224,1,thermometer | scale | stopwatch,artifact,yes
+gpt-5-mini,5265,17,fingerboard | peg | sound hole,artifact,yes
+gpt-5-mini,5506,7,audio | planet | window,artifact,no
+gpt-5-mini,5516,12,Baroque fugue sheet music | architectural blueprint | carved wooden spoon,artifact,yes
+gpt-5-mini,5652,6,saxophone | kazoo | microphone,artifact,yes
+gpt-5-mini,5653,12,flute | microphone | maracas,artifact,yes
+gpt-5-mini,5757,6,hammer | spoon | screwdriver,artifact,yes
+gpt-5-mini,5807,20,coffee grinder | paper cutter | bread slicer,artifact,yes
+gpt-5-mini,6347,14,wine glass | washing machine | toy box,artifact,yes
+gpt-5-mini,6359,15,bucket | mug | bottle,artifact,yes
+gpt-5-mini,6380,5,jackfruit | rosebud | envelope,artifact,no
+gpt-5-mini,6396,1,shopping cart | bicycle | flower pot,artifact,yes
+gpt-5-mini,6543,9,sailboat | motorboat | canoe,artifact,yes
+gpt-5-mini,6575,17,parachute | backpack | park bench,artifact,yes
+gpt-5-mini,6606,16,car | elevator | bridge,artifact,yes
+gpt-5-mini,6607,12,school | dock | tree,artifact,no
+gpt-5-mini,9334,19,flagellum | stamen | mitochondrion,body_part,no
+gpt-5-mini,9433,5,acetabulum | stapes | sarcomere,body_part,no
+gpt-5-mini,9457,1,biceps brachii | orbicularis oris | levator ani,body_part,yes
+gpt-5-mini,9596,6,lung | whisker | gill,body_part,yes
+gpt-5-mini,9616,4,tooth enamel | hair shaft | lens (eye),body_part,yes
+gpt-5-mini,9624,18,retina (vertebrate eye) | organ of Corti / cochlear sensory epithelium (hearing organ) | taste buds (gustatory organ),body_part,yes
+gpt-5-mini,9650,8,bronchial mucosa | urinary bladder urothelium | peritoneal mesothelium,body_part,no
+gpt-5-mini,9670,5,cardiac (myocardium) muscle | detrusor muscle (smooth muscle of bladder) | diaphragm muscle,body_part,yes
+gpt-5-mini,9949,17,artery | xylem | flagellum,body_part,no
+gpt-5-mini,10074,6,screwdriver | maple tree | quantum entanglement,body_part,no
+gpt-5-mini,10237,2,bonjour | ballet | croissant,food,no
+gpt-5-mini,10529,19,water | sugar | salt,food,yes
+gpt-5-mini,10838,1,ice cream sundae | lemon meringue pie | chocolate lava cake,food,yes
+gpt-5-mini,10858,1,crème brûlée | pavlova | panna cotta,food,yes
+gpt-5-mini,10981,7,table sugar | rat poison | baby formula,food,no
+gpt-5-mini,10986,1,chocolate ice cream | frozen yogurt | chocolate cake,food,yes
+gpt-5-mini,10994,3,hammer | chair | map,food,no
+gpt-5-mini,11006,3,cinnamon roll | hot chocolate | roast chicken,food,yes
+gpt-5-mini,11016,9,candy bar | sushi | raw chicken,food,yes
+gpt-5-mini,11059,5,hamburger | apple pie | steak and kidney pie,food,yes
+gpt-5-mini,11199,6,cheesecake | empanada | cupcake,food,yes
+gpt-5-mini,11263,1,apple pie | hamburger patty | empanada,food,yes
+gpt-5-mini,11376,2,bagel | pretzel | baguette,food,yes
+gpt-5-mini,11384,2,candy bar | apple | roast chicken,food,yes
+gpt-5-mini,11459,1,peach jam | dill pickles | mayonnaise,food,yes
+gpt-5-mini,11697,15,porterhouse steak | Salisbury steak | beefsteak tomato,food,yes
+gpt-5-mini,11921,1,bagel | ciabatta | pita,food,yes
+gpt-5-mini,12016,2,doughnut | cookie | tortilla,food,yes
+gpt-5-mini,12095,13,honey | dog food | cigarette,food,no
+gpt-5-mini,12377,15,salt | sugar | detergent,food,no
+gpt-5-mini,15245,17,oak | rose | pine,plant,yes
+gpt-5-mini,15310,1,mango tree | oak tree | baobab,plant,yes
+gpt-5-mini,15508,1,oak | bay laurel | juniper,plant,yes
+gpt-5-mini,15598,2,English oak (Quercus robur) | white birch (Betula papyrifera) | ginkgo (Ginkgo biloba),plant,yes
+gpt-5-mini,15611,2,Ginkgo biloba | Cycas revoluta | Metasequoia glyptostroboides,plant,yes
+gpt-5-mini,15613,13,carrot | potato | lettuce,plant,yes
+gpt-5-mini,15790,13,Chara (stonewort) | sugar maple | oak,plant,yes
+gpt-5-mini,16096,7,Lycopodium clavatum (clubmoss) | Polytrichum commune (haircap moss) | Fucus vesiculosus (bladderwrack seaweed),plant,no
+gpt-5-mini,16120,15,kelp | fern | mushroom,plant,no
+gpt-5-mini,16152,1,Scots pine | Ponderosa pine | Lodgepole pine,plant,yes
+gpt-5-mini,16249,16,Ashe juniper (mountain cedar) | Cedar chest | Cedar of Lebanon,plant,no
+gpt-5-mini,16414,7,buttercup | lily | maple,plant,yes
+gpt-5-mini,16467,6,sunflower | horsetail | mushroom,plant,no
+gpt-5-mini,16469,10,silver birch | ghost orchid | cabbage tree,plant,yes
+gpt-5-mini,16864,8,liverwort | horsetail | aloe,plant,yes
+gpt-5-mini,17047,18,dodder | Indian pipe | mistletoe,plant,yes
+gpt-5-mini,17248,3,Citrus sinensis (orange) | Quercus robur (oak/acorn) | Fragaria × ananassa (strawberry),plant,yes
+gpt-5-mini,17257,7,velvet fern | stone rose | city oak,plant,no
+gpt-5-mini,17361,15,Saccharomyces cerevisiae (baker's yeast) | Escherichia coli | housefly (Musca domestica),plant,no
+gpt-5-mini,17775,20,Spanish moss | sea lettuce | broomrape,plant,no
+gpt-5-nano,62,5,penguin | giraffe | salmon,animal,yes
+gpt-5-nano,357,2,Domestic cat | House sparrow | Koala,animal,yes
+gpt-5-nano,546,10,hammerhead shark | blue whale | sea turtle,animal,yes
+gpt-5-nano,658,1,salmon | eel | shark,animal,yes
+gpt-5-nano,819,7,rock | plastic | glass,animal,no
+gpt-5-nano,1066,12,batfish | parrotfish | antelope,animal,yes
+gpt-5-nano,1136,8,orangutan | hammerhead shark | penguin,animal,yes
+gpt-5-nano,1154,4,red sea urchin | green sea turtle | blue whale,animal,yes
+gpt-5-nano,1261,2,orange-bellied parrot | green-winged macaw | red-crowned crane,animal,yes
+gpt-5-nano,1551,18,maxilla | scapula | nasal concha,body_part,yes
+gpt-5-nano,1725,1,hammerhead shark | great white shark | thresher shark,animal,yes
+gpt-5-nano,1943,3,cow | eagle | camel,animal,yes
+gpt-5-nano,2806,3,cornbread | speedboat | lighthouse,animal,no
+gpt-5-nano,2971,10,parotia lawesii | king of saxony bird-of-paradise | magnificent bird-of-paradise,animal,yes
+gpt-5-nano,3172,11,gray wolf | grizzly bear | bison,animal,yes
+gpt-5-nano,3192,9,frog | turtle | human,animal,yes
+gpt-5-nano,3411,1,red-tailed hawk | great blue heron | american robin,animal,yes
+gpt-5-nano,3743,3,Scarlet macaw | American crow | Northern cardinal,animal,yes
+gpt-5-nano,3852,20,rabbit | goat | chicken,animal,yes
+gpt-5-nano,3947,18,alligator | stingray | sturgeon,animal,yes
+gpt-5-nano,3966,17,snail | spider | dog,animal,yes
+gpt-5-nano,4020,1,kidney | liver | heart,body_part,yes
+gpt-5-nano,4032,17,chlorophyll | hemoglobin | insulin,body_part,no
+gpt-5-nano,4288,4,keratin | elastin | collagen,body_part,no
+gpt-5-nano,4313,9,maxilla | sacrum | stapes,body_part,yes
+gpt-5-nano,4348,15,radius | femur | scapula,body_part,yes
+gpt-5-nano,4368,12,zygomatic bone | palatine bone | inferior nasal concha,body_part,yes
+gpt-5-nano,4450,13,esophagus | diaphragm | spleen,body_part,yes
+gpt-5-nano,4458,12,scarred cheek | mole on nose | freckled skin,body_part,yes
+gpt-5-nano,4465,19,optic nerve | occipital bone | lip tissue,body_part,yes
+gpt-5-nano,4779,2,electric motor | loudspeaker | resistor,artifact,yes
+gpt-5-nano,4784,10,antenna | thermopile | piezoelectric harvester,artifact,yes
+gpt-5-nano,4875,7,echo | pulse | signal,artifact,no
+gpt-5-nano,5184,16,flowmeter | strain gauge | turbidity meter,artifact,yes
+gpt-5-nano,5224,19,flowmeter | nephelometer | odometer,artifact,yes
+gpt-5-nano,5265,10,book | scarf | pillow,artifact,yes
+gpt-5-nano,5506,14,level | radar | civic,artifact,no
+gpt-5-nano,5516,17,bandsaw | dial gauge | wood file,artifact,yes
+gpt-5-nano,5652,1,guitar | harp | zither,artifact,yes
+gpt-5-nano,5653,15,flute | recorder | shakuhachi,artifact,yes
+gpt-5-nano,5757,8,slotted chisel | polished plane | heavy screwdriver,artifact,yes
+gpt-5-nano,5807,14,stone knife | wood plane | glass chisel,artifact,yes
+gpt-5-nano,6347,18,balloon | book | knee,artifact,no
+gpt-5-nano,6359,13,handbag | sandbag | backpack,artifact,yes
+gpt-5-nano,6380,5,thermos | backpack | mason jar,artifact,yes
+gpt-5-nano,6396,3,car | wallet | bucket,artifact,yes
+gpt-5-nano,6543,20,bicycle | train | bus,artifact,yes
+gpt-5-nano,6575,3,train | submarine | rock,artifact,no
+gpt-5-nano,6606,3,trireme | galleon | longship,artifact,yes
+gpt-5-nano,6607,5,rice ship | gold ship | wine ship,artifact,yes
+gpt-5-nano,9334,20,hyaline cartilage | fibrocartilage | elastic cartilage,body_part,no
+gpt-5-nano,9433,2,pectoralis major | rectus femoris | orbicularis oculi,body_part,yes
+gpt-5-nano,9457,2,deltoid | gluteus maximus | rectus abdominis,body_part,yes
+gpt-5-nano,9596,20,pulvinar nucleus | reticular thalamic nucleus | posterior parietal cortex,body_part,yes
+gpt-5-nano,9616,7,larynx | esophagus | thyroid gland,body_part,yes
+gpt-5-nano,9624,13,statocyst | ocellus | Johnston's organ,body_part,yes
+gpt-5-nano,9650,12,epidermis | endothelium | mesothelium,body_part,no
+gpt-5-nano,9670,16,epidermis | dermis | hypodermis,body_part,yes
+gpt-5-nano,9949,3,ulnar artery | femoral artery | tibial artery,body_part,no
+gpt-5-nano,10074,6,scapula | larynx | patella,body_part,yes
+gpt-5-nano,10237,10,pad thai | moussaka | falafel,food,yes
+gpt-5-nano,10529,16,agarose | pectin | xanthan gum,food,no
+gpt-5-nano,10838,19,creme caramel | banana pudding | mousse au chocolat,food,yes
+gpt-5-nano,10858,11,vanilla ice cream | crème brûlée | panna cotta,food,yes
+gpt-5-nano,10981,18,Apple | Banana | Wrench,food,no
+gpt-5-nano,10986,1,chocolate ice cream | mint ice cream | lemon sorbet,food,yes
+gpt-5-nano,10994,18,sushi burrito | ramen paella | tikka masala pasta,food,yes
+gpt-5-nano,11006,18,mango sticky rice | daifuku | taiyaki,food,yes
+gpt-5-nano,11016,18,hazelnut milk ice cream | oat milk popsicle | rice milk ice cream bar,food,yes
+gpt-5-nano,11059,1,bread pudding | rice pudding | tapioca pudding,food,yes
+gpt-5-nano,11199,10,breadstick | croissant | sushi,food,yes
+gpt-5-nano,11263,4,almond cake | cobalt broth | nickel pie,food,no
+gpt-5-nano,11376,3,tart | strudel | beignet,food,yes
+gpt-5-nano,11384,7,red velvet cake | garlic bread | lemon tart,food,yes
+gpt-5-nano,11459,13,laundry detergent | toothpaste | soap,food,no
+gpt-5-nano,11697,4,apple | carrot | bread,food,yes
+gpt-5-nano,11921,12,lettuce | cucumber | bell pepper,food,yes
+gpt-5-nano,12016,20,quinoa | almonds | tofu,food,yes
+gpt-5-nano,12095,7,sourdough | rye bread | brioche,food,yes
+gpt-5-nano,12377,6,strudel | tiropita | empanada,food,yes
+gpt-5-nano,15245,9,Quercus | Rosa | Aesculus,plant,yes
+gpt-5-nano,15310,17,black locust | white birch | red maple,plant,yes
+gpt-5-nano,15508,13,pine cone | raspberry | almond,plant,no
+gpt-5-nano,15598,13,White oak | Red maple | Black walnut,plant,yes
+gpt-5-nano,15611,2,Giant sequoia | Dawn redwood | Eastern hemlock,plant,yes
+gpt-5-nano,15613,8,grape | poppy | quay,plant,no
+gpt-5-nano,15790,5,Douglas fir | Norway spruce | White pine,plant,yes
+gpt-5-nano,16096,10,pine | spruce | cedar,plant,yes
+gpt-5-nano,16120,15,silver birch | crimson maple | azure fern,plant,yes
+gpt-5-nano,16152,8,Boxwood | Holly | Juniper,plant,yes
+gpt-5-nano,16249,2,Eastern red cedar | Port Orford cedar | Western red cedar,plant,yes
+gpt-5-nano,16414,6,crystal ivy | amber cedar | azure orchid,plant,yes
+gpt-5-nano,16467,20,Nostoc punctiforme | Arabidopsis thaliana | Chlamydomonas reinhardtii,plant,no
+gpt-5-nano,16469,14,river pine | canyon maple | delta cedar,plant,yes
+gpt-5-nano,16864,7,purple palm | crystal willow | amber fir,plant,yes
+gpt-5-nano,17047,8,mysterious oak | silent maple | golden poppy,plant,yes
+gpt-5-nano,17248,1,cacao tree | jackfruit tree | durian tree,plant,yes
+gpt-5-nano,17257,11,soft willow | quiet ivy | bright rose,plant,yes
+gpt-5-nano,17361,3,mint | cilantro | geranium,plant,yes
+gpt-5-nano,17775,8,African violet | Hawaiian hibiscus | Scottish thistle,plant,yes
+gpt-5.2-chat,62,2,cow | eagle | human,animal,yes
+gpt-5.2-chat,357,3,rock | oak tree | table,animal,no
+gpt-5.2-chat,546,4,sea turtle | giant kelp | brain coral,animal,no
+gpt-5.2-chat,658,3,tiger | eagle | lizard,animal,yes
+gpt-5.2-chat,819,1,salmon | tiger | blue whale,animal,yes
+gpt-5.2-chat,1066,1,salmon | tiger | catfish,animal,yes
+gpt-5.2-chat,1136,1,Atlantic salmon | great white shark | blue whale,animal,yes
+gpt-5.2-chat,1154,2,goldfish | Atlantic cod | Atlantic salmon,animal,yes
+gpt-5.2-chat,1261,3,mountain lion | great white shark | platypus,animal,yes
+gpt-5.2-chat,1551,1,femur | scapula | molar,body_part,yes
+gpt-5.2-chat,1725,1,great white shark | hammerhead shark | tiger shark,animal,yes
+gpt-5.2-chat,1943,1,great white shark | hammerhead shark | dolphin,animal,yes
+gpt-5.2-chat,2806,2,rock | table | happiness,animal,no
+gpt-5.2-chat,2971,3,lion | bat | penguin,animal,yes
+gpt-5.2-chat,3172,3,bee | octopus | earthworm,animal,yes
+gpt-5.2-chat,3192,1,sparrow | tiger | oak tree,animal,no
+gpt-5.2-chat,3411,3,penguin | ostrich | elephant,animal,yes
+gpt-5.2-chat,3743,4,housefly | earthworm | jellyfish,animal,yes
+gpt-5.2-chat,3852,4,ant | earthworm | spider,animal,yes
+gpt-5.2-chat,3947,3,monarch butterfly | oak tree | mushroom,animal,no
+gpt-5.2-chat,3966,1,turkey vulture | golden eagle | marabou stork,animal,yes
+gpt-5.2-chat,4020,6,hair | bone | muscle,body_part,yes
+gpt-5.2-chat,4032,1,trachea | spiracle | plastron,body_part,yes
+gpt-5.2-chat,4288,5,rib | ulna | skull,body_part,yes
+gpt-5.2-chat,4313,1,femur | mandible | patella,body_part,yes
+gpt-5.2-chat,4348,13,map | pen | cup,body_part,no
+gpt-5.2-chat,4368,2,heart | liver | brain,body_part,yes
+gpt-5.2-chat,4450,2,elbow | knee | heart,body_part,yes
+gpt-5.2-chat,4458,2,nostril | beak | ear,body_part,yes
+gpt-5.2-chat,4465,4,pineal gland | Adam's apple | Achilles tendon,body_part,yes
+gpt-5.2-chat,4779,1,transformer | inductor | electromagnet,artifact,yes
+gpt-5.2-chat,4784,2,wire | battery | antenna,artifact,yes
+gpt-5.2-chat,4875,5,idea | poem | painting,artifact,no
+gpt-5.2-chat,5184,8,algorithm | poem | law,artifact,no
+gpt-5.2-chat,5224,1,thermometer | hammer | voltmeter,artifact,yes
+gpt-5.2-chat,5265,8,whistle | bell | thunder,artifact,no
+gpt-5.2-chat,5506,4,house | eagle | engine,artifact,no
+gpt-5.2-chat,5516,17,algorithm | rhythm | sky,artifact,no
+gpt-5.2-chat,5652,7,table | apple | chair,artifact,no
+gpt-5.2-chat,5653,16,book | chair | cloud,artifact,no
+gpt-5.2-chat,5757,10,airplane | piano | refrigerator,artifact,yes
+gpt-5.2-chat,5807,12,coffee cup | garden chair | steel door,artifact,yes
+gpt-5.2-chat,6347,6,idea | chair | running,artifact,no
+gpt-5.2-chat,6359,4,knife | box | baby,artifact,no
+gpt-5.2-chat,6380,1,jar | box | envelope,artifact,yes
+gpt-5.2-chat,6396,6,cat | dog | sky,artifact,no
+gpt-5.2-chat,6543,17,idea | justice | happiness,artifact,no
+gpt-5.2-chat,6575,9,prison ship | slave train | deportation bus,artifact,yes
+gpt-5.2-chat,6606,16,pair of shoes | glasses | pants,artifact,yes
+gpt-5.2-chat,6607,7,ownership | courtship | internship,artifact,no
+gpt-5.2-chat,9334,3,heart | liver | spleen,body_part,yes
+gpt-5.2-chat,9433,1,biceps brachii | deltoid muscle | gastrocnemius,body_part,yes
+gpt-5.2-chat,9457,4,Escherichia coli | rose plant | domestic dog,body_part,no
+gpt-5.2-chat,9596,3,rock | chair | cloud,body_part,no
+gpt-5.2-chat,9616,1,cochlea | tongue | thyroid gland,body_part,yes
+gpt-5.2-chat,9624,2,retina | cochlea | neuron,body_part,no
+gpt-5.2-chat,9650,3,arena | album | drama,body_part,no
+gpt-5.2-chat,9670,7,thyroid gland | sciatic nerve | trapezius muscle,body_part,yes
+gpt-5.2-chat,9949,7,left ventricle | spleen | optic nerve,body_part,yes
+gpt-5.2-chat,10074,1,femoral vein | aorta | great cardiac vein,body_part,yes
+gpt-5.2-chat,10237,3,pizza | burger | chair,food,no
+gpt-5.2-chat,10529,2,salt | honey | maple syrup,food,yes
+gpt-5.2-chat,10838,3,table | happiness | guitar,food,no
+gpt-5.2-chat,10858,4,table | happiness | mountain,food,no
+gpt-5.2-chat,10981,3,table | happiness | basketball,food,no
+gpt-5.2-chat,10986,4,pepperoni pizza | vanilla cake | apple pie,food,yes
+gpt-5.2-chat,10994,1,sorbet | gelato | cheesecake,food,yes
+gpt-5.2-chat,11006,5,steak | bread | rice,food,yes
+gpt-5.2-chat,11016,2,vanilla candle | strawberry shampoo | chocolate bar,food,no
+gpt-5.2-chat,11059,1,rice pudding | apple pie | bread pudding,food,yes
+gpt-5.2-chat,11199,3,magpie | pie chart | chicken pot pie,food,no
+gpt-5.2-chat,11263,2,brownie | tart | salad,food,yes
+gpt-5.2-chat,11376,1,baguette | brownie | birthday cake,food,yes
+gpt-5.2-chat,11384,1,brownie | pizza | ice cream,food,yes
+gpt-5.2-chat,11459,1,grape jelly | orange marmalade | peach jam,food,yes
+gpt-5.2-chat,11697,17,red herring | white elephant | hot dog,food,no
+gpt-5.2-chat,11921,16,plate | napkin | fork,food,no
+gpt-5.2-chat,12016,2,spaghetti | meringue | ice cream,food,yes
+gpt-5.2-chat,12095,1,naan | baguette | tortilla,food,yes
+gpt-5.2-chat,12377,2,pizza | steak | soup,food,yes
+gpt-5.2-chat,15245,2,pine | oak | fern,plant,yes
+gpt-5.2-chat,15310,16,maple | lily | grass,plant,yes
+gpt-5.2-chat,15508,4,tiger | granite | oak tree,plant,no
+gpt-5.2-chat,15598,3,red maple | rose bush | giant sequoia,plant,yes
+gpt-5.2-chat,15611,6,Ulva (sea lettuce) | red algae | cyanobacteria,plant,no
+gpt-5.2-chat,15613,12,beef | pork | chicken,plant,no
+gpt-5.2-chat,15790,14,oxygen | nitrogen | carbon dioxide,plant,no
+gpt-5.2-chat,16096,3,dog | mushroom | bacterium,plant,no
+gpt-5.2-chat,16120,1,red maple | granite rock | silver birch,plant,no
+gpt-5.2-chat,16152,5,cherry blossom tree | apple tree | tulip,plant,yes
+gpt-5.2-chat,16249,2,Cedrus libani | Cedrus atlantica | Cedrus deodara,plant,yes
+gpt-5.2-chat,16414,1,red maple | black-eyed Susan | oak,plant,yes
+gpt-5.2-chat,16467,2,maple tree | rose bush | wheat,plant,yes
+gpt-5.2-chat,16469,13,oak basket | hemlock mountain | bark cabbage,plant,no
+gpt-5.2-chat,16864,2,oak | rose | kangaroo,plant,no
+gpt-5.2-chat,17047,1,oak tree | rose bush | daisy,plant,yes
+gpt-5.2-chat,17248,2,banana plant | grapevine | wheat,plant,yes
+gpt-5.2-chat,17257,1,silver birch | desert rose | red fox,plant,no
+gpt-5.2-chat,17361,1,southern magnolia | tulip tree | rose,plant,yes
+gpt-5.2-chat,17775,4,golden retriever | bald eagle | Siberian tiger,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,62,19,Tarsius syrichta | Cephalopterus ornatus | Rhynchops niger,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,357,2,oak tree | pineapple | Mercedes-Benz,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,546,3,frog | snake | turtle,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,658,2,frog | turtle | alligator,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,819,10,angelfish | swordtail | guppy,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,1066,20,sunfish | toadfish | mudfish,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,1136,10,Salmon | Grouper | Swordtail,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,1154,10,shark | stingray | guitarfish,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,1261,1,house sparrow | american robin | red-winged blackbird,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,1551,7,femur of a cat |  scale of a fish | leaf of a plant,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,1725,1,tiger shark | whale shark | goblin shark,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,1943,6,car | chair | pencil,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,2806,2,pine tree | chair | cloud,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,2971,5,quetzal | flycatcher | bird-of-paradise,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,3172,14,red fox | bluebottle | yellow jacket,animal,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,3192,6,European robin | red-billed chough | red-billed blue magpie,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,3411,14,Northern Cardinal | American Goldfinch | Red-winged Blackbird,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,3743,14,common kestrel | lesser kestrel | American kestrel,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,3852,16,Peregrine falcon | Gyrfalcon | Lanner falcon,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,3947,1,bald eagle | golden eagle | swan,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,3966,12,lammergeier | Egyptian vulture | bearded vulture,animal,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4020,19,antenna | pedipalp | maxilla,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4032,9,Nudibranch cerata | Dorid nudibranch | Aeolid nudibranch,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4288,2,cartilage | gum | tongue,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4313,3,kidney | ulna | trachea,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4348,10,brain | tongue | nose,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4368,9,maxilla | mandible | temporal bone,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4450,2,knee | elbow | shoulder,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4458,5,beak shape | prominent nose | aquiline nose,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4465,1,pineal gland | eye patch | femoral artery,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4779,17,amplifier | oscillator | filter,artifact,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4784,6,alternator | generator | dynamo,artifact,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,4875,5,simplicity | minimalism | brevity,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5184,13,Kipp's apparatus | Orsat apparatus | cloud chamber,artifact,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5224,6,micrometer | galvanometer | manometer,artifact,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5265,16,woodwind | brass instrument | electronic instrument,artifact,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5506,1,house | background | amplifier,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5516,3,software | algorithm | protocol,artifact,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5652,3,harmonica | saxophone | trumpet,artifact,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5653,9,percussion | brass | acoustic,artifact,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5757,20,lathe | router | planer,artifact,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,5807,6,jointer plane | router plane | shoulder plane,artifact,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,6347,8,fabric | cloth | textile,artifact,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,6359,2,handbag | doggy bag | mailbag,artifact,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,6380,1,chest | car | john,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,6396,7,starts with a 'v' or 'b' sound | wheel | vase,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,6543,9,gunship | capital ship | sister ship,artifact,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,6575,6,sailing ship | merchant ship | flagship,artifact,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,6606,7,vessel | warrior | warning,artifact,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,6607,2,battleship | flagship | sailing ship,artifact,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9334,6,tensor fasciae latae | platysma | buccinator,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9433,1,pectoralis major | diaphragm | biceps brachii,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9457,5,femur | tibia | fibula,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9596,10,nose | snout | proboscis,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9616,13,head | neck | embryonic development,body_part,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9624,3,brain | heart | kidney,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9650,5,skin | liver | brain,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9670,3,heart muscle | smooth muscle | skeletal muscle,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,9949,4,heart | liver | kidney,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,10074,1,brachiocephalic vein | inferior vena cava | superior vena cava,body_part,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,10237,13,Hollandaise | Réchauffé | Coulis,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,10529,3,salt | pepper | flour,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,10838,1,tiramisu | fruit salad | trifle,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,10858,5,cheesecake | mousse | flan,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,10981,1,froyo | ice cream sandwich | milkshake,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,10986,1,chocolate ice cream | lemon ice cream | coffee ice cream,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,10994,1,ice cream | sherbet | gelato,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11006,10,sundae | milkshake | banana split,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11016,5,rock | water | air,food,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11059,1,banana pudding | lemon pudding | butterscotch pudding,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11199,1,apple pie | pumpkin pie | cherry pie,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11263,2,sushi | pizza | crepe,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11376,8,profiterole | gâteau | bavarois,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11384,10,wedding cake | birthday cake | anniversary cake,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11459,6,relish | tapenade | pâté,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11697,10,filet mignon | New York strip | ribeye,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,11921,1,white bread | ciabatta | whole wheat,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,12016,3,bread | cake | pie,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,12095,3,rice | quinoa | oatmeal,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,12377,17,cronut | mille-feuille | galette des rois,food,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,15245,1,cycas | zamia | macrozamia,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,15310,5,upuna | kempas | acacia,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,15508,13,gamboge | dragon's blood | myrrh resin,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,15598,18,Torreya nucifera | Cephalotaxus harringtonii | Taxus cuspidata,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,15611,2,matai | miro | tanekaha,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,15613,4,tomato | cucumber | strawberry,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,15790,18,Ginkgo biloba | Metasequoia glyptostroboides | Taxus baccata,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,16096,5,dog | cat | car,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,16120,5,lady's mantle | maidenhair fern | wolf's bane,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,16152,20,Pine needle | Pine bark | Pine wood,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,16249,15,New Zealand cedar | Japanese cypress | Port Orford cedar,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,16414,9,grass | algae | lichen,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,16467,3,pineapple | oak wood | maple syrup,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,16469,1,white pine | red maple | silver birch,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,16864,5,eucalyptus globulus | eucalyptus regnans | eucalyptus grandis,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,17047,3,ebony | sallow | heather plant,plant,no
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,17248,12,banyan | fig tree | strangler fig,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,17257,2,whitebeam | rock jasmine | evening primrose,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,17361,1,saucer magnolia | Japanese magnolia | Magnolia grandiflora,plant,yes
+meta-llama_Llama-4-Maverick-17B-128E-Instruct-FP8,17775,6,rose bush | lily flower | oak tree,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,62,14,pocketed bat | skimmer | Tarsius glis,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,357,8,whale | bat | platypus,animal,yes
+mistralai_Mistral-Small-24B-Instruct-2501,546,17,devil ray | redfin pickerel | Pacific spiny dogfish,animal,yes
+mistralai_Mistral-Small-24B-Instruct-2501,658,8,ray | bream | cuttlefish,animal,yes
+mistralai_Mistral-Small-24B-Instruct-2501,819,5,pike | perch | bluegill,animal,yes
+mistralai_Mistral-Small-24B-Instruct-2501,1066,6,lamprey | swallow | sturgeon,animal,yes
+mistralai_Mistral-Small-24B-Instruct-2501,1136,5,frog | whale | beaugregory,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,1154,1,shark | goldfish | seahorse,animal,yes
+mistralai_Mistral-Small-24B-Instruct-2501,1261,18,long-billed marsh wren | short-tailed shrew | dark-eyed junco,animal,yes
+mistralai_Mistral-Small-24B-Instruct-2501,1551,3,patella | metacarpal | molar,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,1725,3,goldfish | clownfish | pufferfish,animal,yes
+mistralai_Mistral-Small-24B-Instruct-2501,1943,2,dolphin | goldfish | squid,animal,yes
+mistralai_Mistral-Small-24B-Instruct-2501,2806,3,whale | sparrow | giraffe,animal,yes
+mistralai_Mistral-Small-24B-Instruct-2501,2971,2,kiwi | ostrich | flamingo,animal,yes
+mistralai_Mistral-Small-24B-Instruct-2501,3172,1,eagle | kangaroo | goldfish,animal,yes
+mistralai_Mistral-Small-24B-Instruct-2501,3192,6,rook (chess piece) | rookery | rook,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,3411,20,yellow-rumped warbler | black-and-white warbler | American redstart,animal,yes
+mistralai_Mistral-Small-24B-Instruct-2501,3743,2,robin | golden eagle | barn owl,animal,yes
+mistralai_Mistral-Small-24B-Instruct-2501,3852,3,falcon | duck | flamingo,animal,yes
+mistralai_Mistral-Small-24B-Instruct-2501,3947,13,pigeon | sparrow | robin,animal,yes
+mistralai_Mistral-Small-24B-Instruct-2501,3966,3,bat | butterfly | kite,animal,no
+mistralai_Mistral-Small-24B-Instruct-2501,4020,1,heart | brain | liver,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,4032,7,stomach | intestines | liver,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,4288,1,femur | enamel | cartilage,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,4313,2,daisy | rose | sunflower,body_part,no
+mistralai_Mistral-Small-24B-Instruct-2501,4348,2,heart | liver | kidney,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,4368,7,cartilage | tendon | ligament,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,4450,11,brain | heart | lung,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,4458,3,ear | eye | tongue,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,4465,6,pancreas | spleen | bladder,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,4779,8,transformer | induction motor | induction stove,artifact,yes
+mistralai_Mistral-Small-24B-Instruct-2501,4784,3,microchip | resistor | capacitor,artifact,yes
+mistralai_Mistral-Small-24B-Instruct-2501,4875,5,lyric | ballad | ode,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,5184,6,microscope | telescope | stethoscope,artifact,yes
+mistralai_Mistral-Small-24B-Instruct-2501,5224,6,ruler | stop sign | paintbrush,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,5265,15,xylophone | marimba | vibraphone,artifact,yes
+mistralai_Mistral-Small-24B-Instruct-2501,5506,15,clickable | visible | transmittable,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,5516,6,transistor | capacitor | inductor,artifact,yes
+mistralai_Mistral-Small-24B-Instruct-2501,5652,15,cello | double bass | viola,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,5653,4,drum | harp | xylophone,artifact,yes
+mistralai_Mistral-Small-24B-Instruct-2501,5757,13,saw | glass cutter | firmer chisel,artifact,yes
+mistralai_Mistral-Small-24B-Instruct-2501,5807,3,wrench | pencil | ladder,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,6347,6,sack | bag | pouch,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,6359,14,evidence bag | crime scene bag | forensic bag,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,6380,2,train | bottle | letter,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,6396,1,book | car | tree,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,6543,9,cattle | flag | submarine,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,6575,4,aircraft carrier | hospital ship | prison ship,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,6606,7,cannon | musket | catapult,artifact,yes
+mistralai_Mistral-Small-24B-Instruct-2501,6607,3,rowboat | yacht | barge,artifact,no
+mistralai_Mistral-Small-24B-Instruct-2501,9334,1,biceps | heart | tibia,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,9433,5,smooth muscle | cardiac muscle | skeletal muscle,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,9457,1,heart | liver | biceps,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,9596,2,heart | wing | fin,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,9616,6,pancreas | thyroid | adrenal gland,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,9624,10,stomach | intestine | pancreas,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,9650,2,osteocyte | neuron | hepatocyte,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,9670,2,lateral rectus muscle | inferior rectus muscle | scalene muscle,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,9949,13,left gastric artery | right gastric artery | gastroduodenal artery,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,10074,4,lymphatic vessel | bile duct | ureter,body_part,yes
+mistralai_Mistral-Small-24B-Instruct-2501,10237,8,beef bourguignon | coq au vin | béchamel,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,10529,2,honey | molasses | maple syrup,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,10838,15,baked Alaska | pavlova | meringue pie,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,10858,1,panna cotta | apple pie | ice cream,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,10981,14,milkshake | smoothie | fruit juice,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,10986,11,ice cream | gelato | frozen yogurt,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,10994,17,sherbet | sorbet | Italian ice,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,11006,3,soup | juice | cake,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,11016,16,Neapolitan | strawberry | vanilla,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,11059,1,apple pie | ice cream | cheesecake,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,11199,9,cobbler | crisp | clafoutis,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,11263,1,apple pie | chicken | blueberry pie,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,11376,6,cupcake | danish | eclair,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,11384,18,fruit tart | custard tart | quiche,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,11459,13,strawberry | blueberry | raspberry,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,11697,18,beef shank | beef short plate | beef chuck,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,11921,7,cake | pasta | chicken,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,12016,14,hardtack | cracker | matzo,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,12095,7,croissant | bagel | muffin,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,12377,1,croissant | bagel | pizza,food,yes
+mistralai_Mistral-Small-24B-Instruct-2501,15245,10,jute | cotton | sisal,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,15310,14,dita | ivory tree | pond apple,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,15508,4,gold | silver | bronze,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,15598,17,pine | spruce | fir,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,15611,14,oak | maple | birch,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,15613,4,almond | avocado | grape,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,15790,3,maple | birch | elm,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,16096,17,sugar maple | paper birch | weeping willow,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,16120,7,willow | birch | pine,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,16152,3,Oak | Maple | Birch,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,16249,17,cedar | cedar | cedar,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,16414,13,lupine | indigo | kudzu,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,16467,7,mushroom | fern | daisy,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,16469,3,apple | carrot | potato,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,16864,2,blueberry bush | maple tree | pine tree,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,17047,1,oak | maple | pine,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,17248,1,apple | carrot | oak tree,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,17257,3,goldfish | rock | cloud,plant,no
+mistralai_Mistral-Small-24B-Instruct-2501,17361,1,oak tree | maple tree | pine tree,plant,yes
+mistralai_Mistral-Small-24B-Instruct-2501,17775,1,red rose | green tree | yellow sunflower,plant,yes
+moonshotai_Kimi-K2.5,62,3,falcon | salmon | cockroach,animal,yes
+moonshotai_Kimi-K2.5,357,5,oak tree | mushroom | bacteria,animal,no
+moonshotai_Kimi-K2.5,546,5,blue jay | cardinal | penguin,animal,yes
+moonshotai_Kimi-K2.5,658,16,whale | octopus | squid,animal,yes
+moonshotai_Kimi-K2.5,819,3,goldfish | trout | bass,animal,yes
+moonshotai_Kimi-K2.5,1066,8,starfish | sea urchin | sea cucumber,animal,yes
+moonshotai_Kimi-K2.5,1136,6,bacteria | amoeba | paramecium,animal,no
+moonshotai_Kimi-K2.5,1154,5,elephant | red tailed hawk | giant panda,animal,yes
+moonshotai_Kimi-K2.5,1261,9,dog | cat | elephant,animal,yes
+moonshotai_Kimi-K2.5,1551,16,brain | spinal cord | sciatic nerve,body_part,yes
+moonshotai_Kimi-K2.5,1725,6,oak tree | rose | fern,animal,no
+moonshotai_Kimi-K2.5,1943,4,eagle | elephant | cactus,animal,no
+moonshotai_Kimi-K2.5,2806,4,jellyfish | kangaroo | antelope,animal,yes
+moonshotai_Kimi-K2.5,2971,10,sloth | sea squirt | clownfish coral,animal,no
+moonshotai_Kimi-K2.5,3172,11,mongoose | butterfly | hedgehog,animal,yes
+moonshotai_Kimi-K2.5,3192,6,rose | oak | grass,animal,no
+moonshotai_Kimi-K2.5,3411,5,oak tree | rose flower | mushroom,animal,no
+moonshotai_Kimi-K2.5,3743,2,siberian tiger | American alligator | great white shark,animal,yes
+moonshotai_Kimi-K2.5,3852,6,tortoise | crocodile | lizard,animal,yes
+moonshotai_Kimi-K2.5,3947,2,salmon | bald eagle | red-tailed hawk,animal,yes
+moonshotai_Kimi-K2.5,3966,1,turkey vulture | egyptian vulture | common buzzard,animal,yes
+moonshotai_Kimi-K2.5,4020,4,claw | horn | feather,body_part,yes
+moonshotai_Kimi-K2.5,4032,6,stomata | lenticel | alveolus,body_part,no
+moonshotai_Kimi-K2.5,4288,17,fracture | fractured | crack,body_part,no
+moonshotai_Kimi-K2.5,4313,15,hoof | horn | beak,body_part,yes
+moonshotai_Kimi-K2.5,4348,18,spleen | kidney | heart,body_part,yes
+moonshotai_Kimi-K2.5,4368,1,femur | humerus | tibia,body_part,yes
+moonshotai_Kimi-K2.5,4450,5,hand | foot | knee,body_part,yes
+moonshotai_Kimi-K2.5,4458,2,finger | ear | elbow,body_part,yes
+moonshotai_Kimi-K2.5,4465,3,rib cage | lazy eye | white blood cell,body_part,no
+moonshotai_Kimi-K2.5,4779,3,battery | motor | light bulb,artifact,yes
+moonshotai_Kimi-K2.5,4784,2,battery | antenna | ignition coil,artifact,yes
+moonshotai_Kimi-K2.5,4875,2,sonnet | portrait | minimalism,artifact,no
+moonshotai_Kimi-K2.5,5184,20,knife | fork | plate,artifact,yes
+moonshotai_Kimi-K2.5,5224,18,shade | trade | blade,artifact,no
+moonshotai_Kimi-K2.5,5265,3,democracy | happiness | justice,artifact,no
+moonshotai_Kimi-K2.5,5506,13,swan | cave | ooze,artifact,no
+moonshotai_Kimi-K2.5,5516,6,happiness | theory | idea,artifact,no
+moonshotai_Kimi-K2.5,5652,7,mbira | tambourine | triangle,artifact,yes
+moonshotai_Kimi-K2.5,5653,17,violin | dulcimer | sousaphone,artifact,yes
+moonshotai_Kimi-K2.5,5757,6,rock | tree | ice,artifact,no
+moonshotai_Kimi-K2.5,5807,13,shoe | hat | glove,artifact,yes
+moonshotai_Kimi-K2.5,6347,17,milk bottle | water bottle | wine bottle,artifact,yes
+moonshotai_Kimi-K2.5,6359,20,sad | lid | rod,artifact,no
+moonshotai_Kimi-K2.5,6380,3,dining car | war chest | punt gun,artifact,no
+moonshotai_Kimi-K2.5,6396,14,styrofoam cup | boulder | fireworks,artifact,yes
+moonshotai_Kimi-K2.5,6543,13,aircraft carrier | oil tanker | pirate ship,artifact,yes
+moonshotai_Kimi-K2.5,6575,18,tank | armored car | ambulance,artifact,yes
+moonshotai_Kimi-K2.5,6606,7,carrack | galleon | galleass,artifact,yes
+moonshotai_Kimi-K2.5,6607,6,tank ship | bulk ship | research ship,artifact,no
+moonshotai_Kimi-K2.5,9334,3,liver | heart | tibia,body_part,yes
+moonshotai_Kimi-K2.5,9433,18,lower limb | head | thorax,body_part,yes
+moonshotai_Kimi-K2.5,9457,13,blood vessel | artery | vein,body_part,yes
+moonshotai_Kimi-K2.5,9596,1,antenna | whiskers | tentacle,body_part,yes
+moonshotai_Kimi-K2.5,9616,6,earlobe | fingernail | eyelash,body_part,yes
+moonshotai_Kimi-K2.5,9624,20,lung | spleen | intestine,body_part,yes
+moonshotai_Kimi-K2.5,9650,15,pons | medulla oblongata | dura mater,body_part,yes
+moonshotai_Kimi-K2.5,9670,8,heart | liver | pancreas,body_part,yes
+moonshotai_Kimi-K2.5,9949,1,radial artery | femoral artery | ulnar nerve,body_part,yes
+moonshotai_Kimi-K2.5,10074,20,kidney | face | hand,body_part,yes
+moonshotai_Kimi-K2.5,10237,9,meatloaf | sandwich | pudding,food,yes
+moonshotai_Kimi-K2.5,10529,8,eggs | flour | sugar,food,yes
+moonshotai_Kimi-K2.5,10838,15,sparkling water | mineral water | distilled water,food,no
+moonshotai_Kimi-K2.5,10858,2,chocolate cake | steak | sushi,food,yes
+moonshotai_Kimi-K2.5,10981,1,vanilla-chocolate swirl ice cream | spumoni ice cream | ice cream sandwich,food,yes
+moonshotai_Kimi-K2.5,10986,6,coconut | ice cream truck | almond milk,food,no
+moonshotai_Kimi-K2.5,10994,18,bread | water | juice,food,no
+moonshotai_Kimi-K2.5,11006,8,honey | bread | cheese,food,yes
+moonshotai_Kimi-K2.5,11016,6,juice concentrate | flour | eggs,food,yes
+moonshotai_Kimi-K2.5,11059,3,rock | book | car,food,no
+moonshotai_Kimi-K2.5,11199,10,flour | sugar | butter,food,yes
+moonshotai_Kimi-K2.5,11263,4,stone | water | shirt,food,no
+moonshotai_Kimi-K2.5,11376,2,plate | coin | tire,food,no
+moonshotai_Kimi-K2.5,11384,19,kidney beans | green beans | Brussels sprouts,food,yes
+moonshotai_Kimi-K2.5,11459,18,water | salt | sugar,food,no
+moonshotai_Kimi-K2.5,11697,5,brick | rock | sand,food,no
+moonshotai_Kimi-K2.5,11921,11,chair | book | pen,food,no
+moonshotai_Kimi-K2.5,12016,13,salt | pepper | yeast,food,yes
+moonshotai_Kimi-K2.5,12095,10,water | cabbage | gum,food,yes
+moonshotai_Kimi-K2.5,12377,5,steak | broccoli | rice,food,yes
+moonshotai_Kimi-K2.5,15245,4,rose | oak | wheat,plant,yes
+moonshotai_Kimi-K2.5,15310,15,lichen | oak | pine,plant,yes
+moonshotai_Kimi-K2.5,15508,7,ginkgo | magnolia | liverwort,plant,yes
+moonshotai_Kimi-K2.5,15598,9,dawn redwood | white cedar | coast redwood,plant,yes
+moonshotai_Kimi-K2.5,15611,1,Scots pine | Apple tree | Dandelion,plant,yes
+moonshotai_Kimi-K2.5,15613,7,mushroom | bacteria | virus,plant,no
+moonshotai_Kimi-K2.5,15790,9,moss | mushroom | algae,plant,no
+moonshotai_Kimi-K2.5,16096,5,daisy | fern | orchid,plant,yes
+moonshotai_Kimi-K2.5,16120,4,mushroom | yeast | moss,plant,no
+moonshotai_Kimi-K2.5,16152,9,balsam fir | douglas fir | fraser fir,plant,yes
+moonshotai_Kimi-K2.5,16249,7,daisy | oak tree | tulip,plant,yes
+moonshotai_Kimi-K2.5,16414,16,fern | tree | shrub,plant,yes
+moonshotai_Kimi-K2.5,16467,9,banana tree | palm tree | dandelion,plant,yes
+moonshotai_Kimi-K2.5,16469,7,bamboo chair | oak desk | pinecone,plant,no
+moonshotai_Kimi-K2.5,16864,5,moss | grass | bush,plant,yes
+moonshotai_Kimi-K2.5,17047,3,Sunflower | Tulip | Fern,plant,yes
+moonshotai_Kimi-K2.5,17248,1,jackfruit | cocoa tree | apple tree,plant,yes
+moonshotai_Kimi-K2.5,17257,5,pine tree | spruce | fern,plant,yes
+moonshotai_Kimi-K2.5,17361,5,oak | pine | elm,plant,yes
+moonshotai_Kimi-K2.5,17775,1,red foxglove | yellow rattle | white campion,plant,yes
+openai_gpt-oss-120b,62,2,honeybee | sea lion | komodo dragon,animal,yes
+openai_gpt-oss-120b,357,2,common octopus | garden snail | house spider,animal,yes
+openai_gpt-oss-120b,546,2,golden eagle | silverback gorilla | brown bear,animal,yes
+openai_gpt-oss-120b,658,2,rock | tree | car,animal,no
+openai_gpt-oss-120b,819,15,seal | crab | fox,animal,yes
+openai_gpt-oss-120b,1066,9,electric eel | lamprey | stingray,animal,yes
+openai_gpt-oss-120b,1136,1,bobtail squid | johnny darter | silver salmon,animal,yes
+openai_gpt-oss-120b,1154,5,bald eagle | rockhopper penguin | silver salmon,animal,yes
+openai_gpt-oss-120b,1261,18,king cobra | great white shark | giant octopus,animal,yes
+openai_gpt-oss-120b,1551,1,femur | mandible | liver,body_part,yes
+openai_gpt-oss-120b,1725,5,frog | sea otter | lion,animal,yes
+openai_gpt-oss-120b,1943,3,great barracuda | blue whale | stingray,animal,yes
+openai_gpt-oss-120b,2806,13,lioness | dogma | catnip,animal,no
+openai_gpt-oss-120b,2971,3,red fox | american beaver | common raccoon,animal,yes
+openai_gpt-oss-120b,3172,9,crab | lobster | shrimp,animal,yes
+openai_gpt-oss-120b,3192,1,eagle | cactus | blue whale,animal,no
+openai_gpt-oss-120b,3411,1,Cerulean warbler | Yellow warbler | American robin,animal,yes
+openai_gpt-oss-120b,3743,1,bald eagle | peregrine falcon | European robin,animal,yes
+openai_gpt-oss-120b,3852,3,run | blue | happiness,animal,no
+openai_gpt-oss-120b,3947,9,rabbit | chicken | platypus,animal,yes
+openai_gpt-oss-120b,3966,4,common octopus | earthworm | sea star,animal,yes
+openai_gpt-oss-120b,4020,6,mountain | river | computer,body_part,no
+openai_gpt-oss-120b,4032,1,trachea | alveoli | gill,body_part,yes
+openai_gpt-oss-120b,4288,1,enamel | tibia | meniscus,body_part,yes
+openai_gpt-oss-120b,4313,10,scapula | mandible | phalanx,body_part,yes
+openai_gpt-oss-120b,4348,2,apple | heart | piano,body_part,no
+openai_gpt-oss-120b,4368,3,oak tree | mountain | car,body_part,no
+openai_gpt-oss-120b,4450,3,hand | foot | knee,body_part,yes
+openai_gpt-oss-120b,4458,7,lion tail | elephant trunk | dog muzzle,body_part,yes
+openai_gpt-oss-120b,4465,11,femoral artery | thoracic cavity | axillary nerve,body_part,yes
+openai_gpt-oss-120b,4779,13,transistor | toggle switch | gearbox,artifact,yes
+openai_gpt-oss-120b,4784,14,resistor | capacitor | inductor,artifact,yes
+openai_gpt-oss-120b,4875,7,cappuccino | ballet | sushi,artifact,no
+openai_gpt-oss-120b,5184,1,Barometer | Thermometer | Oscilloscope,artifact,yes
+openai_gpt-oss-120b,5224,1,thermometer | ruler | spoon,artifact,yes
+openai_gpt-oss-120b,5265,8,chair | spoon | table,artifact,yes
+openai_gpt-oss-120b,5506,20,save | open | close,artifact,no
+openai_gpt-oss-120b,5516,15,electrical plug | syringe | apple,artifact,no
+openai_gpt-oss-120b,5652,1,guitar | violin | harp,artifact,yes
+openai_gpt-oss-120b,5653,6,bell | paper | rock,artifact,no
+openai_gpt-oss-120b,5757,7,rubber mallet | bronze chisel | titanium screwdriver,artifact,yes
+openai_gpt-oss-120b,5807,10,run race | paint brush | drive nail,artifact,no
+openai_gpt-oss-120b,6347,6,desktop computer | mountain range | office building,artifact,no
+openai_gpt-oss-120b,6359,7,pencil case | wine bottle | couch,artifact,yes
+openai_gpt-oss-120b,6380,17,food processor | car key | garden gnome,artifact,yes
+openai_gpt-oss-120b,6396,8,stone wall | paperclip | trash can,artifact,yes
+openai_gpt-oss-120b,6543,4,tank | rifle | spear,artifact,yes
+openai_gpt-oss-120b,6575,20,convict ship | colonist ship | passenger ship,artifact,yes
+openai_gpt-oss-120b,6606,6,whaler | catboat | dogger,artifact,no
+openai_gpt-oss-120b,6607,1,friendship | leadership | airplane,artifact,no
+openai_gpt-oss-120b,9334,9,femur | skeletal muscle | connective tissue,body_part,no
+openai_gpt-oss-120b,9433,1,biceps brachii | femur | larynx,body_part,yes
+openai_gpt-oss-120b,9457,1,biceps brachii | gluteus maximus | triceps brachii,body_part,yes
+openai_gpt-oss-120b,9596,1,antenna | tusk | fin,body_part,yes
+openai_gpt-oss-120b,9616,13,pulmonary artery | gluteus maximus | thyroid gland,body_part,yes
+openai_gpt-oss-120b,9624,3,proprioceptor | baroreceptor | chemoreceptor,body_part,yes
+openai_gpt-oss-120b,9650,3,oak tree | airplane | mountain,body_part,no
+openai_gpt-oss-120b,9670,3,femur bone | liver | tibialis anterior muscle,body_part,yes
+openai_gpt-oss-120b,9949,3,cardiac muscle | brain stem | blue sky,body_part,no
+openai_gpt-oss-120b,10074,9,skin | brain | heart,body_part,yes
+openai_gpt-oss-120b,10237,15,cream | wine | tomato,food,no
+openai_gpt-oss-120b,10529,1,cane sugar | powdered sugar | rock candy,food,yes
+openai_gpt-oss-120b,10838,2,rock | chair | oxygen,food,no
+openai_gpt-oss-120b,10858,1,crème brûlée | panna cotta | gelatin jelly,food,yes
+openai_gpt-oss-120b,10981,3,apple | grilled chicken | white rice,food,yes
+openai_gpt-oss-120b,10986,1,chocolate ice cream | mint ice cream | coffee ice cream,food,yes
+openai_gpt-oss-120b,10994,1,gelato | sorbet | popsicle,food,yes
+openai_gpt-oss-120b,11006,1,gelatin | sorbet | hot chocolate,food,yes
+openai_gpt-oss-120b,11016,2,Red | Blue | Green,food,no
+openai_gpt-oss-120b,11059,5,taco | sword | flute,food,no
+openai_gpt-oss-120b,11199,15,breakfast burrito | pancakes | granola bar,food,yes
+openai_gpt-oss-120b,11263,4,water | salt | plastic,food,no
+openai_gpt-oss-120b,11376,14,gelatin | sucralose | cornstarch,food,yes
+openai_gpt-oss-120b,11384,3,ice cream | fruit salad | sushi,food,yes
+openai_gpt-oss-120b,11459,13,tomato sauce | pasta | butter,food,yes
+openai_gpt-oss-120b,11697,1,ribeye steak | pork chop | chicken breast,food,yes
+openai_gpt-oss-120b,11921,5,pie | soup | egg,food,yes
+openai_gpt-oss-120b,12016,6,boiled egg | steamed rice | raw carrot,food,yes
+openai_gpt-oss-120b,12095,5,bread | cheese | juice,food,no
+openai_gpt-oss-120b,12377,4,rock | tree | river,food,no
+openai_gpt-oss-120b,15245,2,pepper | mammal | letter,plant,no
+openai_gpt-oss-120b,15310,7,mangrove | papaya | breadfruit,plant,yes
+openai_gpt-oss-120b,15508,5,basil | rosemary | thyme,plant,yes
+openai_gpt-oss-120b,15598,2,white oak | sugar maple | paper birch,plant,yes
+openai_gpt-oss-120b,15611,1,Bristlecone pine | American elm | Sugar maple,plant,yes
+openai_gpt-oss-120b,15613,1,apple | banana | pear,plant,no
+openai_gpt-oss-120b,15790,6,Goldfish | Granite | Aluminum,plant,no
+openai_gpt-oss-120b,16096,3,house cat | golden retriever | humpback whale,plant,no
+openai_gpt-oss-120b,16120,17,golden wattle | golden maple | golden oak,plant,yes
+openai_gpt-oss-120b,16152,5,maidenhair fern | club moss | sphagnum moss,plant,yes
+openai_gpt-oss-120b,16249,7,tomato | lettuce | rose,plant,yes
+openai_gpt-oss-120b,16414,10,azalea | zinnia | blazing star,plant,yes
+openai_gpt-oss-120b,16467,3,Taraxacum officinale (dandelion) | Rosa rugosa (rose shrub) | Triticum aestivum (wheat),plant,yes
+openai_gpt-oss-120b,16469,20,oak leaf | pine bark | fir root,plant,yes
+openai_gpt-oss-120b,16864,16,white elm | black maple | green pine,plant,yes
+openai_gpt-oss-120b,17047,1,desert rose | tundra fir | urban oak,plant,yes
+openai_gpt-oss-120b,17248,3,rock | computer | dog,plant,no
+openai_gpt-oss-120b,17257,11,balsam fir | black walnut | white oak,plant,yes
+openai_gpt-oss-120b,17361,4,poison ivy | oleander | kudzu,plant,yes
+openai_gpt-oss-120b,17775,18,apple | banana | cherry,plant,no
+openai_gpt-oss-20b,62,3,koala | crocodile | lion,animal,yes
+openai_gpt-oss-20b,357,1,Pekingese | Pygmy marmoset | Borneo pygmy flying squirrel,animal,yes
+openai_gpt-oss-20b,546,6,mouse | shrimp | jellyfish,animal,yes
+openai_gpt-oss-20b,658,3,octopus | spider | dog,animal,yes
+openai_gpt-oss-20b,819,4,lion | cat | rabbit,animal,yes
+openai_gpt-oss-20b,1066,12,lamprey | flounder | octopus,animal,yes
+openai_gpt-oss-20b,1136,19,green turtle | blue jay | beach clam,animal,yes
+openai_gpt-oss-20b,1154,13,chimpanzee | dog | lizard,animal,yes
+openai_gpt-oss-20b,1261,2,gray-footed albatross | red-eyed tree frog | red panda,animal,yes
+openai_gpt-oss-20b,1551,6,calcified cartilage | skin | tendon,body_part,no
+openai_gpt-oss-20b,1725,10,manta ray | salmon | lizard,animal,yes
+openai_gpt-oss-20b,1943,11,tiger | crocodile | dolphin,animal,yes
+openai_gpt-oss-20b,2806,2,penguin | kangaroo | lion,animal,yes
+openai_gpt-oss-20b,2971,1,ruby-throated hummingbird | scarlet ibis | red-billed chough,animal,yes
+openai_gpt-oss-20b,3172,2,Atlantic salmon | kangaroo | red panda,animal,yes
+openai_gpt-oss-20b,3192,4,eagle | sparrow | albatross,animal,yes
+openai_gpt-oss-20b,3411,1,American goldfinch | House sparrow | Black‑capped chickadee,animal,yes
+openai_gpt-oss-20b,3743,2,American robin | Bald eagle | Eurasian sparrowhawk,animal,yes
+openai_gpt-oss-20b,3852,6,apple | orchid | cactus,animal,no
+openai_gpt-oss-20b,3947,1,peregrine falcon | black vulture | barn owl,animal,yes
+openai_gpt-oss-20b,3966,16,green iguana | crocodile | frog,animal,yes
+openai_gpt-oss-20b,4020,8,spinal cord | eyelid | spleen,body_part,yes
+openai_gpt-oss-20b,4032,1,trachea | air sac | liver,body_part,yes
+openai_gpt-oss-20b,4288,8,clavicle | cuboid bone | dentine,body_part,no
+openai_gpt-oss-20b,4313,5,clavicle | sphenoid | gladiolus,body_part,no
+openai_gpt-oss-20b,4348,12,metatarsal | scapula | ulna,body_part,yes
+openai_gpt-oss-20b,4368,9,femur | cranium | rib,body_part,yes
+openai_gpt-oss-20b,4450,20,bat | fly | mouse,body_part,no
+openai_gpt-oss-20b,4458,2,human nose | lion's mane | stork snout,body_part,yes
+openai_gpt-oss-20b,4465,1,tongue | heart | liver,body_part,yes
+openai_gpt-oss-20b,4779,12,key | plastic spoon | copper wire,artifact,yes
+openai_gpt-oss-20b,4784,7,capacitor | magnet | metal rod,artifact,yes
+openai_gpt-oss-20b,4875,7,harmony | robot | story,artifact,no
+openai_gpt-oss-20b,5184,11,rock | screwdriver | banana,artifact,no
+openai_gpt-oss-20b,5224,13,bolt | nut | violin,artifact,yes
+openai_gpt-oss-20b,5265,1,clarinet | horn | guitar,artifact,yes
+openai_gpt-oss-20b,5506,18,panel | slider | label,artifact,yes
+openai_gpt-oss-20b,5516,15,LED | speaker | thermometer,artifact,yes
+openai_gpt-oss-20b,5652,2,ukulele | cello | harp,artifact,yes
+openai_gpt-oss-20b,5653,1,bassoon | tuba | soprano,artifact,no
+openai_gpt-oss-20b,5757,14,bicycle | book | globe,artifact,yes
+openai_gpt-oss-20b,5807,19,crowbar | glue stick | pencil,artifact,yes
+openai_gpt-oss-20b,6347,11,purse | can | skull,artifact,no
+openai_gpt-oss-20b,6359,4,money bag | handbag | bag of holding,artifact,no
+openai_gpt-oss-20b,6380,8,coin purse | mailbox | waterglass,artifact,yes
+openai_gpt-oss-20b,6396,15,cup | rock | shovel,artifact,no
+openai_gpt-oss-20b,6543,1,destroyer | submarine | airplane,artifact,yes
+openai_gpt-oss-20b,6575,13,motorcycle | hot air balloon | zipline,artifact,yes
+openai_gpt-oss-20b,6606,9,airplane | crane | ironclad,artifact,yes
+openai_gpt-oss-20b,6607,15,chair | table | desk,artifact,yes
+openai_gpt-oss-20b,9334,2,apple | chair | computer,body_part,no
+openai_gpt-oss-20b,9433,1,biceps brachii | gluteus maximus | diaphragm,body_part,yes
+openai_gpt-oss-20b,9457,3,apple | water | human heart,body_part,no
+openai_gpt-oss-20b,9596,9,heart | liver | kidney,body_part,yes
+openai_gpt-oss-20b,9616,9,cochlear hair cells | fungiform papilla taste bud | vestibular hair cell,body_part,yes
+openai_gpt-oss-20b,9624,13,retina | muscle | fat,body_part,no
+openai_gpt-oss-20b,9650,5,nasal mucosa | pharyngeal mucosa | liver,body_part,yes
+openai_gpt-oss-20b,9670,11,cat eye | tree trunk | golden retriever tail,body_part,no
+openai_gpt-oss-20b,9949,10,superior vena cava | inferior vena cava | common carotid artery,body_part,yes
+openai_gpt-oss-20b,10074,2,heart | kidney | lung,body_part,yes
+openai_gpt-oss-20b,10237,2,chili | miso | rice,food,yes
+openai_gpt-oss-20b,10529,13,tea | banana | egg,food,yes
+openai_gpt-oss-20b,10838,8,Rock | Water | Butter,food,no
+openai_gpt-oss-20b,10858,15,stone | apple | coffee,food,no
+openai_gpt-oss-20b,10981,4,rock | pencil | car,food,no
+openai_gpt-oss-20b,10986,4,blueberry ice cream | eggplant ice cream | onion ice cream,food,yes
+openai_gpt-oss-20b,10994,7,chocolate chip cookie | pretzel | apple,food,yes
+openai_gpt-oss-20b,11006,7,flan | panna cotta | gelato,food,yes
+openai_gpt-oss-20b,11016,6,bottle | cucumber | orange,food,no
+openai_gpt-oss-20b,11059,2,rice | bread | water,food,no
+openai_gpt-oss-20b,11199,20,steak | bread | milk,food,yes
+openai_gpt-oss-20b,11263,7,soup | coffee | ice cream,food,no
+openai_gpt-oss-20b,11376,3,pretzel | apple | chocolate bar,food,yes
+openai_gpt-oss-20b,11384,18,tofu | carrot | ice cream,food,yes
+openai_gpt-oss-20b,11459,1,peanut butter | tomato ketchup | mustard,food,yes
+openai_gpt-oss-20b,11697,2,chicken breast | pork loin | fish fillet,food,yes
+openai_gpt-oss-20b,11921,4,rhythm | crypt | fly,food,no
+openai_gpt-oss-20b,12016,13,bottled water | plastic bag | canned soup,food,no
+openai_gpt-oss-20b,12095,2,apple | egg | chair,food,no
+openai_gpt-oss-20b,12377,9,rock | computer | city,food,no
+openai_gpt-oss-20b,15245,20,cactus | pine | moss,plant,yes
+openai_gpt-oss-20b,15310,3,daisy | violet | iris,plant,yes
+openai_gpt-oss-20b,15508,5,lion | golden retriever | tiger,plant,no
+openai_gpt-oss-20b,15598,10,quercus robur | juniperus communis | betula pendula,plant,yes
+openai_gpt-oss-20b,15611,3,wheat | corn | tomato,plant,yes
+openai_gpt-oss-20b,15613,17,cafe | biscuit | prism,plant,no
+openai_gpt-oss-20b,15790,7,oak | maple | cactus,plant,yes
+openai_gpt-oss-20b,16096,8,Japanese cedar | Olive tree | Douglas fir,plant,yes
+openai_gpt-oss-20b,16120,11,apple tree | sugar maple | cedar tree,plant,yes
+openai_gpt-oss-20b,16152,1,Scots pine | Eucalyptus | American chestnut,plant,yes
+openai_gpt-oss-20b,16249,4,pine | beech | bamboo,plant,yes
+openai_gpt-oss-20b,16414,4,black spruce | red maple | ash tree,plant,yes
+openai_gpt-oss-20b,16467,2,rose | cactus | bamboo,plant,yes
+openai_gpt-oss-20b,16469,6,straw hat | tiger river | piano room,plant,no
+openai_gpt-oss-20b,16864,9,mold | yeast | mushroom,plant,no
+openai_gpt-oss-20b,17047,4,mangrove tree | desert sage | red cedar,plant,yes
+openai_gpt-oss-20b,17248,3,carrot | onion | coffee bean,plant,no
+openai_gpt-oss-20b,17257,2,blueberry | tulip | oak,plant,yes
+openai_gpt-oss-20b,17361,2,balsam magnolia | sweet bay | bald cypress,plant,yes
+openai_gpt-oss-20b,17775,18,blue-bell | red‑crowned pine | tiger‑lion tree,plant,no
+zai-org_GLM-5,62,3,oak tree | rose | mushroom,animal,no
+zai-org_GLM-5,357,5,rock | water | cloud,animal,no
+zai-org_GLM-5,546,3,lion | eagle | elephant,animal,yes
+zai-org_GLM-5,658,1,salmon | dolphin | spider,animal,yes
+zai-org_GLM-5,819,5,oak tree | rose | mushroom,animal,no
+zai-org_GLM-5,1066,2,shark | dolphin | whale,animal,yes
+zai-org_GLM-5,1136,4,rock | apple | car,animal,no
+zai-org_GLM-5,1154,1,salmon | great white shark | seahorse,animal,yes
+zai-org_GLM-5,1261,6,rock | car | book,animal,no
+zai-org_GLM-5,1551,13,corazón | hígado | cerebro,body_part,yes
+zai-org_GLM-5,1725,5,oak tree | rose | mushroom,animal,no
+zai-org_GLM-5,1943,4,spider | eagle | human,animal,yes
+zai-org_GLM-5,2806,18,catfish | dogfish | honeybee,animal,yes
+zai-org_GLM-5,2971,17,dodo | dinosaur | woolly mammoth,animal,yes
+zai-org_GLM-5,3172,8,butterfly | spider | earthworm,animal,yes
+zai-org_GLM-5,3192,3,rose | mushroom | bacteria,animal,no
+zai-org_GLM-5,3411,6,American robin | Yellow warbler | Bald eagle,animal,yes
+zai-org_GLM-5,3743,2,robin | penguin | sparrow,animal,yes
+zai-org_GLM-5,3852,8,octopus | earthworm | butterfly,animal,yes
+zai-org_GLM-5,3947,2,sparrow | robin | chicken,animal,yes
+zai-org_GLM-5,3966,3,deer | sparrow | shark,animal,yes
+zai-org_GLM-5,4020,1,heart | kidney | brain,body_part,yes
+zai-org_GLM-5,4032,13,cat | lung | kidney,body_part,no
+zai-org_GLM-5,4288,1,femur | enamel | muscle,body_part,yes
+zai-org_GLM-5,4313,13,iris | lens | uvula,body_part,yes
+zai-org_GLM-5,4348,5,disease | injury | pain,body_part,no
+zai-org_GLM-5,4368,7,blood | saliva | urine,body_part,no
+zai-org_GLM-5,4450,5,hair | fingernail | tooth,body_part,yes
+zai-org_GLM-5,4458,5,mountain peak | river bed | flower petal,body_part,no
+zai-org_GLM-5,4465,6,eyeball | fingernail | earlobe,body_part,yes
+zai-org_GLM-5,4779,6,capacitor | resistor | diode,artifact,yes
+zai-org_GLM-5,4784,15,cat | ant | art,artifact,no
+zai-org_GLM-5,4875,16,sushi | karaoke | pizza,artifact,yes
+zai-org_GLM-5,5184,11,scale (measuring weight) | balance | weighing machine,artifact,yes
+zai-org_GLM-5,5224,5,rock | mountain | river,artifact,no
+zai-org_GLM-5,5265,3,hammer | screwdriver | wrench,artifact,yes
+zai-org_GLM-5,5506,15,byte | hardware | virus,artifact,yes
+zai-org_GLM-5,5516,6,radiator | regulator | insulator,artifact,yes
+zai-org_GLM-5,5652,8,spoon | clarinet | desk,artifact,yes
+zai-org_GLM-5,5653,20,rock | pillow | glass,artifact,no
+zai-org_GLM-5,5757,8,skyscraper | computer | shampoo,artifact,yes
+zai-org_GLM-5,5807,18,shirt | hat | coat,artifact,yes
+zai-org_GLM-5,6347,17,lag | tag | rag,artifact,yes
+zai-org_GLM-5,6359,1,handbag | tea bag | sleeping bag,artifact,yes
+zai-org_GLM-5,6380,11,horse | apple | river,artifact,no
+zai-org_GLM-5,6396,18,desk | chair | lamp,artifact,yes
+zai-org_GLM-5,6543,1,spaceship | relationship | warship,artifact,no
+zai-org_GLM-5,6575,17,government | university | corporation,artifact,no
+zai-org_GLM-5,6606,9,water | sand | rice,artifact,no
+zai-org_GLM-5,6607,15,battleship | cruise ship | yacht,artifact,yes
+zai-org_GLM-5,9334,12,levator scapulae | flexor digitorum | extensor carpi,body_part,yes
+zai-org_GLM-5,9433,7,kidney | spleen | pancreas,body_part,yes
+zai-org_GLM-5,9457,7,flexor carpi radialis | extensor digitorum | trapezius,body_part,yes
+zai-org_GLM-5,9596,4,screwdriver | mountain | melody,body_part,no
+zai-org_GLM-5,9616,4,leaf | antenna | petal,body_part,no
+zai-org_GLM-5,9624,6,heart | brain | kidney,body_part,yes
+zai-org_GLM-5,9650,4,arm | leg | head,body_part,yes
+zai-org_GLM-5,9670,9,thyroid gland | salivary gland | pancreas,body_part,yes
+zai-org_GLM-5,9949,10,eye | patella | vertebra,body_part,yes
+zai-org_GLM-5,10074,1,femoral artery | jugular vein | coronary artery,body_part,yes
+zai-org_GLM-5,10237,6,cookie | pizza | tea,food,no
+zai-org_GLM-5,10529,5,black pepper | flour | olive oil,food,yes
+zai-org_GLM-5,10838,8,soda | sparkling water | diet coke,food,no
+zai-org_GLM-5,10858,2,mochi ice cream | gulab jamun | mango sticky rice,food,yes
+zai-org_GLM-5,10981,7,honey | peanut butter | cheese,food,yes
+zai-org_GLM-5,10986,13,soup | burger | donut,food,yes
+zai-org_GLM-5,10994,2,chocolate cake | apple pie | bread pudding,food,yes
+zai-org_GLM-5,11006,6,sweet tea | hot chocolate | fruit smoothie,food,yes
+zai-org_GLM-5,11016,2,chocolate gelato | frozen yogurt | sorbet,food,yes
+zai-org_GLM-5,11059,11,ice cubes | snow cone | popsicle,food,no
+zai-org_GLM-5,11199,13,fruit tart | pecan pie | plum cake,food,yes
+zai-org_GLM-5,11263,16,potato | meat | bread,food,yes
+zai-org_GLM-5,11376,2,apple | cookie | cheesecake,food,yes
+zai-org_GLM-5,11384,4,rock | car | freedom,food,no
+zai-org_GLM-5,11459,8,strawberry jam | dill pickles | hot sauce,food,yes
+zai-org_GLM-5,11697,4,table | book | shirt,food,no
+zai-org_GLM-5,11921,2,meat | apple | water,food,no
+zai-org_GLM-5,12016,12,carrot | shrimp | melon,food,yes
+zai-org_GLM-5,12095,11,apple | chicken | beef,food,yes
+zai-org_GLM-5,12377,5,apple | rice | steak,food,yes
+zai-org_GLM-5,15245,6,maple tree | grass | cactus,plant,yes
+zai-org_GLM-5,15310,10,sunflower | bamboo | orchid,plant,yes
+zai-org_GLM-5,15508,3,sugar maple | redwood | poison ivy,plant,yes
+zai-org_GLM-5,15598,2,sugar maple | rose | golden retriever,plant,no
+zai-org_GLM-5,15611,2,rose | tulip | fern,plant,yes
+zai-org_GLM-5,15613,13,grape | melon | lemon,plant,yes
+zai-org_GLM-5,15790,19,desk | chair | stool,plant,no
+zai-org_GLM-5,16096,4,algae | lily | cactus,plant,yes
+zai-org_GLM-5,16120,1,red maple | white oak | blackberry,plant,yes
+zai-org_GLM-5,16152,4,tulip | fern | seaweed,plant,yes
+zai-org_GLM-5,16249,12,stone | brick | cloud,plant,no
+zai-org_GLM-5,16414,2,cat | dog | mouse,plant,no
+zai-org_GLM-5,16467,1,oak | juniper | Douglas fir,plant,yes
+zai-org_GLM-5,16469,9,tree | bush | flower,plant,yes
+zai-org_GLM-5,16864,7,fern | tomato | bamboo,plant,yes
+zai-org_GLM-5,17047,12,moss | liverwort | hornwort,plant,yes
+zai-org_GLM-5,17248,6,dog | cat | bird,plant,no
+zai-org_GLM-5,17257,11,peat moss | spanish moss | reindeer moss,plant,no
+zai-org_GLM-5,17361,7,mushroom | seaweed | bacteria,plant,no
+zai-org_GLM-5,17775,16,moss | fern | seaweed,plant,no
